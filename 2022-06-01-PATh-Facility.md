@@ -59,10 +59,9 @@ Marking a monumental moment for the PATh Project, the PATh Facility provides ded
 
 To hear more about the PATh Facility, listen to Brian Bockelman’s talk from the 2022 OSG All-Hands Meeting in March:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/47EQu_vCdRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/47EQu_vCdRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 … 
 
-Request credits for the PATh Facility by [contacting NSF](https://www.nsf.gov/pubs/2022/nsf22051/nsf22051.jsp). 
-PATh Research Computing Facilitators are here to help –– please reach out to mailto:credit-accounts@path-cc.io with questions about PATh resources, using HTC, or estimating credit needs. 
-Learn more about the [PATh Facility](https://path-cc.io/facility/), [credit accounts](https://path-cc.io/services/credit-accounts/), and view the [2022 Charge Listing](https://path-cc.io/credit-account-charges/).
+*Request credits for the PATh Facility by [contacting NSF](https://www.nsf.gov/pubs/2022/nsf22051/nsf22051.jsp). PATh Research Computing Facilitators are here to help –– please reach out to mailto:credit-accounts@path-cc.io with questions about PATh resources, using HTC, or estimating credit needs. 
+Learn more about the [PATh Facility](https://path-cc.io/facility/), [credit accounts](https://path-cc.io/services/credit-accounts/), and view the [2022 Charge Listing](https://path-cc.io/credit-account-charges/).*
