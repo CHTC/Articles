@@ -12,14 +12,14 @@ publish_on:
 canonical_url: https://osg-htc.org/spotlights/PATh-Facility.html
 
 image:
-  path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/PATh-Facility-Map.jpg"
-  alt: Map of the PATh Facility sites
+  path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/PATh-Facility-Hardware.jpg"
+  alt: PATh Facility hardware
   
 description: Researchers can now request credits on the PATh Facility, the PATh project’s new resource intended for distributed high throughput computing workflows supporting NSF science.
 excerpt: Researchers can now request credits on the PATh Facility, the PATh project’s new resource intended for distributed high throughput computing workflows supporting NSF science.
 
-card_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/PATh-Facility-Map.jpg"
-card_alt: Map of the PATh Facility sites
+card_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/PATh-Facility-Hardware.jpg"
+card_alt: PATh Facility hardware
 
 ---
 
