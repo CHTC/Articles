@@ -45,11 +45,6 @@ banner_alt: Arrielle C. Opotowsky, a 2021 Ph.D. graduate from the University of 
 
   To test whether this “fast measurement” could expedite a nuclear forensics investigation compared to a “slow measurement,” Opotowsky created a workflow and compared the two measurements.
 
-  <figure class="figure float-end" style="margin-left: 1em; width: 350px;">
-  <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/Opotowsky-workflow.png' class="figure-img img-fluid rounded" alt="Opotowsky's ML-based workflow" width="350px">
-  <figcaption class="figure-caption">Opotowsky's ML-based workflow<br/></figcaption>
-</figure>
-
   While Opotowsky was a graduate student working on this problem, the workflow she created was running on her personal computer and suddenly stopped working. In a panic, she went to her advisor, [Paul Wilson](https://directory.engr.wisc.edu/ep/faculty/wilson_paul), for help, and he pointed her to the UW-Madison Center for High Throughput Computing (CHTC).
 
   CHTC Research Computing Facilitators came to her aid, and “the support was phenomenal – there was a one-on-one introduction and a tutorial and incredible help via emails and office hours…I had a ton of help along the way.”
