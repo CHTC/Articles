@@ -32,8 +32,8 @@ banner_alt: Arrielle C. Opotowsky, a 2021 Ph.D. graduate from the University of 
   <figcaption class="figure-caption">Photo by Dan Myers <a href="https://unsplash.com/photos/xXbQIrWH2_A">on Unsplash.</a><br/></figcaption>
 </figure>
 
-  <figure class="figure float-end" style="margin-left: 1em; width: 350px;">
-  <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/Opotowsky-headshot.png' class="figure-img img-fluid rounded" alt="Arrielle C. Opotowsky, 2021 Ph.D. graduate from the University of Wisconsin-Madison's Department of Engineering Physics" width="350px">
+  <figure class="figure float-end" style="margin-left: 1em; width: 250px;">
+  <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/Opotowsky-headshot.png' class="figure-img img-fluid rounded" alt="Arrielle C. Opotowsky, 2021 Ph.D. graduate from the University of Wisconsin-Madison's Department of Engineering Physics" width="250px">
   <figcaption class="figure-caption">Arrielle C. Opotowsky, 2021 Ph.D. graduate from the University of Wisconsin-Madison's Department of Engineering Physics<br/></figcaption>
 </figure>
   
