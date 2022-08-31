@@ -11,7 +11,7 @@ canonical_url: https://osg-htc.org/spotlights/OSG-User-School-Concludes.html
 
 description: After a week of participating in the OSG User School 60+ students are being released to use impact research
     across the globe. In this one week event, students learn to run large-scale computing workloads at their
-    campus or using the national-scale OSPool provided by the OSG Consortium. 
+git p    campus or using the national-scale OSPool provided by the OSG Consortium. 
 
 
 
