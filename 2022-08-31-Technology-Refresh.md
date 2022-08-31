@@ -48,7 +48,7 @@ take advantage of servers running CentOS Stream 8. Details on user actions neede
 - 157 servers with 128 cores / 256 job slots using the AMD Epyc 7763 processor
 - 512 GB RAM per server
 
-###### PowerEdge XE8545
+##### PowerEdge XE8545
 
 - 10 servers, each with four A100 SXM4 80GB GPU cards
 - 128 cores per server
