@@ -5,7 +5,8 @@ author: Hannah Cheren
 
 publish_on:
   - path
-  - osg
+  - htcondor
+  - chtc
 
 type: news
 
@@ -18,10 +19,8 @@ image:
 description: Summary of Corissa Runde's article from the UW-Madison Department of Information Technology website.
 excerpt: Summary of Corissa Runde's article from the UW-Madison Department of Information Technology website.
 
-    This year five students from Makerere University in Uganda and the University Of Sciences, Techniques, and Technologies of Bamako in Mali, Africa, participated as a part of The U.S. National Institute of Allergy and Infectious Diseases (NIAID) and the African Centers for Excellence in Bioinformatics and Data-Intensive Science (ACE) partnership program.
-
-card_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/NIAID_students.jpeg"
-card_alt: Christina Koch stands with NIAID students attending the OSG user school.
+card_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/doit-summary-article.jpeg"
+card_alt: Image from the original article posted by the UW–⁠Madison Information Technology department.
 ---
   ***Original article posted by Corissa Runde on September 21, 2022, on UW-Madison’s Department of Information Technology website.***
 
