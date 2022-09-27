@@ -12,8 +12,8 @@ type: news
 canonical_url: "https://osg-htc.org/spotlights/NIAID-ACE-students-attend-OSG-User-School.md.html"
 
 image:
-    path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/NIAID_students.jpeg"
-    alt: Christina Koch stands with NIAID students attending the OSG user school.
+    path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/doit-summary-article.jpeg"
+    alt: Image from the original article posted by the UW–⁠Madison Information Technology department.
 
 description: |
     This past July, the OSG User School 2022 welcomed students from across the globe to learn how to use high-throughput computing (HTC) in their scientific research.
