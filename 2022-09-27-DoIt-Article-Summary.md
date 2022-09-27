@@ -1,7 +1,7 @@
 ---
 title: NIAID/ACE students attend this year’s OSG User School 2022
 
-author: Mandy Gorski and Hannah Cheren
+author: Hannah Cheren
 
 publish_on:
   - path
