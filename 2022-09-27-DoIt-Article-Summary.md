@@ -1,16 +1,15 @@
 ---
-title: Summary of Solving for the future: Investment, new coalition levels up research computing infrastructure at UW–Madison
+title: NIAID/ACE students attend this year’s OSG User School 2022
 
-author: Hannah Cheren
+author: Mandy Gorski and Hannah Cheren
 
 publish_on:
-  - htcondor
   - path
-  - chtc
+  - osg
 
 type: news
 
-canonical_url: "https://chtc.cs.wisc.edu/DoIt-Article-Summary.htm"
+canonical_url: "https://osg-htc.org/spotlights/NIAID-ACE-students-attend-OSG-User-School.md.html"
 
 image:
     path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/NIAID_students.jpeg"
