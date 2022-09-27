@@ -7,23 +7,26 @@ publish_on:
   - htcondor
   - path
   - chtc
-  
-type: news 
 
-canonical_url: https://chtc.cs.wisc.edu/DoIt-Article-Summary.html
+type: news
+
+canonical_url: "https://chtc.cs.wisc.edu/DoIt-Article-Summary.htm"
 
 image:
-  path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/doit-summary-article.jpeg"
-  alt: Image from the original article posted by the UW–⁠Madison Information Technology department.
-  
-description: <This is used as a link description when this article is linked>
-excerpt: Image from the original article posted by the UW–⁠Madison Information Technology department.
+    path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/NIAID_students.jpeg"
+    alt: Christina Koch stands with NIAID students attending the OSG user school.
 
-card_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/doit-summary-article.jpeg"
-card_alt: Image from the original article posted by the UW–⁠Madison Information Technology department.
+description: |
+    This past July, the OSG User School 2022 welcomed students from across the globe to learn how to use high-throughput computing (HTC) in their scientific research.
+    
+    This year five students from Makerere University in Uganda and the University Of Sciences, Techniques, and Technologies of Bamako in Mali, Africa, participated as a part of The U.S. National Institute of Allergy and Infectious Diseases (NIAID) and the African Centers for Excellence in Bioinformatics and Data-Intensive Science (ACE) partnership program.
+excerpt: |
+    This past July, the OSG User School 2022 welcomed students from across the globe to learn how to use high-throughput computing (HTC) in their scientific research.
 
-banner_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/doit-summary-article.jpeg"
-banner_alt: Image from the original article posted by the UW–⁠Madison Information Technology department.
+    This year five students from Makerere University in Uganda and the University Of Sciences, Techniques, and Technologies of Bamako in Mali, Africa, participated as a part of The U.S. National Institute of Allergy and Infectious Diseases (NIAID) and the African Centers for Excellence in Bioinformatics and Data-Intensive Science (ACE) partnership program.
+
+card_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/NIAID_students.jpeg"
+card_alt: Christina Koch stands with NIAID students attending the OSG user school.
 ---
   ***Original article posted by Corissa Runde on September 21, 2022, on UW-Madison’s Department of Information Technology website.***
 
