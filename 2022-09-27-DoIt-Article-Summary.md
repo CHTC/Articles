@@ -15,12 +15,8 @@ image:
     path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/doit-summary-article.jpeg"
     alt: Image from the original article posted by the UW–⁠Madison Information Technology department.
 
-description: |
-    This past July, the OSG User School 2022 welcomed students from across the globe to learn how to use high-throughput computing (HTC) in their scientific research.
-    
-    This year five students from Makerere University in Uganda and the University Of Sciences, Techniques, and Technologies of Bamako in Mali, Africa, participated as a part of The U.S. National Institute of Allergy and Infectious Diseases (NIAID) and the African Centers for Excellence in Bioinformatics and Data-Intensive Science (ACE) partnership program.
-excerpt: |
-    This past July, the OSG User School 2022 welcomed students from across the globe to learn how to use high-throughput computing (HTC) in their scientific research.
+description: Summary of Corissa Runde's article "Solving for the future: Investment, new coalition levels up research computing infrastructure at UW–Madison" from the UW-Madison Department of Information Technology website.
+excerpt: Summary of Corissa Runde's article "Solving for the future: Investment, new coalition levels up research computing infrastructure at UW–Madison" from the UW-Madison Department of Information Technology website.
 
     This year five students from Makerere University in Uganda and the University Of Sciences, Techniques, and Technologies of Bamako in Mali, Africa, participated as a part of The U.S. National Institute of Allergy and Infectious Diseases (NIAID) and the African Centers for Excellence in Bioinformatics and Data-Intensive Science (ACE) partnership program.
 
