@@ -1,5 +1,6 @@
 ---
-title: Summary of Solving for the future
+title: Summary of Solving for the future; Investment, new coalition levels up research computing infrastructure at UW–Madison
+
 
 author: Hannah Cheren
 
