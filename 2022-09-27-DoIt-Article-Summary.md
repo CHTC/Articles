@@ -1,5 +1,5 @@
 ---
-title: NIAID/ACE students attend this year’s OSG User School 2022
+title: Summary of Solving for the future
 
 author: Hannah Cheren
 
