@@ -1,7 +1,7 @@
 ---
 title: CHTCPool Hits Record Number of Core Hours
 
-author:Shirley Obih
+author: Shirley Obih
 
 publish_on:
   - htcondor
