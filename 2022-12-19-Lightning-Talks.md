@@ -52,9 +52,9 @@ The lightning talks given at this year’s OSG User School illustrate the divers
   
    His goal has been to find a way to support connections with the fine arts, a rarity in the HTC community. After attending the User School, Devin intends to use the techniques he learned to break up his data and entire simulation into tiles and use a low-level graphics API called Vulkan to target and render the data on CPU/GPU capacity. He then intends to combine the tiles into individual frames and assemble them into a video.
    
-  Starforge Anvil of Creation: Grudi'c, Michael Y. et al. “STARFORGE: Toward a comprehensive numerical model of star cluster formation and feedback.” arXiv: Instrumentation and Methods for Astrophysics (2020): n. pag. https://arxiv.org/abs/2010.11254
+  Starforge Anvil of Creation: *Grudi'c, Michael Y. et al. “STARFORGE: Toward a comprehensive numerical model of star cluster formation and feedback.” arXiv: Instrumentation and Methods for Astrophysics (2020): n. pag. [https://arxiv.org/abs/2010.11254](https://arxiv.org/abs/2010.11254)*
   
-    <figure class="figure float-end" style="margin-right: 1em;">
+    <figure class="r right" style="margin-right: 1em;">
   <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/Bayly-work.png' class="figure-img img-fluid rounded" alt="4x5 summary of 500+ time steps of simulation data of ~24e6 gas particles: Batch headless rendering of the Starforge simulation gas position data.">
   <figcaption class="figure-caption">4x5 summary of 500+ time steps of simulation data of ~24e6 gas particles: Batch headless rendering of the Starforge simulation gas position data.<br/></figcaption>
 </figure>
