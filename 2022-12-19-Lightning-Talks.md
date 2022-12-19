@@ -91,3 +91,24 @@ Nsubuga and a team of Researchers at ACE are working on creating AI chatbots for
   
   Engelstad said it’s been exciting to see the approaches he can use to tackle this problem using what he’s learned about HTC, including determining how to structure his data and break it into smaller chunks. He notes that the nice thing about using geospatial data is that they are often in a 2-D grid system, making it easy to index them spatially and designate georeferenced tiles to work on. Engelstad says that an additional benefit of incorporating HTC methods will be to free up time to work on other scientific questions. 
 
+  <figure class="figure float-start" style="margin-right: 1em">
+  <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/Zack-headshot.jpeg' height="200" width="200" class="figure-img img-fluid rounded" alt="Zachary Baldwin">
+  <figcaption class="figure-caption">Zachary Baldwin<br/></figcaption>
+</figure>
+
+  [Zachary Baldwin](https://zabaldwin.github.io/), a Ph.D. candidate in Nuclear and Particle Physics at Carnegie Mellon University, works for the [GlueX Collaboration](http://www.gluex.org/), a particle physics experiment at the Thomas Jefferson National Lab that searches for and studies exotic hybrid mesons. Baldwin presented a talk on “Analyzing hadronic systems in the search for exotic hybrid mesons at GlueX.”
+  
+  His thesis looks at data collected from the GlueX experiment to possibly discover forbidden quantum numbers found within subatomic particle systems to determine if they exist within our universe. Baldwin's experiment takes a beam of electrons, speeds them up to high energies, and then collides them with a thin diamond wafer. These electrons then slow down, producing linearly polarized photons. These photons will then collide with a container of liquid hydrogen (protons) within the center of his experiment. Baldwin studies the resulting systems produced within these photon-proton collisions. 
+  
+  The collision creates billions of particles, leaving Baldwin with many petabytes of data. Baldwin remarks that too much time gets wasted looping through all the data points, and massive processes run out of memory before he can compute results, which is one aspect where HTC comes into play. Through the User School, another major area he's been working on is simulating Monte Carlo particle reactions using OSPool's containers which he pushes into the OSPool using HTCondor to simulate events that he believes would happen in the real world.
+  
+  <figure class="figure float-end" style="margin-left: 1em">
+  <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/Olaitan-headshot.jpeg' height="200" width="200" class="figure-img img-fluid rounded" alt="Olaitan Awe">
+  <figcaption class="figure-caption">Olaitan Awe<br/></figcaption>
+</figure>
+  
+  Olaitan Awe, a systems analyst in the Information Technology department at the Jackson Laboratory (JAX), presented “Newborn Screening (NBS) of Inborn Errors of Metabolism (IEM).” The goal of newborn screening is that, when a baby is born, it detects early what diseases they might have. 
+  
+  Genomic Newborn Screenings (gNBS) are generally cheap, detect many diseases, and have a quick turnaround time. The gNBS takes a child’s genome and compares it to a reference genome to check for variations. The computing challenge lies in looking for all variations, determining which are pathogenic, and seeing which diseases they align with. 
+
+  After attending the User School, Awe intends to tackle this problem by writing [DAGMan](https://htcondor.org/dagman/dagman.html) scripts to implement parent-child relations in a pipeline he created. He then plans to build custom containers to run the pipeline on the [OSPool](https://osg-htc.org/services/open_science_pool.html) and stage big data shared across parent-child processes. The long-term goal is to develop a validated, reproducible gNBS pipeline for routine clinical practice and apply it to African populations.
