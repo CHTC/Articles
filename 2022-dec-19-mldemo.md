@@ -1,4 +1,4 @@
-----
+---
 title: "CHTC Hosts Machine Learning Demo and Q+A session"
 
 author: Shirley Obih
@@ -23,7 +23,7 @@ card_alt: Koch and Gitter presenting at the demo
 
 banner_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/ML_1.jpeg"
 banner_alt: Koch and Gitter presenting at the demo
-----
+---
 
 **Over 60 students and researchers attended the Center for High Throughput Computing (CHTC) machine learning and GPU demonstration on November 16th. UW Madison Associate Professor of Biostatistics and Medical Informatics Anthony Gitter and CHTC Lead Research Computing Facilitator Christina Koch led the demonstration and fielded many questions from the engaged audience.**
 
