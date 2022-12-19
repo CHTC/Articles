@@ -112,3 +112,26 @@ Nsubuga and a team of Researchers at ACE are working on creating AI chatbots for
   Genomic Newborn Screenings (gNBS) are generally cheap, detect many diseases, and have a quick turnaround time. The gNBS takes a child’s genome and compares it to a reference genome to check for variations. The computing challenge lies in looking for all variations, determining which are pathogenic, and seeing which diseases they align with. 
 
   After attending the User School, Awe intends to tackle this problem by writing [DAGMan](https://htcondor.org/dagman/dagman.html) scripts to implement parent-child relations in a pipeline he created. He then plans to build custom containers to run the pipeline on the [OSPool](https://osg-htc.org/services/open_science_pool.html) and stage big data shared across parent-child processes. The long-term goal is to develop a validated, reproducible gNBS pipeline for routine clinical practice and apply it to African populations.
+  
+  <figure class="figure float-start" style="margin-right: 1em">
+  <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/Max-headshot.jpeg' height="200" width="200" class="figure-img img-fluid rounded" alt="Max Bareiss">
+  <figcaption class="figure-caption">Max Bareiss<br/></figcaption>
+</figure>  
+
+  [Max Bareiss](https://safetyimpact.beam.vt.edu/news/2021Abstracts/BareissAAAM20211.html), a Ph.D. Candidate at the Virginia Tech Center for Injury Biomechanics presented “Detection of Camera Movement in Virginia Traffic Camera Video on OSG.” Bareiss used a data set of 1263 traffic cameras in Virginia for his project. His goal was to determine how to document the crash, near-crashes, and normal driving recorded by traffic cameras using his video analysis pipeline. This work would ultimately allow him to detect vehicles and pedestrians and determine their trajectories.
+  
+  The three areas he wanted to tackle and obtain help with at the User School were data movement, code movement, and using GPUs for other tasks. For data movement, he used MinIO, a high-performance object storage, so that the execution points could directly copy the videos from Virginia Tech. For code movement, Bareiss used Alpine Linux and multi-stage build, which he learned to implement throughout the week. He learned about using GPUs at the [Center for High Throughput Computing](https://chtc.cs.wisc.edu/) (CHTC) and in the OSPool.
+  
+  Additionally, he learned about [DAGMan](https://htcondor.org/dagman/dagman.html), which he noted was “very exciting” since his pipeline was already a directed acyclic graph (DAG).
+
+  <figure class="figure float-end" style="margin-left: 1em">
+  <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/Matthew-headshot.jpeg' height="200" width="200" class="figure-img img-fluid rounded" alt="Matthew Dorsey">
+  <figcaption class="figure-caption">Matthew Dorsey<br/></figcaption>
+</figure>
+
+  [Matthew Dorsey](https://www.linkedin.com/in/matthewadorsey/), a Ph.D. candidate in the Chemical and Biomolecular Engineering Department at North Carolina State University, presented on “Computational Studies of the Structural Properties of Dipolar Square Colloids.”
+  
+  Dorsey is studying a colloidal particle developed in a research lab at NC State University in the Biomolecular Engineering Department. His research focuses on using computer models to discover what these particles can do. The computer models he has developed explore how different parameters (like the system’s temperature, particle density, and the strength of an applied external field) affect the particle’s self-assembly.
+  
+  Dorsey recently discovered how the magnetic dipoles embedded in the squares lead to structures with different material properties. He intends to use the [HTCondor Software Suite](https://htcondor.com/htcondor/overview/) (HTCSS) to investigate the applied external fields that change with respect to time. “The HTCondor system allows me to rapidly investigate how different combinations of many different parameters affect the colloids' self-assembly,” Dorsey says.
+
