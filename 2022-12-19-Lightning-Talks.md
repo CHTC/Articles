@@ -54,7 +54,7 @@ The lightning talks given at this year’s OSG User School illustrate the divers
    
   Starforge Anvil of Creation: *Grudi'c, Michael Y. et al. “STARFORGE: Toward a comprehensive numerical model of star cluster formation and feedback.” arXiv: Instrumentation and Methods for Astrophysics (2020): n. pag. [https://arxiv.org/abs/2010.11254](https://arxiv.org/abs/2010.11254)*
   
-    <figure class="r right" style="margin-right: 1em;">
+  <figure class="r right">
   <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/Bayly-work.png' class="figure-img img-fluid rounded" alt="4x5 summary of 500+ time steps of simulation data of ~24e6 gas particles: Batch headless rendering of the Starforge simulation gas position data.">
   <figcaption class="figure-caption">4x5 summary of 500+ time steps of simulation data of ~24e6 gas particles: Batch headless rendering of the Starforge simulation gas position data.<br/></figcaption>
 </figure>
