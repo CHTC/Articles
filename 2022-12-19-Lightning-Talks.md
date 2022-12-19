@@ -26,7 +26,7 @@ card_alt: Staff and attendees from the OSG User School 2022.
 banner_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/Lightning-Talks-card.jpeg"
 banner_alt: Staff and attendees from the OSG User School 2022.
 ---
-  ***The OSG User School student lightning talks showcased their research, inspiring all the event participants. ***
+  ***The OSG User School student lightning talks showcased their research, inspiring all the event participants.***
 
   <figure>
   <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/Lightning-Talks-card.jpeg" alt="Staff and attendees from the OSG User School 2022."/>
