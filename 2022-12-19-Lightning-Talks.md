@@ -58,3 +58,15 @@ The lightning talks given at this year’s OSG User School illustrate the divers
 </figure>
    
   Starforge Anvil of Creation: *Grudi'c, Michael Y. et al. “STARFORGE: Toward a comprehensive numerical model of star cluster formation and feedback.” arXiv: Instrumentation and Methods for Astrophysics (2020): n. pag. [https://arxiv.org/abs/2010.11254](https://arxiv.org/abs/2010.11254)*
+  
+  <figure class="figure float-end" style="margin-left: 1em;">
+  <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/Mike-headshot.jpeg' class="figure-img img-fluid rounded" alt="Mike Nsubuga">
+  <figcaption class="figure-caption">Mike Nsubuga<br/></figcaption>
+</figure>
+
+  Mike Nsubuga, a Bioinformatics Research fellow at the African Center of Excellence in Bioinformatics and Data-Intensive Sciences ([ACE](https://ace.ac.ug/)) within the Infectious Disease Institute ([IDI](https://idi.mak.ac.ug/)) at Makerere University in Uganda, presented “End-to-End AI data systems for targeted surveillance and management of COVID-19 and future pandemics affecting Uganda.”
+  
+  Nsubuga noted that in the United States, there are two physicians for every 1000 people; in Uganda, there is only one physician per 25,000 people. Research shows that AI, automation, and data science can support overburdened health systems and health workers when deployed responsibly.
+Nsubuga and a team of Researchers at ACE are working on creating AI chatbots for automated and personalized symptom assessments in English and Luganda, one of the major languages of Uganda. He's training the AI models using data from the public and healthcare workers to communicate with COVID-19 patients and the general public.
+
+  While at the School, Nsubuga learned how to containerize his data into a Docker image, and from that, he built an Apptainer (formerly Singularity) container image. He then deployed this to the [Open Science Pool](https://osg-htc.org/services/open_science_pool.html) (OSPool) to determine how to mimic the traditional conversation assistant workflow model in the context of COVID-19. The capacity offered by the OSPool significantly reduced the time it takes to train the AI model by eight times.
