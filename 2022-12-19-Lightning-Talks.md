@@ -136,7 +136,7 @@ Nsubuga and a team of Researchers at ACE are working on creating AI chatbots for
   Dorsey recently discovered how the magnetic dipoles embedded in the squares lead to structures with different material properties. He intends to use the [HTCondor Software Suite](https://htcondor.com/htcondor/overview/) (HTCSS) to investigate the applied external fields that change with respect to time. “The HTCondor system allows me to rapidly investigate how different combinations of many different parameters affect the colloids' self-assembly,” Dorsey says.
 
   <figure class="figure float-start" style="margin-right: 1em">
-  <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/Ananya-headshot.jpeg' height="200" width="200" class="figure-img img-fluid rounded" alt="Ananya Bandopadhyay">
+  <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/Ananya-headshot.jpeg' height="190" width="210" class="figure-img img-fluid rounded" alt="Ananya Bandopadhyay">
   <figcaption class="figure-caption">Ananya Bandopadhyay<br/></figcaption>
 </figure>
 
