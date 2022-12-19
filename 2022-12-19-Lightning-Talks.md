@@ -48,7 +48,7 @@ The lightning talks given at this year’s OSG User School illustrate the divers
   <figcaption class="figure-caption">Devin Bayly<br/></figcaption>
 </figure>
 
-  Devin Bayly, a data and visualization consultant at the University of Arizona's Research Technologies department, presented “OSG for Vulkan StarForge Renders.” Devin has been working on a multimedia project called Stellarscape, which combines astronomy data with the fine arts. The project aims to pair the human’s journey with a star’s journey from birth to death.
+  [Devin Bayly](https://sxsw.arizona.edu/person/devin-bayly), a data and visualization consultant at the University of Arizona's Research Technologies department, presented “OSG for Vulkan StarForge Renders.” Devin has been working on a multimedia project called Stellarscape, which combines astronomy data with the fine arts. The project aims to pair the human’s journey with a star’s journey from birth to death.
   
    His goal has been to find a way to support connections with the fine arts, a rarity in the HTC community. After attending the User School, Devin intends to use the techniques he learned to break up his data and entire simulation into tiles and use a low-level graphics API called Vulkan to target and render the data on CPU/GPU capacity. He then intends to combine the tiles into individual frames and assemble them into a video.
    
@@ -64,9 +64,18 @@ The lightning talks given at this year’s OSG User School illustrate the divers
   <figcaption class="figure-caption">Mike Nsubuga<br/></figcaption>
 </figure>
 
-  Mike Nsubuga, a Bioinformatics Research fellow at the African Center of Excellence in Bioinformatics and Data-Intensive Sciences ([ACE](https://ace.ac.ug/)) within the Infectious Disease Institute ([IDI](https://idi.mak.ac.ug/)) at Makerere University in Uganda, presented “End-to-End AI data systems for targeted surveillance and management of COVID-19 and future pandemics affecting Uganda.”
+  [Mike Nsubuga](https://miken.netlify.app/), a Bioinformatics Research fellow at the African Center of Excellence in Bioinformatics and Data-Intensive Sciences ([ACE](https://ace.ac.ug/)) within the Infectious Disease Institute ([IDI](https://idi.mak.ac.ug/)) at Makerere University in Uganda, presented “End-to-End AI data systems for targeted surveillance and management of COVID-19 and future pandemics affecting Uganda.”
   
   Nsubuga noted that in the United States, there are two physicians for every 1000 people; in Uganda, there is only one physician per 25,000 people. Research shows that AI, automation, and data science can support overburdened health systems and health workers when deployed responsibly.
 Nsubuga and a team of Researchers at ACE are working on creating AI chatbots for automated and personalized symptom assessments in English and Luganda, one of the major languages of Uganda. He's training the AI models using data from the public and healthcare workers to communicate with COVID-19 patients and the general public.
 
   While at the School, Nsubuga learned how to containerize his data into a Docker image, and from that, he built an Apptainer (formerly Singularity) container image. He then deployed this to the [Open Science Pool](https://osg-htc.org/services/open_science_pool.html) (OSPool) to determine how to mimic the traditional conversation assistant workflow model in the context of COVID-19. The capacity offered by the OSPool significantly reduced the time it takes to train the AI model by eight times.
+  
+   <figure class="figure float-start" style="margin-right: 1em">
+  <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/Jem-headshot.jpeg' height="200" width="200" class="figure-img img-fluid rounded" alt="Jem Guhit">
+  <figcaption class="figure-caption">Jem Guhit<br/></figcaption>
+</figure>
+  
+  Jem Guhit, a Physics Ph.D. candidate from the University of Michigan, presented “Search for Di-Higgs production in the LHC with the ATLAS Experiment in the bbtautau Final State.” The Higgs boson was discovered in 2012 and is known for the Electroweak Symmetry Breaking (EWSB) phenomenon, which explains how other particles get mass. Since then, the focus of the LHC has been to investigate the properties of the Higgs boson, and one can get more insight into how the EWSB Mechanism works by searching for two Higgs bosons using the ATLAS Detector. The particle detectors capture the resultant particles from proton-proton collisions and use this as data to look for two Higgs bosons.
+
+  DiHiggs searches pose a challenge because the rate at which a particle process occurs for two Higgs bosons is 30x smaller than for a single Higgs boson. Furthermore, the particles the Higgs can decay to have similar particle trajectories to other particles produced in the collisions unrelated to the Higgs boson. Her strategy is to use a machine learning (ML) method powerful enough to handle complex patterns to determine whether the decay products come from a Higgs boson. She plans to use what she’s learned at the User School to show improvements in her machine-learning techniques and optimizations. With these new skills, she has been running jobs on the University of Michigan's HTCondor system utilizing GPU and CPUs to run ML jobs efficiently and plans to use the OSPool computing cluster to run complex jobs. 
