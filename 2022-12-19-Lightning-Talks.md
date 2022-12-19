@@ -43,8 +43,8 @@ The lightning talks given at this year’s OSG User School illustrate the divers
 
   *Note: Applications to attend the School typically open in March. Check the [OSG website](https://osg-htc.org/) for this announcement.*
 
-  <figure class="figure float-end" style="margin-left: 1em;height: 150px;">
-  <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/Devin-headshot.jpeg' class="figure-img img-fluid rounded" alt="Devin Bayly">
+  <figure class="figure float-end" style="margin-left: 1em">
+  <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/Devin-headshot.jpeg' height="150" width="150" class="figure-img img-fluid rounded" alt="Devin Bayly">
   <figcaption class="figure-caption">Devin Bayly<br/></figcaption>
 </figure>
 
