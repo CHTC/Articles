@@ -59,7 +59,7 @@ The lightning talks given at this year’s OSG User School illustrate the divers
    
   Starforge Anvil of Creation: *Grudi'c, Michael Y. et al. “STARFORGE: Toward a comprehensive numerical model of star cluster formation and feedback.” arXiv: Instrumentation and Methods for Astrophysics (2020): n. pag. [https://arxiv.org/abs/2010.11254](https://arxiv.org/abs/2010.11254)*
   
-  <figure class="figure float-end" style="margin-left: 1em;">
+  <figure class="figure float-end" style="margin-left: 1em; height: 150px">
   <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/Mike-headshot.jpeg' class="figure-img img-fluid rounded" alt="Mike Nsubuga">
   <figcaption class="figure-caption">Mike Nsubuga<br/></figcaption>
 </figure>
