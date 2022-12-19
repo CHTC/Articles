@@ -53,7 +53,7 @@ The lightning talks given at this year’s OSG User School illustrate the divers
    His goal has been to find a way to support connections with the fine arts, a rarity in the HTC community. After attending the User School, Devin intends to use the techniques he learned to break up his data and entire simulation into tiles and use a low-level graphics API called Vulkan to target and render the data on CPU/GPU capacity. He then intends to combine the tiles into individual frames and assemble them into a video.
    
    <figure class="figure float-start" style="margin-right: 1em">
-  <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/Bayly-work.png' height="200" width="200" class="figure-img img-fluid rounded" alt="4x5 summary of 500+ time steps of simulation data of ~24e6 gas particles: Batch headless rendering of the Starforge simulation gas position data.">
+  <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/Bayly-work.png' height="200" width="250" class="figure-img img-fluid rounded" alt="4x5 summary of 500+ time steps of simulation data of ~24e6 gas particles: Batch headless rendering of the Starforge simulation gas position data.">
   <figcaption class="figure-caption">Rendering of the Starforge simulation gas position data.<br/></figcaption>
 </figure>
    
