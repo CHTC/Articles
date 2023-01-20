@@ -1,5 +1,5 @@
 ---
-title: Empowering the Computational Materials Science Research using HTC
+title: Empowering Computational Materials Science Research using HTC
 
 author: Hannah Cheren
 
