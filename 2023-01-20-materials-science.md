@@ -14,7 +14,7 @@ canonical_url: "https://chtc.cs.wisc.edu/materials-science.html"
 
 image:
 path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/materials-science.jpg"
-alt: Computer screen with lines of code. Uploaded by AltumCode on [Unsplash](https://unsplash.com/photos/oZ61KFUQsus).
+alt: Computer screen with lines of code. Uploaded by AltumCode on Unsplash.
 
 description: |
     Ajay Annamareddy, a research scientist at the University of Wisconsin-Madison, describes how he utilizes high-throughput computing in computational materials science.
@@ -22,13 +22,13 @@ excerpt: |
     Ajay Annamareddy, a research scientist at the University of Wisconsin-Madison, describes how he utilizes high-throughput computing in computational materials science.
 
 card_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/materials-science.jpg"
-card_alt: Computer screen with lines of code. Uploaded by AltumCode on [Unsplash](https://unsplash.com/photos/oZ61KFUQsus).
+card_alt: Computer screen with lines of code. Uploaded by AltumCode on Unsplash.
 ---
   ***Ajay Annamareddy, a research scientist at the University of Wisconsin-Madison, describes how he utilizes high-throughput computing in computational materials science.***
 
   <figure>
   <img class="w-100" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/materials-science.jpg" alt="Computer screen with lines of code. Uploaded by AltumCode on [Unsplash](https://unsplash.com/photos/oZ61KFUQsus)."/>
-  <figcaption class="figure-caption">Computer screen with lines of code. Uploaded by AltumCode on [Unsplash](https://unsplash.com/photos/oZ61KFUQsus).<br/></figcaption>
+  <figcaption class="figure-caption">Computer screen with lines of code. Uploaded by AltumCode on Unsplash<br/></figcaption>
 </figure>
 
   Groundbreaking research is in the works for the [Computational Materials Group (CMG)](https://matmodel.engr.wisc.edu/) at the University of Wisconsin-Madison (UW-Madison). [Ajay Annamareddy](https://matmodel.engr.wisc.edu/members/), a research scientist within CMG, has been a leading user of GPU hours with the [Center for High Throughput Computing](https://chtc.cs.wisc.edu/) (CHTC). He utilizes this capacity to run machine learning (ML) simulations as applied to material science problems that have gained tremendous interest in the past decade. CHTC resources have allowed him to study hugely data-driven problems that are practically impossible to deal with using regular resources.
