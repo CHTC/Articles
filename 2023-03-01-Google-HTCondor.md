@@ -52,4 +52,4 @@ banner_alt: Quantum AI Logo. Image from Quantum AI Product Manager Catherine Vol
 - Query cluster information and monitor running jobs in HTCondor
 - Use terraform to destroy the cluster
 
-  Please visit [this website](https://blog.google/technology/research/our-new-quantum-virtual-machine-will-accelerate-research-and-help-people-learn-quantum-computing/) for more information about the Quantum Virtual Machine and [how researchers can use HTCondor for multinode quantum simulations](https://quantumai.google/qsim/tutorials/multinode).
+ Please visit [this website](https://blog.google/technology/research/our-new-quantum-virtual-machine-will-accelerate-research-and-help-people-learn-quantum-computing/) for more information about the Quantum Virtual Machine and [how researchers can use HTCondor for multinode quantum simulations](https://quantumai.google/qsim/tutorials/multinode).
