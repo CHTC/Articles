@@ -10,7 +10,7 @@ publish_on:
 
 type: news
 
-canonical_url: https://osg-htc.org/spotlights/2022-04-10-ospool-computation.html
+canonical_url: https://osg-htc.org/spotlights/2023-04-10-ospool-computation.html
 image:
   path: https://raw.githubusercontent.com/CHTC/Articles/main/images/ericjonasheadshot.png
   alt: Headshot of Eric Jonas
