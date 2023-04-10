@@ -15,8 +15,8 @@ image:
   path: https://raw.githubusercontent.com/CHTC/Articles/main/images/ericjonasheadshot.png
   alt: Headshot of Eric Jonas
 
-description: Staff profile of the HTCSS Software Lead, Todd Tannenbaum.
-excerpt: Staff profile of the HTCSS Software Lead, Todd Tannenbaum.
+description: Assistant Professor Eric Jonas uses OSG resources to understand the structure of molecules based on their measurements and derived properties.
+excerpt: Assistant Professor Eric Jonas uses OSG resources to understand the structure of molecules based on their measurements and derived properties.
 
 card_src: 
 card_alt: 
