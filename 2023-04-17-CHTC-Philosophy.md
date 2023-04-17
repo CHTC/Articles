@@ -31,7 +31,7 @@ banner_alt: Image from Greg Thain’s CHTC Philosophy of High Throughput Computi
   ***HTCondor Core Developer Greg Thain spoke to UW faculty and researchers about research computing and the missions and goals of the Center for High Throughput Computing (CHTC).***
 
 <figure>
-  <img class="w-100" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/chtc-philosophy-banner.png" alt="Photo credits: Greg Thain’s CHTC Philosophy of High Throughput Computing slideshow."/>
+  <img class="w-100" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/chtc-philosophy-banner.jpg" alt="Photo credits: Greg Thain’s CHTC Philosophy of High Throughput Computing slideshow."/>
   <figcaption class="figure-caption">Photo credits: Greg Thain’s CHTC Philosophy of High Throughput Computing slideshow.<br/></figcaption>
 </figure>
 
