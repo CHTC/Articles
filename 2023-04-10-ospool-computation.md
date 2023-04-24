@@ -12,20 +12,25 @@ type: news
 
 canonical_url: https://osg-htc.org/spotlights/2023-04-10-ospool-computation.html
 image:
-  path: https://raw.githubusercontent.com/CHTC/Articles/main/images/ericjonasheadshot.png
-  alt: Headshot of Eric Jonas
+  path: https://raw.githubusercontent.com/CHTC/Articles/main/images/ospool-comp.jpg
+  alt: Microscope beside computer by Tima Miroshnichenko from Pexels.
 
 description: Assistant Professor Eric Jonas uses OSG resources to understand the structure of molecules based on their measurements and derived properties.
 excerpt: Assistant Professor Eric Jonas uses OSG resources to understand the structure of molecules based on their measurements and derived properties.
 
-card_src: 
-card_alt: 
+card_src: https://raw.githubusercontent.com/CHTC/Articles/main/images/ospool-comp.jpg
+card_alt: Microscope beside computer by Tima Miroshnichenko from Pexels.
 
-banner_src: 
-banner_alt: 
+banner_src: https://raw.githubusercontent.com/CHTC/Articles/main/images/ospool-comp.jpg
+banner_alt: Microscope beside computer by Tima Miroshnichenko from Pexels.
 ---
 
 **Assistant Professor Eric Jonas uses OSG resources to understand the structure of molecules based on their measurements and derived properties.**
+<figure>
+  <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/ospool-comp.jpg" alt="Microscope beside computer by Tima Miroshnichenko from Pexels."/>
+  <figcaption class="figure-caption">Microscope beside computer by Tima Miroshnichenko from Pexels.<br/></figcaption>
+</figure>
+
 <figure class="figure float-end" style="margin-left: 1em">
   <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/ericjonasheadshot.png' height="200" width="200" class="figure-img img-fluid rounded" alt="Eric Jonas, Assistant Professor at UChicago">
   <figcaption class="figure-caption">Eric Jonas, Assistant professor at Uchicago<br/></figcaption>
