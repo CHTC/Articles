@@ -14,7 +14,7 @@ type: news
 canonical_url: "https://chtc.cs.wisc.edu/chtc-philosophy.html"
 
 image:
-path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/chtc-philosophy-server.jpg"
+path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/chtc-philosophy-banner.jpg"
 alt: Image of the CHTC server room.
 
 description: |
@@ -22,10 +22,10 @@ description: |
 excerpt: |
     HTCondor Core Developer Greg Thain spoke to UW faculty and researchers about research computing and the missions and goals of the Center for High Throughput Computing (CHTC).
 
-card_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/chtc-philosophy-server.jpg"
+card_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/chtc-philosophy-banner.jpg"
 card_alt: Image of the CHTC server room.
 
-banner_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/chtc-philosophy-server.jpg"
+banner_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/chtc-philosophy-banner.jpg"
 banner_alt: Image of the CHTC server room.
 ---
   ***HTCondor Core Developer Greg Thain spoke to UW faculty and researchers about research computing and the missions and goals of the Center for High Throughput Computing (CHTC).***
