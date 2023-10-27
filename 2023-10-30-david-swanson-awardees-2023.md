@@ -10,10 +10,7 @@ publish_on:
   
 type: user 
 
-canonical_url:
-https://osg-htc.org/spotlights/david-swanson-awardees-2023.html
-https://htcondor.org/featured-users/2023-10-30-david-swanson-awardees-2023.html
-https://path-cc.io/news/2023-10-30-david-swanson-awardees-2023/
+canonical_url: https://osg-htc.org/spotlights/david-swanson-awardees-2023.html https://htcondor.org/featured-users/2023-10-30-david-swanson-awardees-2023.html https://path-cc.io/news/2023-10-30-david-swanson-awardees-2023/
 
  
 
