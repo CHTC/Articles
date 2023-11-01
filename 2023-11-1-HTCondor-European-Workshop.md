@@ -9,7 +9,7 @@ publish_on:
   - osg
   - chtc
   
-type: user
+type: news
 
 canonical_url: https://htcondor.org/featured-users/2023-11-1-2023-htcondor-european-worshop.html
 
