@@ -23,7 +23,10 @@ excerpt: The ninth 2023 HTCondor European Workshop occurred in Orsay, France, Se
 *The workshop highlights research organizations’ success with HTCondor Software Suite (HTCSS), challenges, and possible 
 solutions. Planning for 2024’s workshop is already underway.*
 
-  
+<figure class="figure float-end" style="margin-left: 1em">
+  <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/groupphoto.png' height="400" width="600" class="figure-img img-fluid rounded" alt="Group photo of those involved with the 2023 HTCondor European Workshop">
+  <figcaption class="figure-caption">Group photo of those involved with the 2023 HTCondor European Workshop<br/></figcaption>
+</figure>
 
 The ninth [2023 HTCondor European Workshop](https://indico.cern.ch/event/1274213/) took place September 19–22 
 at [IJCLab](https://www.ijclab.in2p3.fr/en/home/) in Orsay, France, to join communities of high-throughput computing
