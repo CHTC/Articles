@@ -20,7 +20,7 @@ excerpt: The ninth 2023 HTCondor European Workshop occurred in Orsay, France, Se
 
 --- 
 
-*The workshop highlights research organizations’ success with HTCondor Software Suite (HTCSS), challenges, and possible 
+*The workshop highlights research organizations’ success with the HTCondor Software Suite (HTCSS), challenges, and possible 
 solutions. Planning for 2024’s workshop is already underway.*
 
 <figure class="figure float-end" style="margin-left: 1em">
