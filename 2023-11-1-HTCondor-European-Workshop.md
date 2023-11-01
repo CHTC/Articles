@@ -8,14 +8,15 @@ publish_on:
   - path
   - osg
   
+type: user
 
-canonical_url: https://htcondor.org/featured-users/<2023-11-1-2023-htcondor-european-worshop>.html
+canonical_url: https://htcondor.org/featured-users/2023-11-1-2023-htcondor-european-worshop.html
 
 image:
   path: https://raw.githubusercontent.com/CHTC/Articles/main/images/groupphoto.png
   alt: Group photo of those involved with the 2023 HTCondor European Workshop
   
-excerpt: The ninth 2023 HTCondor European Workshop occured in Orsay, France, September 19-22
+excerpt: The ninth 2023 HTCondor European Workshop occurred in Orsay, France, September 19-22
 
 --- 
 
