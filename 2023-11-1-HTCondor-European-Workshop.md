@@ -1,5 +1,5 @@
 ---
-title: HTCondor European Workshop returns for ninth year, in Orsay, France
+title: HTCondor European Workshop returns for ninth year in Orsay, France
 
 author: Sarah Matysiak
 
