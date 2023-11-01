@@ -24,7 +24,7 @@ excerpt: The ninth 2023 HTCondor European Workshop occurred in Orsay, France, Se
 solutions. Planning for 2024’s workshop is already underway.*
 
 <figure class="figure float-end" style="margin-left: 1em">
-  <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/groupphoto.png' height="450" width="600" class="figure-img img-fluid rounded" alt="Group photo of those involved with the 2023 HTCondor European Workshop">
+  <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/groupphoto.png' height="375" width="600" class="figure-img img-fluid rounded" alt="Group photo of those involved with the 2023 HTCondor European Workshop">
   <figcaption class="figure-caption">Group photo of those involved with the 2023 HTCondor European Workshop<br/></figcaption>
 </figure>
 
