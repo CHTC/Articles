@@ -14,7 +14,7 @@ type: user
 canonical_url: https://chtc.cs.wisc.edu/spalding-lab.html
 
 image:
-  path: <https://raw.githubusercontent.com/CHTC/Articles/main/images/spaldinglab.jpg
+  path: https://raw.githubusercontent.com/CHTC/Articles/main/images/spaldinglab.jpg
   alt: Members of the Spalding Research Lab
   
 excerpt: The Spalding lab uses CHTC to study plant physiology
