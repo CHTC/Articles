@@ -91,7 +91,7 @@ I want to help advance research in whatever way that I can. I feel inspired by r
 
 **Can you tell me about your involvement with the NIAID?**
 <figure class="figure float-end" style="margin-left: 1em">
-  <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/lombardiuganda.png' height="375" width="490" class="figure-img img-fluid rounded" alt="Rachel Lombardi (left) and OSG Executive Director Frank Wuerthwein (right) in Uganda">
+  <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/lombardiuganda.png' height="375" width="550" class="figure-img img-fluid rounded" alt="Rachel Lombardi (left) and OSG Executive Director Frank Wuerthwein (right) in Uganda">
   <figcaption class="figure-caption">Rachel Lombardi (left) and OSG Executive Director Frank Wuerthwein (right) in Uganda<br/></figcaption>
 </figure>
 
