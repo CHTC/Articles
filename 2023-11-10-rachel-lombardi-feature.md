@@ -14,7 +14,7 @@ type: news
 canonical_url: https://chtc.cs.wisc.edu/get-to-know-rachel-lombardi.html
 
 image:
-  path: <https://raw.githubusercontent.com/CHTC/Articles/main/images/lombardihiking.png
+  path: https://raw.githubusercontent.com/CHTC/Articles/main/images/lombardihiking.png
   alt: Rachel Lombardi hiking at Yosemite National Park during grad school at UC Davis
   
 excerpt: Staff profile of Research Computing Facilitator Rachel Lombardi
