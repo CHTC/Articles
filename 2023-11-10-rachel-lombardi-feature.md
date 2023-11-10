@@ -90,14 +90,14 @@ I want to help advance research in whatever way that I can. I feel inspired by r
   
 
 **Can you tell me about your involvement with the NIAID?**
+
+
+The [OSG] has many collaborations with different government, academic, and nonprofit entities, one of them being the [National Institute of Allergy and Infectious Diseases] (NIAID). As a part of that collaboration, I was able to go to Uganda, which was an incredible experience for so many reasons.
+
 <figure class="figure float-end" style="margin-left: 1em">
   <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/lombardiuganda.png' height="375" width="550" class="figure-img img-fluid rounded" alt="Rachel Lombardi (left) and OSG Executive Director Frank Wuerthwein (right) in Uganda">
   <figcaption class="figure-caption">Rachel Lombardi (left) and OSG Executive Director Frank Wuerthwein (right) in Uganda<br/></figcaption>
 </figure>
-
-The [OSG] has many collaborations with different government, academic, and nonprofit entities, one of them being the [National Institute of Allergy and Infectious Diseases] (NIAID). As a part of that collaboration, I was able to go to Uganda, which was an incredible experience for so many reasons.
-
-  
 
 My background is in biology, and an aspect of the government focuses on biology and sequencing analysis. I went to Uganda to lead a workshop for researchers who were part of the ACE program, which is the African Centers of Excellence, specifically in bioinformatics. I worked with the researchers there to show them how their research could benefit from using OSG resources. It was just incredible — there are so many things that are hard to grasp until you're there. They have a high-performance computing system over there that, in theory, they can use, but they don't have stable power. I would be sitting in a meeting with important leaders from universities and different U.S. computing centers, and the power shuts off. Things like that are hard to comprehend until you're there, and I grew so much from that experience. I began to understand what their challenges were and what we could do to address them.
 
