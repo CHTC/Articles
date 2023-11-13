@@ -21,7 +21,7 @@ excerpt: The Spalding lab uses high-throughput computing to study plant physiolo
 
 ---
 
-**Once they began using HTC resources, the Spalding research group was able to increase their efficiency in data collection and analysis and develop new methodologies.**
+**Once they began using HTC resources, the Spalding Lab was able to increase their efficiency in data collection and analysis and develop new methodologies.**
 
   
 
