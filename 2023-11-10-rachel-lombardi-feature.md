@@ -95,7 +95,7 @@ I want to help advance research in whatever way that I can. I feel inspired by r
 The [OSG] has many collaborations with different government, academic, and nonprofit entities, one of them being the [National Institute of Allergy and Infectious Diseases] (NIAID). As a part of that collaboration, I was able to go to Uganda, which was an incredible experience for so many reasons.
 
 <figure class="figure float-end" style="margin-left: 1em">
-  <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/lombardiuganda.png' height="375" width="550" class="figure-img img-fluid rounded" alt="Rachel Lombardi (left) and OSG Executive Director Frank Wuerthwein (right) in Uganda">
+  <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/lombardiuganda.png' height="540" width="720" class="figure-img img-fluid rounded" alt="Rachel Lombardi (left) and OSG Executive Director Frank Wuerthwein (right) in Uganda">
   <figcaption class="figure-caption">Rachel Lombardi (left) and OSG Executive Director Frank Wuerthwein (right) in Uganda<br/></figcaption>
 </figure>
 
@@ -132,6 +132,10 @@ I'm getting into home improvement projects, and my apartment makes a great test 
 
 My favorite place is probably Mackinac Island in northern Michigan. It was a place that my family would go on trips to growing up, and there’s no cars allowed on the very small island — it’s just horse-drawn carriages or bikes. All day, you just eat fudge because there are a lot of fudge-making places. I just have a lot of good and happy memories there.
 
+<figure class="figure float-end" style="margin-left: 1em">
+  <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/lombardihiking.png' height="540" width="720" class="figure-img img-fluid rounded" alt="Hiking at Yosemite National Park during grad school at UC Davis">
+  <figcaption class="figure-caption">Hiking at Yosemite National Park during grad school at UC Davis<br/></figcaption>
+</figure>
   
   
 
