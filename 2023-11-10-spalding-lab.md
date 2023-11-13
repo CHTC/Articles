@@ -17,11 +17,11 @@ image:
   path: https://raw.githubusercontent.com/CHTC/Articles/main/images/spaldinglab.jpg
   alt: Members of the Spalding Research Lab
   
-excerpt: The Spalding lab uses CHTC to study plant physiology
+excerpt: The Spalding lab uses high-throughput computing to study plant physiology
 
 ---
 
-**Once they began using HTC resources, the Spalding research group was able to increase their efficiency in data collection and analysis.**
+**Once they began using HTC resources, the Spalding research group was able to increase their efficiency in data collection and analysis and develop new methodologies.**
 
   
 
@@ -45,7 +45,7 @@ When asked about which accomplishment using high throughput computing (HTC) was 
 
   
 
-Since the goals of the experiments determine the type of data the researchers collect, they did not need to adjust the type of data they collected. Rather, using HTC changed the way they created tools to analyze the data. Today, Spalding says his research group continues to use HTC in three ways: “from tool development to extracting the features from the images with the tool that you developed to applying it in the challenge of statistically matching it to elements of the results to elements of the genome.” As his team became more experienced in writing new algorithms to make measurements, they realized that HTC was useful in developing new methodologies; it was more than just increased computing capacity.
+The Spaulding lab did not need to adjust the type of data they collected. Rather, using HTC changed the way they created tools to analyze the data. Today, Spalding says his research group continues to use HTC in three ways: “from tool development to extracting the features from the images with the tool that you developed to applying it in the challenge of statistically matching it to elements of the results to elements of the genome.” As his team became more experienced in writing new algorithms to make measurements, they realized that HTC was useful in developing new methodologies; it was more than just increased computing capacity.
 
   
 
