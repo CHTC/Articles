@@ -41,11 +41,11 @@ Speaking with Livny at the meeting — from whom he learned about high throughpu
 
   
 
-When asked about which accomplishment using high throughput computing (HTC) was most impactful, Spalding said “The way we measure yield-related features from maize ears and several thousand kernels has had a large impact.” The Spalding lab had others from around the world asking for their help in making these measurements. “In many cases, we can use our workflow [algorithms] running on CHTC to process their images of maize ears and kernels and return data that helps them answer their scientific or crop breeding questions,” Spalding says.
+When asked about which accomplishment using high throughput computing (HTC) was most impactful, Spalding said “The way we measure yield-related features from maize ears and several thousand kernels has had a large impact.” The Spalding Lab had others from around the world asking for their help in making these measurements. “In many cases, we can use our workflow [algorithms] running on CHTC to process their images of maize ears and kernels and return data that helps them answer their scientific or crop breeding questions,” Spalding says.
 
   
 
-The Spaulding lab did not need to adjust the type of data they collected. Rather, using HTC changed the way they created tools to analyze the data. Today, Spalding says his research group continues to use HTC in three ways: “from tool development to extracting the features from the images with the tool that you developed to applying it in the challenge of statistically matching it to elements of the results to elements of the genome.” As his team became more experienced in writing new algorithms to make measurements, they realized that HTC was useful in developing new methodologies; it was more than just increased computing capacity.
+The Spaulding Lab did not need to adjust the type of data they collected. Rather, using HTC changed the way they created tools to analyze the data. Today, Spalding says his research group continues to use HTC in three ways: “from tool development to extracting the features from the images with the tool that you developed to applying it in the challenge of statistically matching it to elements of the results to elements of the genome.” As his team became more experienced in writing new algorithms to make measurements, they realized that HTC was useful in developing new methodologies; it was more than just increased computing capacity.
 
   
 
