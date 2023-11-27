@@ -33,7 +33,7 @@ Results that, Blank says, would not have been obtained at the same scale without
 problem at hand, which would not have allowed me to obtain the understanding of shear waves that I did. Throughout my time at UW, I ran tens of thousands of simulations — probably 
 even hundreds of thousands.”
 
-<figure class="figure float-end" style="margin-left: 1em">
+<figure class="figure float-end" style="margin-right: 1em">
   <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/jonblank.jpg' height="300" width="203" class="figure-img img-fluid rounded" alt="Post-doctoral researcher at the University of Pennsylvania Jonathon Blank.">
   <figcaption class="figure-caption"><br/>Post-doctoral researcher at the University of Pennsylvania Jonathon Blank.</figcaption>
 </figure>  
