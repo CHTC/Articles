@@ -34,11 +34,12 @@ problem at hand, which would not have allowed me to obtain the understanding of 
 even hundreds of thousands.”
 
 
-  
-  <figure class="figure float-end" style="margin-left: 1em; width: 203px;">
-  <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/jonblank.jpg' class="figure-img img-fluid rounded" alt="Post-doctoral researcher at the University of Pennsylvania Jonathon Blank." width="203px">
-  <figcaption class="figure-caption">Post-doctoral researcher at the University of Pennsylvania Jonathon Blank.<br/></figcaption>
-</figure>
+
+<figure class="figure float-end" style="margin-left: 1em">
+  <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/jonblank.jpg' height="334" width="206" class="figure-img img-fluid rounded" alt="Post-doctoral researcher at the University of Pennsylvania Jonathon Blank.">
+  <figcaption class="figure-caption"><br/>Post-doctoral researcher at the University of Pennsylvania Jonathon Blank.</figcaption>
+</figure>  
+
 
 
   
