@@ -34,7 +34,7 @@ problem at hand, which would not have allowed me to obtain the understanding of 
 even hundreds of thousands.”
 
 
-<figure class="figure float-end" style="margin-left: 1em">
+<figure class="figure float-end" style="margin-right: 1em">
   <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/jonblank.jpg' height="300" width="203" class="figure-img img-fluid rounded" alt="Post-doctoral researcher at the University of Pennsylvania Jonathon Blank.">
   <figcaption class="figure-caption"><br/>Post-doctoral researcher at the University of Pennsylvania Jonathon Blank.</figcaption>
 </figure>
@@ -47,7 +47,7 @@ interestingly, even though they serve their roles in transmitting force from mus
 well understood.”
  
 
-  <figure class="figure float-end" style="margin-left: 1em">
+  <figure class="figure float-end" style="margin-right: 1em">
   <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/darrylthelen.jpg' height="300" width="203" class="figure-img img-fluid rounded" alt="John Bollinger Chair of Mechanical Engineering Darryl Thelen.">
   <figcaption class="figure-caption"><br/>John Bollinger Chair of Mechanical Engineering Darryl Thelen.</figcaption>
 </figure>
