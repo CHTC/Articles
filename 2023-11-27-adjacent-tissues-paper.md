@@ -33,10 +33,9 @@ Results that, Blank says, would not have been obtained at the same scale without
 problem at hand, which would not have allowed me to obtain the understanding of shear waves that I did. Throughout my time at UW, I ran tens of thousands of simulations — probably 
 even hundreds of thousands.”
 
-
-<figure class="figure float-end" style="margin-right: 1em">
-  <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/jonblank.jpg' height="300" width="203" class="figure-img img-fluid rounded" alt="Post-doctoral researcher at the University of Pennsylvania Jonathon Blank.">
-  <figcaption class="figure-caption"><br/>Post-doctoral researcher at the University of Pennsylvania Jonathon Blank.</figcaption>
+  <figure class="figure float-end" style="margin-left: 1em; width: 250px;">
+  <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/jonblank.jpg' class="figure-img img-fluid rounded" alt="Post-doctoral researcher at the University of Pennsylvania Jonathon Blank." width="250px">
+  <figcaption class="figure-caption">Post-doctoral researcher at the University of Pennsylvania Jonathon Blank.<br/></figcaption>
 </figure>
 
 Using noninvasive sensors called shear wave tensiometers, researchers on this project applied HTC to study tendon structure and function. Currently, research in this field is hard 
@@ -46,10 +45,9 @@ and how they can be applied to humans. “Tendons are very complex materials fro
 interestingly, even though they serve their roles in transmitting force from muscle to bone really well, the mechanisms that give rise to injury and pathology in these tissues aren’t 
 well understood.”
  
-
-  <figure class="figure float-end" style="margin-right: 1em">
-  <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/darrylthelen.jpg' height="300" width="203" class="figure-img img-fluid rounded" alt="John Bollinger Chair of Mechanical Engineering Darryl Thelen.">
-  <figcaption class="figure-caption"><br/>John Bollinger Chair of Mechanical Engineering Darryl Thelen.</figcaption>
+  <figure class="figure float-end" style="margin-left: 1em; width: 250px;">
+  <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/darrylthelen.jpg' class="figure-img img-fluid rounded" alt="John Bollinger Chair of Mechanical Engineering Darryl Thelen." width="250px">
+  <figcaption class="figure-caption">John Bollinger Chair of Mechanical Engineering Darryl Thelen.<br/></figcaption>
 </figure>
 
 In living organisms, researchers have used tensiometers to study the loading of muscles and tendons, including the triceps surae, which connects to the Achilles tendon, Blank notes. 
