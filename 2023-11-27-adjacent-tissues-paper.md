@@ -33,16 +33,10 @@ Results that, Blank says, would not have been obtained at the same scale without
 problem at hand, which would not have allowed me to obtain the understanding of shear waves that I did. Throughout my time at UW, I ran tens of thousands of simulations — probably 
 even hundreds of thousands.”
 
-###
-
 <figure class="figure float-end" style="margin-left: 1em">
   <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/jonblank.jpg' height="300" width="203" class="figure-img img-fluid rounded" alt="Post-doctoral researcher at the University of Pennsylvania Jonathon Blank.">
   <figcaption class="figure-caption"><br/>Post-doctoral researcher at the University of Pennsylvania Jonathon Blank.</figcaption>
 </figure>  
-
-
-
-  
 
 Using noninvasive sensors called shear wave tensiometers, researchers on this project applied HTC to study tendon structure and function. Currently, research in this field is hard 
 to translate because most assessments of tendon and ligament structure-function relationships are performed on the benchtop in a lab, Blank explains. To translate the benchtop
