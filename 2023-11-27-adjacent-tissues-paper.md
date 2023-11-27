@@ -35,8 +35,8 @@ even hundreds of thousands.”
 
 
   
-  <figure class="figure float-end" style="margin-left: 1em; width: 406px;">
-  <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/jonblank.jpg' class="figure-img img-fluid rounded" alt="Post-doctoral researcher at the University of Pennsylvania Jonathon Blank." width="406px">
+  <figure class="figure float-end" style="margin-left: 1em; width: 203px;">
+  <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/jonblank.jpg' class="figure-img img-fluid rounded" alt="Post-doctoral researcher at the University of Pennsylvania Jonathon Blank." width="203px">
   <figcaption class="figure-caption">Post-doctoral researcher at the University of Pennsylvania Jonathon Blank.<br/></figcaption>
 </figure>
 
@@ -52,8 +52,8 @@ well understood.”
  
   
   
-  <figure class="figure float-end" style="margin-right: 1em; width: 406px;">
-  <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/darrylthelen.jpg' class="figure-img img-fluid rounded" alt="John Bollinger Chair of Mechanical Engineering Darryl Thelen." width="406px">
+  <figure class="figure float-end" style="margin-right: 1em; width: 203px;">
+  <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/darrylthelen.jpg' class="figure-img img-fluid rounded" alt="John Bollinger Chair of Mechanical Engineering Darryl Thelen." width="203px">
   <figcaption class="figure-caption">John Bollinger Chair of Mechanical Engineering Darryl Thelen.<br/></figcaption>
 </figure>
 
