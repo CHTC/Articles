@@ -17,8 +17,7 @@ image:
   path: https://raw.githubusercontent.com/CHTC/Articles/main/images/jonblank.jpg
   alt: Jonathon Blank, a co-author of the paper
   
-excerpt: With this technique and the computing power of high throughput computing (HTC) combined, researchers can obtain thousands of simulations to study the pathology of tendons 
-and ligaments.
+excerpt: With this technique and the computing power of high throughput computing (HTC) combined, researchers can obtain thousands of simulations to study the pathology of tendons and ligaments.
 
 ---
 **With this technique and the computing power of high throughput computing (HTC) combined, researchers can obtain thousands of simulations to study the pathology of tendons 
