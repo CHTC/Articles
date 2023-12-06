@@ -103,10 +103,4 @@ I'm getting into home improvement projects, and my apartment makes a great test 
 
 
 **What’s your favorite place you’ve traveled to?**
-My favorite place is probably Mackinac Island in northern Michigan. It was a place that my family would go on trips to growing up, and there’s no cars allowed on the very small island — it’s just horse-drawn carriages or bikes. All day, you just eat fudge because there are a lot of fudge-making places. I just have a lot of good and happy memories there.
-  
-  
-
-**What animal do you think embodies you?**
-
-I would be a golden retriever. I feel like golden retrievers are just really happy and get really excited about a lot of things, and I feel like I tend to get excited about a lot. They love people, they love food, and they’re just very happy dogs. My goal in life is to have a house so I can provide for my flock of goldens one day.
+My favorite place is probably Mackinac Island in northern Michigan. It was a place that my family would go on trips to growing up, and there’s no cars allowed on the very small island — it’s just horse-drawn carriages or bikes. All day, you just eat fudge because there are a lot of fudge-making places. I just have a lot of good and happy memories there.  
