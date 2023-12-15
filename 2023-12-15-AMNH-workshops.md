@@ -17,7 +17,7 @@ image:
   path: https://raw.githubusercontent.com/CHTC/Articles/main/images/amnhgroup.jpeg
   alt: From left to right, Senior Bioinformaticist of the Institute for Comparative Genomics Apurva Narechania, Research Computing Facilitator Rachel Lombardi, and Bioinformatics 
   Specialist Dean Bobo at the AMNH.
-  
+
 excerpt: Subheading: With a multi-day workshop, the museum strives to expand the scale of its educational and training services by bringing additional computing capacity resources to
 New York-area researchers and tapping into the power of high throughput computing (HTC).
 
@@ -26,13 +26,7 @@ New York-area researchers and tapping into the power of high throughput computin
 **Subheading: With a multi-day workshop, the museum strives to expand the scale of its educational and training services by bringing additional computing capacity resources to
 New York-area researchers and tapping into the power of high throughput computing (HTC).**
 
-  <figure class="figure float-end" style="margin-left: 1em; width: 250px;">
-  <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/amnhgroup.jpeg' class="figure-img img-fluid rounded" alt="From left to right, Senior Bioinformaticist of the 
-    Institute for Comparative Genomics Apurva Narechania, Research Computing Facilitator Rachel Lombardi, and Bioinformatics Specialist Dean Bobo at the AMNH." width="667px">
-  <figcaption class="figure-caption">From left to right, Senior Bioinformaticist of the Institute for Comparative Genomics Apurva Narechania, Research Computing Facilitator
-    Rachel Lombardi, and Bioinformatics Specialist Dean Bobo at the AMNH.
-<br/></figcaption>
-</figure>
+![](https://lh7-us.googleusercontent.com/LG2CvtGsthSFiRNtuf1sSh8V2oWg4ui_BDBiGNAQzM6t0N9_9UprHHNx-XKjSmET32cbpy3DP5jvnQUOrXt_u4saIskKu8CTuDqaHpOgrzgbal51i8R4prNbBAIoIYepHMw3ERldaJiRbVJ06Yvbm6A)
 
 
 After “falling in love with the system” during the [2023 OSG School](https://osg-htc.org/user-school-2023/%20/h), [American Museum of Natural History Museum (AMNH)](https://www.amnh.org/%20/h) 
@@ -57,11 +51,12 @@ led a workshop likened to an OSG School crash course, with lectures covering the
 the jobs a user is running, and information for the next steps researchers could take.
 
 
-  <figure class="figure float-end" style="margin-left: 1em; width: 250px;">
-  <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/amnh.jpg' class="figure-img img-fluid rounded" alt="Rachel Lombardi during her presentation." width="667px">
-  <figcaption class="figure-caption">Rachel Lombardi during her presentation.
+  
+<figure class="figure float-end" style="margin-center: 1em">
+  <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/amnh.jpg' height="250" width="300" class="figure-img img-fluid rounded" alt="Rachel Lombardi during her presentation.">
+  <figcaption class="figure-caption"Rachel Lombardi during her presentation.
 <br/></figcaption>
-</figure>
+</figure>    
 
    
 
