@@ -11,15 +11,14 @@ publish_on:
   
 type: news
 
-canonical_url: https://osg-htc.org/spotlights/AMNH-workshops.html
+canonical_url: "https://osg-htc.org/spotlights/AMNH-workshops.html"
 
 
 image:
-  path: https://raw.githubusercontent.com/CHTC/Articles/main/images/amnhgroup.jpeg
+  path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/amnhgroup.jpeg"
   alt: From left to right, Senior Bioinformaticist of the Institute for Comparative Genomics Apurva Narechania, Research Computing Facilitator Rachel Lombardi, and Bioinformatics Specialist Dean Bobo at the AMNH.
 
-excerpt: With a multi-day workshop, the museum strives to expand the scale of its educational and training services by bringing additional computing capacity resources to
-New York-area researchers and tapping into the power of high throughput computing (HTC).
+excerpt: With a multi-day workshop, the museum strives to expand the scale of its educational and training services by bringing additional computing capacity resources to New York-area researchers and tapping into the power of high throughput computing (HTC).
 ---
 
 **Subheading: With a multi-day workshop, the museum strives to expand the scale of its educational and training services by bringing additional computing capacity resources to
