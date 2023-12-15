@@ -52,7 +52,7 @@ the jobs a user is running, and information for the next steps researchers could
   
 <figure class="figure float-end" style="margin-center: 1em">
   <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/amnh.jpg' height="250" width="300" class="figure-img img-fluid rounded" alt="Rachel Lombardi during her presentation.">
-  <figcaption class="figure-caption"Rachel Lombardi during her presentation.
+  <figcaption class="figure-caption">Rachel Lombardi during her presentation.
 <br/></figcaption>
 </figure>    
 
