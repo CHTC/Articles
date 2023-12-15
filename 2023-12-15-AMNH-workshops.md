@@ -4,7 +4,7 @@ title: The American Museum of Natural History Ramps Up Education on Research Com
 author: Sarah Matysiak
 
 publish_on:
-  - <htcondor
+  - htcondor
   - path
   - osg
   - chtc
