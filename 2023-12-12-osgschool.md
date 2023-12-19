@@ -1,5 +1,5 @@
 ---
-title: OSG School mission: Don’t let computing be a barrier to research
+title: "OSG School mission: Don’t let computing be a barrier to research"
 
 author: Malia Bicoy
 
@@ -11,10 +11,10 @@ publish_on:
   
 type: news
 
-canonical_url: https://chtc.cs.wisc.edu/osgschool.html
+canonical_url: "https://chtc.cs.wisc.edu/osgschool.html"
 
 image:
-  path: <https://raw.githubusercontent.com/CHTC/Articles/main/images/OSG-User-School.jpg
+  path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/OSG-User-School.jpg"
   alt: The OSG School 2023 attendees
   
 excerpt: The OSG Consortium hosted its annual OSG School in August 2023, 
