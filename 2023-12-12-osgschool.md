@@ -25,7 +25,7 @@ excerpt: |
 
 Most applicants to the annual OSG School share a common challenge: obstacles within their research that they would like to overcome. Answering this need, the [OSG Consortium](https://osg-htc.org/) holds an annual weeklong School each summer for researchers and facilitators to expand their adoption of high throughput computing (HTC) methodologies. Instructors teach students through a combination of lectures and hands-on activities, starting out with the basics to accommodate all experience levels.
 
-The 11th OSG School took place this last August, with over 50 participants from across the nation as well as 5 attendees from Uganda and Mali, representing over 30 campuses or institutions and 35 research domains.
+This year the 11th OSG School took place in August, with over 50 participants from across the nation as well as 5 attendees from Uganda and Mali, representing over 30 campuses or institutions and 35 research domains.
 
 Online applications to attend the School open in March. Applicants are considered based on how large-scale computing could benefit their research. Over 100 applications are submitted each year, with around 60 being admitted. All of the participants' travel and accommodation expenses are covered with funding from the [Partnership to Advance Throughput Computing](https://path-cc.io/) (PATh) NSF award.
 
@@ -37,7 +37,7 @@ Assistant Professor [Xiaoyuan (Sue) Suo](http://mercury.webster.edu/xiaoyuansuo/
 
 Another participant at this year’s user school was [Paulina Grekov](https://edpsych.education.wisc.edu/staff/grekov-paulina/), a doctoral student in Educational Psychology at the University of Wisconsin–Madison. She works in the quantitative methods program and runs complex statistical models of educational studies. Grekov originally tried to run computations without HTC, but it was taking a toll on her personal computer. “Some of the modeling I was doing, specifically statistical modeling, was just frying my computer. The battery was slowly breaking — it was a disaster — my computer was constantly on overdrive,” Grekov recalled.
 
-During the School, participants were taught the basics of HTC. They were guided through step-by-step instructions and lectures, discussing everything from [HTCondor](https://htcondor.org/) job execution to troubleshooting. Each topic was accompanied by hands-on exercises that allowed attendees to truly experience the power of HTC. The School also delved into extra topics that could be useful to students, like workflows with [DAGMan](https://htcondor.org/dagman/dagman.html) and GPUs.
+During the School, participants were taught the basics of HTC. They were guided through step-by-step instructions and lectures, discussing everything from [HTCondor](https://htcondor.org/) job execution to troubleshooting. Each topic was accompanied by hands-on exercises that allowed attendees to experience the power of HTC. The School also delved into extra topics that could be useful to students, like workflows with [DAGMan](https://htcondor.org/dagman/dagman.html) and GPUs.
 
 Bhogale recalls that she appreciated the time participants were given to work on their own science applications and the ease of finding an expert to answer her questions. “I was running a pilot of the processes that I would want to do during the School — everyone was right there. So if I ran into an issue, I could just talk to someone,” she said.
 
