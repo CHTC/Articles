@@ -24,8 +24,6 @@ excerpt: Salish Kootenai College and CHTC take steps toward bringing underrepres
 
 ---
 
-# Tribal College and CHTC pursue opportunities to expand computing education and infrastructure
-
 ### Salish Kootenai College and CHTC take steps toward bringing underrepresented communities to cyberinfrastructure.
 
 Access to cyberinfrastructure (CI) is the bedrock foundation essential for students and researchers determined to contribute to science. 
