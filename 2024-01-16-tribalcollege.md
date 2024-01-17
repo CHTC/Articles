@@ -21,9 +21,6 @@ image:
   alt: Salish Kootenai College in Montana
   
 excerpt: Salish Kootenai College and CHTC take steps toward bringing underrepresented communities to cyberinfrastructure.
-
-banner_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/IMG_4838.JPG" 
-banner_alt: Banner caption
 ---
 
 ### Salish Kootenai College and CHTC take steps toward bringing underrepresented communities to cyberinfrastructure.
