@@ -40,7 +40,11 @@ is home to the [Confederated Salish and Kootenai Tribes](https://csktribes.org/i
 small, but vital portion of the much larger reservation. The college consists largely of tribal descendents or members, making up almost 80 percent of the 
 school population.
 
-**![](https://raw.githubusercontent.com/CHTC/Articles/main/images/IMG_4838.JPG)**
+<figure class="figure float-end" style="margin-center: 1em">
+  <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/IMG_4838.JPG' height="400" width="250" class="figure-img img-fluid rounded" alt="TCU Salish Kootenai College in Montana.">
+  <figcaption class="figure-caption">TCU Salish Kootenai College in Montana.
+<br/></figcaption>
+</figure>
 
 The [Center for High Throughput Computing](https://chtc.cs.wisc.edu/) (CHTC) Director [Miron Livny](https://wid.wisc.edu/people/miron-livny/) traveled 
 to Montana this past October to meet with Salish Kootenai College faculty and staff. The four-day trip was coordinated by International Networking 
