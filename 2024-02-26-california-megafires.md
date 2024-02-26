@@ -53,7 +53,7 @@ the fire maps [with] the habitat suitability maps to see how much area burned,
 and in what severity.”
 
 <figure class="figure float-end" style="margin-left: 1em">
-  <img src= "https://raw.githubusercontent.com/CHTC/Articles/main/images/j_ayars_profile_pic.jpg"  height="300" width="264" class="figure-img img-fluid rounded" alt="Picture of Jessalyn Ayars posing with mountains">
+  <img src= "https://raw.githubusercontent.com/CHTC/Articles/main/images/j_ayars_profile_pic.jpg"  height="667" width="500" class="figure-img img-fluid rounded" alt="Picture of Jessalyn Ayars posing with mountains">
   <figcaption class="figure-caption">Picture of Jessalyn Ayars posing with mountains<br/></figcaption>
 </figure>
 
