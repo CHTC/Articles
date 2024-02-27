@@ -13,14 +13,14 @@ type: news
 canonical_url: "https://chtc.cs.wisc.edu/cole-story.html"
 
 image:
-  path: "<https://raw.githubusercontent.com/CHTC/Articles/main/images/cole_terrace.jpg"
+  path: "<https://raw.githubusercontent.com/CHTC/Articles/main/images/cole_beads.jpeg"
   alt: HTCondor core developer Cole Bollig
   
 excerpt: Learn about HTCondor core developer Cole Bollig!
 
 ---
 <figure class="figure float-end" style="margin-center: 1em">
-  <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/cole_terrace1.jpg' height="494" width="813" class="figure-img img-fluid rounded" alt="Cole at the Terrace.">
+  <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/cole_beads.jpeg' height="474" width="700" class="figure-img img-fluid rounded" alt="Cole wearing a snazzy pink shirt.">
 </figure>
 
 **What kind of work do you do for CHTC?**
@@ -58,8 +58,9 @@ computer science field can be a bit rough as a fresh graduate. I will say, after
 two years of working here, it’s been great. I’m all for CHTC.
 
 <figure class="figure float-end" style="margin-center: 1em">
-  <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/cole_math.jpg' height="500" width="321" class="figure-img img-fluid rounded" alt="Cole looking sophisticated.">
+  <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/cole_tree.jpeg' height="405" width="400" class="figure-img img-fluid rounded" alt="Cole posing with some trees.">
 </figure>
+
 **What’s your favorite part about working at CHTC?**
 
 I don’t know if I could single it down to one thing. For one, it’s a really cool group 
@@ -134,6 +135,10 @@ HTCondor to modern C++ standards. The code has been around a long time and some 
 the C++ standard library. We’ve been slowly updating HTCondor throughout the millions of 
 lines of code.
 
+<figure class="figure float-end" style="margin-center: 1em">
+  <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/cole_pose.jpeg' height="263" width="800" class="figure-img img-fluid rounded" alt="Cole at the Terrace.">
+</figure>
+
 **You received a Bachelor’s in Media Arts and Game Development from UW-Whitewater, do you create or play video games in your spare time? Tell me a little about that.**
 
 Yes, I am a gamer. I have three Xboxes, a Game Boy Color and a NES. 
@@ -165,7 +170,7 @@ throw away from a good hike. It’s not a very far drive. I’m also a big food 
 and Madison has good food.
 
 <figure class="figure float-end" style="margin-center: 1em">
-  <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/cole_cage.jpg' height="500" width="313" class="figure-img img-fluid rounded" alt="Cole having a JAWsome day at SeaLife.">
+  <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/cole_math.jpg' height="500" width="322" class="figure-img img-fluid rounded" alt="Cole wearing a NASA costume.">
 </figure>
 
 **Do you know any good programming puns?**
