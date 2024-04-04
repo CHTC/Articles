@@ -35,7 +35,7 @@ utilizing this pool.
 
 <figure class="figure float-end" style="margin-right: 1em">
   <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/cartwright-headshot.jpeg' height="240" width="190" class="figure-img img-fluid rounded" alt="Tim Cartwright, OSG Campus Coordinator.">
-  <figcaption class="figure-caption">Tim Cartwright, OSG Campus Coordinator. Photo courtesy of CHTC staff website <br/></figcaption>
+  <figcaption class="figure-caption">Tim Cartwright. <br/></figcaption>
 </figure>
 
 
