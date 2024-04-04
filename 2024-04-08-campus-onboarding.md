@@ -19,7 +19,7 @@ image:
   
 excerpt: A spotlight on two newer contributors to the OSPool and the onboarding process.
 
-banner_src: "https://osg-htc.org/spotlights/campus-onboarding.html"
+banner_src: "https://raw.githubusercontent.com/CHTC/Articles/development/images/ospool-con-map.png"
 banner_alt: Map of institutions contributing to the Open Science Pool (OSPool). 
 
 ---
