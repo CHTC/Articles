@@ -34,8 +34,8 @@ utilizing this pool.
 
 <figure class="figure float-end" style="margin-left: 1em">
   <img src= "https://raw.githubusercontent.com/CHTC/Articles/development/images/cartwright-headshot.jpg" height="667" width="500" class="figure-img img-fluid rounded" 
-alt="Tim Cartwright, OSG Campus Coordinator. Photo courtesy of [CHTC staff](https://chtc.cs.wisc.edu/people.html) website."
-  <figcaption class="figure-caption">Jessalyn Ayars posing in front of mountains<br/></figcaption>
+alt= "Tim Cartwright, OSG Campus Coordinator."
+  <figcaption class="figure-caption">"Tim Cartwright, OSG Campus Coordinator. Photo courtesy of [CHTC staff](https://chtc.cs.wisc.edu/people.html) website."<br/></figcaption>
 </figure>
 
 Approximately 80% of OSPool member schools donate capacity to the OSPool after receiving a Campus Cyberinfrastructure (CC*) grant from the
