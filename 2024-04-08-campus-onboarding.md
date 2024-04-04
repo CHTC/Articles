@@ -32,11 +32,13 @@ says OSG Campus Coordinator [Tim Cartwright](https://www.cs.wisc.edu/staff/cartw
 By sharing idle, unused capacity with institutions nationwide, contributors enhance the OSPool and contribute to the science executed by researchers
 utilizing this pool.
 
-<figure class="figure float-end" style="margin-left: 1em">
-  <img src= "https://raw.githubusercontent.com/CHTC/Articles/development/images/cartwright-headshot.jpg" height="667" width="500" class="figure-img img-fluid rounded" 
-alt= "Tim Cartwright, OSG Campus Coordinator."
-  <figcaption class="figure-caption">"Tim Cartwright, OSG Campus Coordinator. Photo courtesy of [CHTC staff](https://chtc.cs.wisc.edu/people.html) website."<br/></figcaption>
+
+<figure class="figure float-end" style="margin-right: 1em">
+  <img src='https://raw.githubusercontent.com/CHTC/Articles/development/images/cartwright-headshot.jpeg' height="200" width="175" class="figure-img img-fluid rounded" alt="Tim Cartwright, OSG Campus Coordinator.">
+  <figcaption class="figure-caption">Tim Cartwright, OSG Campus Coordinator. Photo courtesy of CHTC staff website
+<br/></figcaption>
 </figure>
+
 
 Approximately 80% of OSPool member schools donate capacity to the OSPool after receiving a Campus Cyberinfrastructure (CC*) grant from the
 [National Science Foundation](https://new.nsf.gov/funding/opportunities/campus-cyberinfrastructure-cc) (NSF), which requires dedicating 20% of 
