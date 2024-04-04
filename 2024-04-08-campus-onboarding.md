@@ -113,7 +113,7 @@ Once campuses are onboarded, OSG staff continue to collaborate with campus perso
 campus-focused video conference where campus staff can talk and learn from each other or OSG staff. [Throughput Computing](https://chtc.cs.wisc.edu/events/2024/01/throughput-computing-2024)
 and [OSG School](https://osg-htc.org/school-2024/), two events in the summer, also offer in-person opportunities for campus staff to visit OSG staff and other campuses on the University of Wisconsin–Madison campus.
 
-**Prospective CC* Campuses**
+**Prospective Campuses**
 
 The NSF CC* program provides unique access to resources and funding to improve campus research. CC* applicants can receive a letter of collaboration from one 
 of the [PATh](https://path-cc.io/) PIs for submission. For more information, 
