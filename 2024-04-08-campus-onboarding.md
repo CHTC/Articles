@@ -14,12 +14,12 @@ type: user
 canonical_url: "https://osg-htc.org/spotlights/campus-onboarding.html"
 
 image:
-  path: "https://raw.githubusercontent.com/CHTC/Articles/development/images/ospool-con-map.png"
+  path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/ospool-con-map.png"
   alt: Map of institutions contributing to the Open Science Pool (OSPool). 
   
 excerpt: A spotlight on two newer contributors to the OSPool and the onboarding process.
 
-banner_src: "https://raw.githubusercontent.com/CHTC/Articles/development/images/ospool-con-map.png"
+banner_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/ospool-con-map.png"
 banner_alt: Map of institutions contributing to the Open Science Pool (OSPool). 
 
 ---
@@ -34,7 +34,7 @@ utilizing this pool.
 
 
 <figure class="figure float-end" style="margin-right: 1em">
-  <img src='https://raw.githubusercontent.com/CHTC/Articles/development/images/cartwright-headshot.jpeg' height="200" width="175" class="figure-img img-fluid rounded" alt="Tim Cartwright, OSG Campus Coordinator.">
+  <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/cartwright-headshot.jpeg' height="200" width="175" class="figure-img img-fluid rounded" alt="Tim Cartwright, OSG Campus Coordinator.">
   <figcaption class="figure-caption">Tim Cartwright, OSG Campus Coordinator. Photo courtesy of CHTC staff website
 <br/></figcaption>
 </figure>
@@ -91,7 +91,7 @@ and his colleagues at Merit and WSU secured a CC* grant to create HORUS and begi
 but we managed to get everything operational earlier this year,” he said.
 
  <figure class="figure float-end" style="margin-left: 1em; width: 250px;">
-  <img src="https://raw.githubusercontent.com/CHTC/Articles/development/images/horus-logo.png" class="figure-img img-fluid rounded" alt="HORUS logo." width="250px">
+  <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/horus-logo.png" class="figure-img img-fluid rounded" alt="HORUS logo." width="250px">
   <figcaption class="figure-caption">HORUS logo, inspired by the Egyptian god Horus. Created by Michelle David of Michigan State University, courtesy of HORUS website. <br/></figcaption>
 </figure>
 
