@@ -32,7 +32,7 @@ says OSG Campus Coordinator [Tim Cartwright](https://www.cs.wisc.edu/staff/cartw
 By sharing idle, unused capacity with institutions nationwide, contributors enhance the OSPool and contribute to the science executed by researchers
 utilizing this pool.
 
-<figure class="figure float-end" style="margin-left: 1em">
+<figure class="figure float-end" style="margin-right: 1em">
   <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/cartwright-headshot.jpeg' height="240" width="190" class="figure-img img-fluid rounded" alt="Tim Cartwright, OSG Campus Coordinator.">
   <figcaption class="figure-caption">Tim Cartwright, OSG Campus Coordinator. Image courtesy of CHTC staff website. <br/></figcaption>
 </figure>
