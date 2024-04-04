@@ -14,7 +14,7 @@ type: user
 canonical_url: "https://osg-htc.org/spotlights/campus-onboarding.html"
 
 image:
-  path: "https://raw.githubusercontent.com/CHTC/Articles/development/images/ospool-con-map"
+  path: "https://raw.githubusercontent.com/CHTC/Articles/development/images/ospool-con-map.png"
   alt: Map of institutions contributing to the Open Science Pool (OSPool). 
   
 excerpt: A spotlight on two newer contributors to the OSPool and the onboarding process.
