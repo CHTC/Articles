@@ -7,7 +7,7 @@ publish_on:
   - osg
   - path
   - htcondor
-  - chtc
+  - chtc 
   
 type: user
 
