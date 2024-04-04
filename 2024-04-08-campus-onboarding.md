@@ -90,6 +90,11 @@ computing and storage capacity, as well as contribute to open capacity. [Shawn M
 and his colleagues at Merit and WSU secured a CC* grant to create HORUS and begin contributing capacity to the OSPool. “We had been planning to join for a while, 
 but we managed to get everything operational earlier this year,” he said.
 
+ <figure class="figure float-end" style="margin-left: 1em; width: 250px;">
+  <img src="https://raw.githubusercontent.com/CHTC/Articles/development/images/horus-logo.png" class="figure-img img-fluid rounded" alt="HORUS logo." width="250px">
+  <figcaption class="figure-caption">HORUS logo, inspired by the Egyptian god Horus. Created by Michelle David of Michigan State University, courtesy of HORUS website. <br/></figcaption>
+</figure>
+
 HORUS project team members faced unique technical challenges trying to combine their existing statewide system with the broader OSPool. Between the initial meeting 
 and the onboarding, McKee and his colleagues established a secure transfer node for the OSG Consortium to use. Similar to Montana State, the HORUS project engineers
 have a strong background in research computing which made the integration straightforward. In the end, connecting via SSH jump hosts and routing jobs to all three 
