@@ -24,7 +24,7 @@ banner_alt: Map of institutions contributing to the Open Science Pool (OSPool).
 
 ---
 
-**A spotlight on two newer contributors to the OSPool and the onboarding process.**
+*A spotlight on two newer contributors to the OSPool and the onboarding process.*
 
 A campus’ motivation to contribute computing capacity to the [Open Science Pool](https://osg-htc.org/services/open_science_pool.html) (OSPool), 
 an internationally recognized resource supporting scientific research, can be distilled down to the desire to "become part of something bigger," 
