@@ -14,17 +14,17 @@ type: user
 canonical_url: "https://osg-htc.org/spotlights/campus-onboarding.html"
 
 image:
-  path: "https://raw.githubusercontent.com/CHTC/Articles/development/images/ospool-con-map"
+  path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/ospool-con-map.png"
   alt: Map of institutions contributing to the Open Science Pool (OSPool). 
-  
+
 excerpt: A spotlight on two newer contributors to the OSPool and the onboarding process.
 
-banner_src: "https://osg-htc.org/spotlights/campus-onboarding.html"
+banner_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/ospool-con-map.png"
 banner_alt: Map of institutions contributing to the Open Science Pool (OSPool). 
 
 ---
 
-**A spotlight on two newer contributors to the OSPool and the onboarding process.**
+*A spotlight on two newer contributors to the OSPool and the onboarding process.*
 
 A campus’ motivation to contribute computing capacity to the [Open Science Pool](https://osg-htc.org/services/open_science_pool.html) (OSPool), 
 an internationally recognized resource supporting scientific research, can be distilled down to the desire to "become part of something bigger," 
@@ -32,13 +32,10 @@ says OSG Campus Coordinator [Tim Cartwright](https://www.cs.wisc.edu/staff/cartw
 By sharing idle, unused capacity with institutions nationwide, contributors enhance the OSPool and contribute to the science executed by researchers
 utilizing this pool.
 
-
-<figure class="figure float-end" style="margin-right: 1em">
-  <img src='https://raw.githubusercontent.com/CHTC/Articles/development/images/cartwright-headshot.jpeg' height="200" width="175" class="figure-img img-fluid rounded" alt="Tim Cartwright, OSG Campus Coordinator.">
-  <figcaption class="figure-caption">Tim Cartwright, OSG Campus Coordinator. Photo courtesy of CHTC staff website
-<br/></figcaption>
+<figure class="figure float-end" style="margin-left: 1em">
+  <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/cartwright-headshot.jpeg' height="240" width="190" class="figure-img img-fluid rounded" alt="Tim Cartwright, OSG Campus Coordinator.">
+  <figcaption class="figure-caption">Tim Cartwright. <br/></figcaption>
 </figure>
-
 
 Approximately 80% of OSPool member schools donate capacity to the OSPool after receiving a Campus Cyberinfrastructure (CC*) grant from the
 [National Science Foundation](https://new.nsf.gov/funding/opportunities/campus-cyberinfrastructure-cc) (NSF), which requires dedicating 20% of 
@@ -91,7 +88,7 @@ and his colleagues at Merit and WSU secured a CC* grant to create HORUS and begi
 but we managed to get everything operational earlier this year,” he said.
 
  <figure class="figure float-end" style="margin-left: 1em; width: 250px;">
-  <img src="https://raw.githubusercontent.com/CHTC/Articles/development/images/horus-logo.png" class="figure-img img-fluid rounded" alt="HORUS logo." width="250px">
+  <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/horus-logo.png" class="figure-img img-fluid rounded" alt="HORUS logo." width="250px">
   <figcaption class="figure-caption">HORUS logo, inspired by the Egyptian god Horus. Created by Michelle David of Michigan State University, courtesy of HORUS website. <br/></figcaption>
 </figure>
 
