@@ -34,7 +34,7 @@ utilizing this pool.
 
 <figure class="figure float-end" style="margin-left: 1em">
   <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/cartwright-headshot.jpeg' height="240" width="190" class="figure-img img-fluid rounded" alt="Tim Cartwright, OSG Campus Coordinator.">
-  <figcaption class="figure-caption">Tim Cartwright. <br/></figcaption>
+  <figcaption class="figure-caption">Tim Cartwright, OSG Campus Coordinator. <br/></figcaption>
 </figure>
 
 Approximately 80% of OSPool member schools donate capacity to the OSPool after receiving a Campus Cyberinfrastructure (CC*) grant from the
@@ -62,7 +62,7 @@ members. The first meeting is a “kickoff,” where Cartwright and the campus s
 the two meetings, with campus staff setting up access to their cluster and OSG staff preparing connection and service configuration. The second meeting is the actual
 integration to the OSPool, which involves setting up new OSG services to connect the site and manually verifying correct operations.
 
-During the integration meeting, the OSG team verifies that access to the site works as expected, that manual tests succeed and that the end-to-end automated 
+During the integration meeting, the OSG team verifies that access to the site works as expected, that manual tests succeed, and that the end-to-end automated 
 processes function. To alleviate safety concerns, Cartwright explains that connections into the campus system are limited to one common service (SSH) and even 
 then, only to one computer within the campus. All other networks are established from within the campus to external systems. “We have tried to make it as 
 minimally intrusive as we possibly can to work with individual campuses and what their security teams are comfortable with,” he said.
