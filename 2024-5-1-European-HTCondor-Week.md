@@ -16,8 +16,7 @@ image:
 
 excerpt: This workshop is an excellent opportunity to learn about HTCondor in the beautiful Amsterdam. 
 
-card_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/HTCondor_red_blk_notag.png"
-card_alt: HTCondor logo
+
 ---
 
 
