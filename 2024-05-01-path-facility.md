@@ -1,3 +1,4 @@
+
 ---
 title:PATh Facility provides dedicated HTC capacity to NSF-funded projects 
 
@@ -21,6 +22,7 @@ excerpt: *Since 2022, the [Partnership to Advance Throughput Computing](https://
 
 banner_src:"https://raw.githubusercontent.com/CHTC/Articles/main/images/PATh-Facility-Hardware.jpg"
 banner_alt:PATh Facility hardware. 
+
 ---
 
 *Since 2022, the [Partnership to Advance Throughput Computing](https://path-cc.io/) (PATh) Facility has provided dedicated high throughput computing (HTC) 
