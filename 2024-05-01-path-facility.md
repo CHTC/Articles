@@ -1,6 +1,6 @@
 
 ---
-title: PATh Facility provides dedicated HTC capacity to NSF-funded projects 
+title: "PATh Facility provides dedicated HTC capacity to NSF-funded projects" 
 
 author: Bryna Goeking
 
@@ -12,7 +12,7 @@ publish_on:
   
 type: news
 
-canonical_url: "https://path-cc.io/news/2024-05-01-path-facility-story"
+canonical_url: "https://path-cc.io/news/2024-05-01-path-facility-story/"
 
 image:
   path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/PATh-Facility-Hardware.jpg"
@@ -22,6 +22,7 @@ excerpt: *Since 2022, the [Partnership to Advance Throughput Computing](https://
 
 banner_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/PATh-Facility-Hardware.jpg"
 banner_alt: PATh Facility hardware. 
+
 ---
 
 *Since 2022, the [Partnership to Advance Throughput Computing](https://path-cc.io/) (PATh) Facility has provided dedicated high throughput computing (HTC) 
@@ -37,6 +38,11 @@ run within HTCondor.
 “As our ambition grew, we were looking out for a larger system, PATh came as a blessing,” Chakraborty reflected. “The ultimate satisfaction is to get 
 some new understanding and learning of the science we are working on,” he reflected. “We hope that this will be one of our first major achievements using 
 the PATh Facility.”
+
+<figure class="figure float-end" style="margin-left: 1em">
+  <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/HimadriChakraborty2024.jpg' height="240" width="190" class="figure-img img-fluid rounded" alt="Himadri Chakraborty">
+  <figcaption class="figure-caption">Himadri Chakraborty. <br/></figcaption>
+</figure>
 
 The PATh Facility, created through the Partnership to Advance Throughput Computing (PATh; NSF grant #2030508), enables researchers of an NSF-funded project 
 to use its dedicated distributed high-throughput computing (HTC) capacity. PATh is an ongoing collaboration between the [Center for High Throughput Computing](https://chtc.cs.wisc.edu/) (CHTC) 
@@ -67,6 +73,11 @@ Dorsey became interested in the OSPool after attending [OSG School](https://osg-
 [HTCondor](https://htcondor.org/) and got to know Koch and other facilitators. Dorsey’s research specializes in statistical physics. He uses computational models
 to study magnetic materials and how magnetic fields can be used to alter properties made from different kinds of magnetic nanoparticles. His work benefits from the 
 consistent access to computing for runs that accumulate over a long period of time.
+
+<figure class="figure float-end" style="margin-left: 1em">
+  <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/Dorsey-headshot.jpg' height="240" width="190" class="figure-img img-fluid rounded" alt="Matthew Dorsey">
+  <figcaption class="figure-caption">Matthew Dorsey. <br/></figcaption>
+</figure>
 
 Dorsey acknowledges that each system has its advantages and disadvantages. For Dorsey, the PATh Facility is better equipped for more complex jobs due to capacity and
 allocated time, while the OSPool is better for testing out comparatively smaller runs. “It was really easy to translate what I was doing on the OSPool to the PATh 
