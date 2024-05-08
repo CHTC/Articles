@@ -1,4 +1,3 @@
-
 ---
 title:PATh Facility provides dedicated HTC capacity to NSF-funded projects 
 
