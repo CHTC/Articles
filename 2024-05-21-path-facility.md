@@ -10,7 +10,7 @@ publish_on:
   - htcondor
 
 type: news
-canonical_url: "https://path-cc.io/news/2024-05-20-path-facility.html"
+canonical_url: "https://path-cc.io/news/2024-05-21-path-facility.html"
 
 image:
    path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/PATh-Facility-Hardware.jpg"
