@@ -1,7 +1,8 @@
----
-title:PATh Facility provides dedicated HTC capacity to NSF-funded projects 
 
-author:Bryna Goeking
+---
+title: PATh Facility provides dedicated HTC capacity to NSF-funded projects 
+
+author: Bryna Goeking
 
 publish_on:
   - path
@@ -9,30 +10,37 @@ publish_on:
   - osg
   - htcondor
 
-type:news
+type: news
 
-canonical_url:"https://path-cc.io/news/2024-05-01-path-facility-story/"
+canonical_url: "https://path-cc.io/news/2024-05-01-path-facility-story/"
 
 image:
-   path:"https://raw.githubusercontent.com/CHTC/Articles/main/images/PATh-Facility-Hardware.jpg"
-   alt:PATh Facility hardware. 
+   path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/PATh-Facility-Hardware.jpg"
+   alt: PATh Facility hardware."
   
-excerpt: *Since 2022, the [Partnership to Advance Throughput Computing](https://path-cc.io/) (PATh) Facility has provided dedicated high throughput computing (HTC) capacity to researchers nationwide. Following a year of expansion, here’s a look into the researchers’ work and how it has been enabled by the PATh Facility.*
+excerpt: *Since 2022, the [Partnership to Advance Throughput Computing](https://path-cc.io/) (PATh) Facility has provided dedicated high
+throughput computing (HTC) capacity to researchers nationwide. Following a year of expansion, here’s a look into the researchers’ work and
+how it has been enabled by the PATh Facility.*
 
-banner_src:"https://raw.githubusercontent.com/CHTC/Articles/main/images/PATh-Facility-Hardware.jpg"
-banner_alt:PATh Facility hardware. 
+banner_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/PATh-Facility-Hardware.jpg"
+banner_alt: PATh Facility hardware. 
 
 ---
 
-*Since 2022, the [Partnership to Advance Throughput Computing](https://path-cc.io/) (PATh) Facility has provided dedicated high throughput computing (HTC) 
-capacity to researchers nationwide. Following a year of expansion, here’s a look into the researchers’ work and how it has been enabled by the PATh Facility.*
+*Since 2022, the [Partnership to Advance Throughput Computing](https://path-cc.io/) (PATh) Facility has provided dedicated high throughput
+computing (HTC) 
+capacity to researchers nationwide. Following a year of expansion, here’s a look into the researchers’ work and how it has been enabled by
+the PATh Facility.*
 
 Searching for more computing capacity, Dr. [Himadri Chakraborty](https://www.nwmissouri.edu/naturalsciences/directory/chakraborty.htm) of 
-[Northwest Missouri State University](https://www.nwmissouri.edu/) first heard of the [PATh Facility](https://path-cc.io/facility/), a purpose-built,
-national-scale distributed high throughput computing (HTC) resource, from his NSF program director. After approaching PATh Research Facilitators to 
-acquire an account and computing “credits,” Chakraborty’s team was able to advance their work in physics using computing resources from the PATh Facility.
-[Christina Koch](https://www.cs.wisc.edu/staff/koch-christina/), Lead Research Facilitator at CHTC guided Chakraborty’s team in transitioning workflows to 
-run within HTCondor.
+[Northwest Missouri State University](https://www.nwmissouri.edu/) first heard of the [PATh Facility](https://path-cc.io/facility/), a
+purpose-built,
+national-scale distributed high throughput computing (HTC) resource, from his NSF program director. After approaching PATh Research
+Facilitators to 
+acquire an account and computing “credits,” Chakraborty’s team was able to advance their work in physics using computing resources from the
+PATh Facility.
+[Christina Koch](https://www.cs.wisc.edu/staff/koch-christina/), Lead Research Facilitator at CHTC guided Chakraborty’s team in
+transitioning workflows to run within HTCondor.
 
 “As our ambition grew, we were looking out for a larger system, PATh came as a blessing,” Chakraborty reflected. “The ultimate satisfaction is to get 
 some new understanding and learning of the science we are working on,” he reflected. “We hope that this will be one of our first major achievements using 
