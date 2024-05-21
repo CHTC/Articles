@@ -24,7 +24,6 @@ how it has been enabled by the PATh Facility.*
 
 banner_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/PATh-Facility-Hardware.jpg"
 banner_alt: PATh Facility hardware. 
-
 ---
 
 *Since 2022, the [Partnership to Advance Throughput Computing](https://path-cc.io/) (PATh) Facility has provided dedicated high throughput
