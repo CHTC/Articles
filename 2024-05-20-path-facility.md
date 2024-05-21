@@ -21,7 +21,6 @@ excerpt: Since 2022, the Partnership to Advance Throughput Computing (PATh) Faci
 throughput computing (HTC) capacity to researchers nationwide. Following a year of expansion, here’s a look into the researchers’ work and
 how it has been enabled by the PATh Facility.
 
-
 ---
 
 *Since 2022, the [Partnership to Advance Throughput Computing](https://path-cc.io/) (PATh) Facility has provided dedicated high throughput
