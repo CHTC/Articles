@@ -13,6 +13,9 @@ type: news
 
 canonical_url: "https://path-cc.io/news/2024-05-20-path-facility-story/"
 
+banner_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/PATh-Facility-Hardware.jpg"
+banner_alt: PATh Facility hardware. 
+
 image:
    path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/PATh-Facility-Hardware.jpg"
    alt: PATh Facility hardware.
