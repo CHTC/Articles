@@ -15,7 +15,7 @@ canonical_url: "https://path-cc.io/news/2024-05-20-path-facility-story/"
 
 image:
    path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/PATh-Facility-Hardware.jpg"
-   alt: PATh Facility hardware."
+   alt: PATh Facility hardware.
   
 excerpt: Since 2022, the [Partnership to Advance Throughput Computing](https://path-cc.io/) (PATh) Facility has provided dedicated high
 throughput computing (HTC) capacity to researchers nationwide. Following a year of expansion, here’s a look into the researchers’ work and
