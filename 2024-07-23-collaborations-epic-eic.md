@@ -22,8 +22,8 @@ banner_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/epic-ei
 banner_alt: EPIC/EIC Banner
 
 excerpt: |
-  Collaborations Between Two National Laboratories and the OSG Consortium Propel Nuclear and High-Energy Physics Forward ---
-
+  Collaborations Between Two National Laboratories and the OSG Consortium Propel Nuclear and High-Energy Physics Forward
+---
 
 <figure>
 <img style="width:100%" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/epic-eic-collab.jpg" alt=" Electron Beam Ion Source / Brookhaven National Laboratory"/>
