@@ -1,5 +1,5 @@
 ---
-short_title: "Collaboration between two major labs and the OSG" 
+short_title: "Collaborations between two major labs and the OSG" 
 title: "Collaborations Between Two National Laboratories and the OSG Consortium Propel Nuclear and High-Energy Physics Forward"
 
 author: Cristina Encarnacion
@@ -15,18 +15,18 @@ type: user
 canonical_url: https://osg-htc.org/spotlights/collaborations-epic-eic.html
 
 image:
-path: https://raw.githubusercontent.com/CHTC/Articles/main/images/epic-eic-collab.jpg
+path: https://raw.githubusercontent.com/CHTC/Articles/development/images/epic-eic-collab.jpg
 alt: EPIC/EIC Banner
 
-banner_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/epic-eic-collab.jpg"
+banner_src: "https://raw.githubusercontent.com/CHTC/Articles/development/images/epic-eic-collab.jpg"
 banner_alt: EPIC/EIC Banner
 
 excerpt: |
-Collaborations Between Two National Laboratories and the OSG Consortium Propel Nuclear and High-Energy Physics Forward
----
+  Collaborations Between Two National Laboratories and the OSG Consortium Propel Nuclear and High-Energy Physics Forward ---
+
 
 <figure>
-<img style="width:100%" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/epic-eic-collab.jpg" alt=" Electron Beam Ion Source / Brookhaven National Laboratory"/>
+<img style="width:100%" src="https://raw.githubusercontent.com/CHTC/Articles/development/images/epic-eic-collab.jpg" alt=" Electron Beam Ion Source / Brookhaven National Laboratory"/>
 <figcaption>Electron Beam Ion Source / Brookhaven National Laboratory</figcaption>
 </figure>
 
