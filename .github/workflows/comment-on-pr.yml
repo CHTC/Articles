@@ -16,21 +16,20 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Comment URL on PR
+      - name: Comment url on PR
         uses: actions/github-script@v6
         with:
           script: |
-            const prFiles = github.rest.pulls.listFiles({
+            
+            const prFiles = await github.rest.pulls.listFiles({
               owner: context.repo.owner,
               repo: context.repo.repo,
               pull_number: context.issue.number,
             });
-
-            const mdFiles = prFiles.data
-              .filter(file => file.filename.endsWith('.md'))
-              .map(file => file.filename);
-
-            if (mdFiles.length === 0) {
+            
+            const mdFiles = prFiles.data.filter(file => file.filename.endsWith('.md')).map(file => file.filename);
+            
+            if(mdFiles.length === 0){
               github.rest.issues.createComment({
                 issue_number: context.issue.number,
                 owner: context.repo.owner,
@@ -39,43 +38,18 @@ jobs:
               });
               return;
             }
-
+            
             const basePath = "https://chtc.github.io/article-preview?url=";
-
-            async function isValidUrl(url) {
-              try {
-                const response = await fetch(url, { method: "HEAD" }); // Use HEAD to check existence
-                return response.ok;
-              } catch (error) {
-                console.error(`Error checking URL: ${url}`, error);
-                return false;
-              }
-            }
-
-            const validUrls = [];
-
-            for (const file of mdFiles) {
-              const url = `${basePath}https://raw.githubusercontent.com/${context.repo.owner}/${context.repo.repo}/refs/heads/${context.payload.pull_request.head.ref}/${file}`;
-
-              if (await isValidUrl(url)) {
-                validUrls.push(`URL to preview article: ${url}`);
-              } else {
-                console.error(`Skipping invalid URL: ${url}`);
-              }
-            }
-
-            if (validUrls.length > 0) {
+            const urls = mdFiles.map(file => `${basePath}https://raw.githubusercontent.com/${context.repo.owner}/${context.repo.repo}/refs/heads/${context.payload.pull_request.head.ref}/${file}`);
+            
+            const commentBody = urls.map(url => `URL to preview article: ${url}`).join("\n\n");
+            if(commentBody.trim().length > 0){
               github.rest.issues.createComment({
                 issue_number: context.issue.number,
                 owner: context.repo.owner,
                 repo: context.repo.repo,
-                body: validUrls.join("\n\n")
-              });
-            } else {
-              github.rest.issues.createComment({
-                issue_number: context.issue.number,
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                body: "No valid URLs detected"
+                body: `${commentBody}`
               });
             }
+            
+
