@@ -8,6 +8,8 @@ publish_on:
   - htcondor
 type: feature
 image:
+  path: https://raw.githubusercontent.com/CHTC/Articles/main/images/record-contributing-institutions/oru.jpg
+  alt: Oral Roberts University image
 excerpt: "In the past year, 75 institutions contributed to the OSPool, setting a new record for the number of contributors."
 ---
 
