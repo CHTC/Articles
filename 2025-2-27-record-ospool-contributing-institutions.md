@@ -7,24 +7,28 @@ publish_on:
   - chtc
   - htcondor
 type: feature
-image: 
+image:
 excerpt: "In the past year, 75 institutions contributed to the OSPool, setting a new record for the number of contributors."
 ---
 
 An increasing number of campuses across the country are making an impact on science and [contributing a share of their computing capacity](https://osg-htc.org/services/open_science_pool/institutions) to the OSPool. The OSPool is a crucial resource for researchers across the United States, providing access to any researcher affiliated with a U.S. institution to large-scale computational capacity to drive progress in open science. Using [HTCondor](https://htcondor.org/) and other distributed computing technologies, the OSPool is designed to support high throughput workloads that consist of large ensembles of independent computations.
 
+<hr>
+
 <div class="row">
-<div class="col-6">
+<div class="col-12 col-sm-8 col-md-9">
 <ul>
 <li>75 contributing institutions</li>
 <li>243 projects</li>
 <li>561 users</li>
 </ul>
 </div>
-<div class="col-6">
-  <img style="width:100%" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/record-contributing-institutions/path.png" alt="Path Logo"/>
+<div class="col-12 col-sm-4 col-md-3 d-none d-sm-block">
+  <img style="width: 100%" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/record-contributing-institutions/path.png" alt="Path Logo"/>
 </div>
 </div>
+
+<hr>
 
 In the past year, 75 institutions contributed to the OSPool, setting a new record for the number of contributors. Many new campuses, diverse in size and location, are sharing their computing capacity and contributing their computing resources to help drive innovation and advance open science.
 
@@ -41,7 +45,7 @@ Read [here](https://chtc.cs.wisc.edu/campus-onboarding.html) to learn more about
 
 <div class="col-12 col-md-6">
   <h3>Colgate University</h3>
-  <figure>
+  <figure class="pb-2">
     <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/record-contributing-institutions/cu.jpg" alt="Colgate University" />
     <figcaption>Photo Credit: Benutzer Stilfehler</figcaption>
   </figure>
@@ -52,7 +56,7 @@ Read [here](https://chtc.cs.wisc.edu/campus-onboarding.html) to learn more about
 
 <div class="col-12 col-md-6">
   <h3>University of California, Merced</h3>
-  <figure>
+  <figure class="pb-2">
     <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/record-contributing-institutions/ucm.jpg" alt="University of California, Merced" />
     <figcaption>Photo Credit: Veronica Adrover, UC Merced</figcaption>
   </figure>
@@ -63,7 +67,7 @@ Read [here](https://chtc.cs.wisc.edu/campus-onboarding.html) to learn more about
 
 <div class="col-12 col-md-6">
   <h3>Georgia Institute of Technology</h3>
-  <figure>
+  <figure class="pb-2">
     <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/record-contributing-institutions/git.jpg" alt="Georgia Institute of Technology" />
     <figcaption>Photo Credit: Wally Gobetz</figcaption>
   </figure>
@@ -74,7 +78,7 @@ Read [here](https://chtc.cs.wisc.edu/campus-onboarding.html) to learn more about
 
 <div class="col-12 col-md-6">
   <h3>Louisiana State University</h3>
-  <figure>
+  <figure class="pb-2">
     <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/record-contributing-institutions/lsu.jpg" alt="Louisiana State University" />
     <figcaption>Photo Credit: David Pinter</figcaption>
   </figure>
@@ -85,7 +89,7 @@ Read [here](https://chtc.cs.wisc.edu/campus-onboarding.html) to learn more about
 
 <div class="col-12 col-md-6">
   <h3>North Carolina State University</h3>
-  <figure>
+  <figure class="pb-2">
     <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/record-contributing-institutions/ncsu.jpg" alt="North Carolina State University" />
     <figcaption>Photo Credit: Library of Congress</figcaption>
   </figure>
@@ -96,7 +100,7 @@ Read [here](https://chtc.cs.wisc.edu/campus-onboarding.html) to learn more about
 
 <div class="col-12 col-md-6">
   <h3>University of Michigan - Ann Arbor</h3>
-  <figure>
+  <figure class="pb-2">
     <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/record-contributing-institutions/umaa.jpg" alt="University of Michigan - Ann Arbor" />
     <figcaption>Photo Credit: Daryl Marshke</figcaption>
   </figure>
@@ -107,7 +111,7 @@ Read [here](https://chtc.cs.wisc.edu/campus-onboarding.html) to learn more about
 
 <div class="col-12 col-md-6">
   <h3>University of Wisconsin- La Crosse</h3>
-  <figure>
+  <figure class="pb-2">
     <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/record-contributing-institutions/uwl.jpg" alt="University of Wisconsin- La Crosse" />
     <figcaption>Photo Credit: Laura Oehler</figcaption>
   </figure>
@@ -118,7 +122,7 @@ Read [here](https://chtc.cs.wisc.edu/campus-onboarding.html) to learn more about
 
 <div class="col-12 col-md-6">
   <h3>University of Washington</h3>
-  <figure>
+  <figure class="pb-2">
     <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/record-contributing-institutions/uw.jpg" alt="University of Washington" />
     <figcaption>Photo Credit: Semenov Paxan via Shutterstock</figcaption>
   </figure>
@@ -129,7 +133,7 @@ Read [here](https://chtc.cs.wisc.edu/campus-onboarding.html) to learn more about
 
 <div class="col-12 col-md-6">
   <h3>Oral Roberts University</h3>
-  <figure>
+  <figure class="pb-2">
     <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/record-contributing-institutions/oru.jpg" alt="Oral Roberts University" />
     <figcaption>Photo Credit: Oral Roberts University</figcaption>
   </figure>
@@ -140,7 +144,7 @@ Read [here](https://chtc.cs.wisc.edu/campus-onboarding.html) to learn more about
 
 <div class="col-12 col-md-6">
   <h3>New Mexico State University</h3>
-  <figure>
+  <figure class="pb-2">
     <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/record-contributing-institutions/nmsu.jpg" alt="New Mexico State University" />
     <figcaption>Photo Credit: New Mexico State University</figcaption>
   </figure>
