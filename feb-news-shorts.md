@@ -7,6 +7,9 @@ publish_on:
   - osg
   - path
 type: news
+image: 
+  path: https://raw.githubusercontent.com/CHTC/Articles/main/images/feb-news-shorts/lab.png
+  alt: Lab setting overlooking microscope
 excerpt: "This feature centers on two news updates from the Center For High Throughput Computing: The CC* (Campus Cyberinfrastructure) PI Workshop and the impacts of HTC on study of Neuroscience and Addiction."
 ---
 
