@@ -8,7 +8,7 @@ publish_on:
   - htcondor
 type: news
 image:
-  path: https://raw.githubusercontent.com/CHTC/Articles/main/images/record-contributing-institutions/nairr-card.jpg
+  path: https://raw.githubusercontent.com/CHTC/Articles/main/images/nairr-card.jpg
   alt: Abstract image of dots in rings around a center point expanding outwards
 excerpt: "As of February 20th,  the Partnership to Advance Throughput Computing (PATh) project is now a listed resource provider for the National Artificial Intelligence Research Resource (NAIRR) Pilot Project. The PATh project provides allocatable services to support the entire life cycle of AI workloads–training data generation, training data cleaning, model training, and inference (prediction) using AI models."
 ---
@@ -68,7 +68,7 @@ The NAIRR [Pilot Project](https://nairrpilot.org/)  is a concept responding to t
 
 NAIRR is a [National Science Foundation (NSF)](https://www.nsf.gov/focus-areas/artificial-intelligence/nairr) vision that currently supports over 250+ projects and is a [growing pilot](https://nairrpilot.org/about) that, in its first phase, is providing researchers and educators with the ability to access advanced computing for AI researchers and access to a growing list of AI-specific resources.
 
-<img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/record-contributing-institutions/nairr-card.jpg" alt="Image with text: NAIRR Pilot: National Artificial Intelligence Research Resource pilot" />
+<img class="img-fluid" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/nairr.jpg" alt="Image with text: NAIRR Pilot: National Artificial Intelligence Research Resource pilot" />
 
 
 ## What is PATh?:
