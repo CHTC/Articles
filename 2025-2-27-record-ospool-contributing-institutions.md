@@ -52,7 +52,7 @@ Read [here](https://chtc.cs.wisc.edu/campus-onboarding.html) to learn more about
     <figcaption>Photo Credit: Benutzer Stilfehler</figcaption>
   </figure>
   <p>
-    After integrating with PATh into the OSPool in 2023, <a href="https://osg-htc.org/services/open_science_pool/institutions?institution=Colgate+University">Colgate University</a> has provided over 16,000 computational hours to the OSPool.
+    After integrating with PATh into the OSPool in 2023, <a href="https://osg-htc.org/services/open_science_pool/institutions?institution=Colgate+University">Colgate University</a> has provided in the last year alone over 20,000 core hours to the OSPool.
   </p>
 </div>
 
