@@ -19,44 +19,48 @@ The [Partnership to Advance Throughput Computing (PATh) project](https://path-cc
 
 
 
-<div class="p-3 text-small border rounded" markdown="1">
+<div class="p-2 mb-4 border rounded border-primary" markdown="1">
+<h4 style="font-size: 1em; margin: 0; margin-bottom: .1em;">PATh Services for AI</h4>
 
-#### PATh Services for AI
+<p style="font-size: 0.8em; margin-bottom: .1em;">PATh services are designed to address throughput-oriented workloads that consist of ensembles of jobs (such as hyperparameter optimization workloads). The ensembles are managed by a network of <a href="https://osg-htc.org/services/access-point" style="font-size: 0.8em;">Access Points</a> and can connect to capacity at</p>
 
-PATh services are designed to address throughput-oriented workloads that consist of ensembles of jobs (such as hyperparameter optimization workloads). The ensembles are managed by a network of [Access Points](https://osg-htc.org/services/access-point) and can connect to capacity at
+<ul>
+  <li style="font-size: 0.8em; margin-bottom: .1em;">The purpose-built <a href="https://path-cc.io/facility/index.html" style="font-size: 0.8em;">PATh facility</a></li>
+  <li style="font-size: 0.8em; margin-bottom: .1em;">The <a href="https://osg-htc.org/ospool" style="font-size: 0.8em;">OSPool</a></li>
+  <li style="font-size: 0.8em; margin-bottom: .5em;">or another ACCESS/NAIRR allocation owned by the PI</li>
+</ul>
 
--   The purpose-built [PATh facility](https://path-cc.io/facility/index.html)
--   The [OSPool](https://osg-htc.org/ospool)
--   or another ACCESS/NAIRR allocation owned by the PI
+<p style="font-size: 0.8em; margin-bottom: .1em;">The PATh Facility includes dedicated access to:</p>
 
-The PATh Facility includes dedicated access to:
+<ul>
+  <li style="font-size: 0.8em; margin-bottom: .1em;">10 machines with 4 40GB A100 GPUs 1.6TB of NVMe, and 512 GB RAM</li>
+  <li style="font-size: 0.8em; margin-bottom: .5em;">68 machines with 64 AMD EPYC cores (AMD 7513), 1.6TB of NVMe, and 256 GB RAM each.</li>
+</ul>
 
--   10 machines with 4 40GB A100 GPUs 1.6TB of NVMe, and 512 GB RAM
--   68 machines with 64 AMD EPYC cores (AMD 7513), 1.6TB of NVMe, and 256 GB RAM each.
+<p style="font-size: 0.8em; margin-bottom: .1em;"><strong>Note:</strong> Individual jobs can use up to all the GPUs available on a single machine.</p>
 
-Note: Individual jobs can use up to all the GPUs available on a single machine.
+<h4 style="font-size: 1em; margin: 0;" class="my-2">Access NAIRR Resources via PATh</h4>
 
-#### Access NAIRR Resources via PATh
+<p style="font-size: 0.8em; margin-bottom: .1em;">To access NAIRR resources on PATh, AI researchers first need to acquire a NAIRR allocation. PATh can assist researchers preparing a NAIRR allocation proposal and are encouraged to talk to the PATh team at <a href="mailto:nairr@path-cc.io" style="font-size: 0.8em;">nairr@path-cc.io</a>.</p>
 
-To access NAIRR resources on PATh, AI researchers first need to acquire a NAIRR allocation. PATh can assist researchers preparing a NAIRR allocation proposal and are encouraged to talk to the PATh team at [nairr@path-cc.io](mailto:nairr@path-cc.io).
+<p style="font-size: 0.8em; margin-bottom: .1em;">NAIRR resources are available to:</p>
 
-NAIRR resources are are available to:
-
--   US-based researchers, students, and educators
--   US-based institutions including academic institutions, non-profits, federal agencies or federally funded R&D centers, state, local, or tribal agencies, startups and small businesses with federal grants
--   Read more on [NAIRR Pilot Websit](https://nairrpilot.org/opportunities/allocations#:~:text=For%20NAIRR%20Classroom%20projects%2C%20educators,equipped%20with%20TPUs%20and%20GPUs.)e
-
+<ul>
+  <li style="font-size: 0.8em; margin-bottom: .1em;">US-based researchers, students, and educators</li>
+  <li style="font-size: 0.8em; margin-bottom: .1em;">US-based institutions including academic institutions, non-profits, federal agencies or federally funded R&D centers, state, local, or tribal agencies, startups and small businesses with federal grants</li>
+  <li style="font-size: 0.8em; margin-bottom: .1em;">Read more on <a href="https://nairrpilot.org/opportunities/allocations#:~:text=For%20NAIRR%20Classroom%20projects%2C%20educators,equipped%20with%20TPUs%20and%20GPUs." style="font-size: 0.8em;">NAIRR Pilot Website</a></li>
+</ul>
 </div>
 
 The NAIRR Pilot aims to address researcher needs by increasing access to AI resources and advance its main goals, namely to: spur innovation, develop workforce talent, improve capacity, and advance safe, secure, and trustworthy AI in research and society.
-
-
 
 ## Inaugural NAIRR Pilot Meeting
 
 The week of February 17, 2025 was the inaugural NAIRR Pilot meeting in Arlington, VA—an opportunity to discuss this initiative and to highlight resource offerings, AI, science, education innovation outcomes, and the NAIRR Pilot’s progress in democratizing access to AI resources. On behalf of PATh, team members [Miron Livny](https://wid.wisc.edu/people/miron-livny/) (PI), Brain Bockelman (co-PI), and Ian Ross (Systems Integration Developer) all attended. This meeting led to the official announcement that PATh is a service provider for the NAIRR Pilot Project.
 
 As a NAIRR service provider, PATh addresses researcher needs by providing a range of services needed to access, run, and test AI-related infrastructure. PATh services include a dedicated facilitation support team, services that make data distribution easier, and dedicatedaccess to GPU computing capacity. PATh furthers NAIRR's purposes of spurring innovation, developing workforce talent, improving capacity, and advancing safe, secure, and trustworthy AI in research and society.
+
+<img class="img-fluid" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/nairr.png" alt="Image with text: NAIRR Pilot: National Artificial Intelligence Research Resource pilot" />
 
 ## What is NAAIR?
 
@@ -67,9 +71,6 @@ AI innovation is an emerging discipline with the capability to accelerate global
 The NAIRR [Pilot Project](https://nairrpilot.org/)  is a concept responding to this access gap, aiming to connect U.S researchers and educators with trustworthy AI resources and the computational, data, soft\ware, training, and educational resources to advance research, discovery, and innovation needed to advance AI research and research that employs AI—promoting shared national research infrastructure.
 
 NAIRR is a [National Science Foundation (NSF)](https://www.nsf.gov/focus-areas/artificial-intelligence/nairr) vision that currently supports over 250+ projects and is a [growing pilot](https://nairrpilot.org/about) that, in its first phase, is providing researchers and educators with the ability to access advanced computing for AI researchers and access to a growing list of AI-specific resources.
-
-<img class="img-fluid" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/nairr.jpg" alt="Image with text: NAIRR Pilot: National Artificial Intelligence Research Resource pilot" />
-
 
 ## What is PATh?:
 
