@@ -107,7 +107,7 @@ Read [here](https://chtc.cs.wisc.edu/campus-onboarding.html) to learn more about
     <figcaption>Photo Credit: Daryl Marshke</figcaption>
   </figure>
   <p>
-    The <a href="https://osg-htc.org/services/open_science_pool/institutions?institution=University+of+Michigan">University of Michigan-Ann Arbor</a> began contributing to the OSPool in 2022. Their resources have contributed over 9.5 million hours to scientific research.
+    The <a href="https://osg-htc.org/services/open_science_pool/institutions?institution=University+of+Michigan">University of Michigan-Ann Arbor</a> began contributing to the OSPool in 2022. In the past year, their resources have contributed over 9.5 million hours to scientific research.
   </p>
 </div>
 
@@ -129,7 +129,7 @@ Read [here](https://chtc.cs.wisc.edu/campus-onboarding.html) to learn more about
     <figcaption>Photo Credit: Semenov Paxan via Shutterstock</figcaption>
   </figure>
   <p>
-    In 2017 the <a href="https://osg-htc.org/services/open_science_pool/institutions?institution=University+of+Washington">University of Washington</a> became a contributor to the OSPool. They have provided over 2 million core hours.
+    In 2017 the <a href="https://osg-htc.org/services/open_science_pool/institutions?institution=University+of+Washington">University of Washington</a> became a contributor to the OSPool. Since last March, they have provided around 2 million core hours.
   </p>
 </div>
 
@@ -151,7 +151,7 @@ Read [here](https://chtc.cs.wisc.edu/campus-onboarding.html) to learn more about
     <figcaption>Photo Credit: New Mexico State University</figcaption>
   </figure>
   <p>
-    In 2020, <a href="https://osg-htc.org/services/open_science_pool/institutions?institution=New+Mexico+State+University">New Mexico State University</a> (NMSU) became a contributor to the OSPool. With over 600,000 jobs completed, they are helping 106 research projects.
+    In 2020, <a href="https://osg-htc.org/services/open_science_pool/institutions?institution=New+Mexico+State+University">New Mexico State University</a> (NMSU) became a contributor to the OSPool. With over 600,000 jobs completed in the past year, they are helping 106+ research projects.
   </p>
 </div>
 
