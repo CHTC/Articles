@@ -6,7 +6,7 @@ publish_on:
   - path
   - chtc
   - htcondor
-type: feature
+type: news
 image:
   path: https://raw.githubusercontent.com/CHTC/Articles/main/images/record-contributing-institutions/oru.jpg
   alt: Oral Roberts University image
