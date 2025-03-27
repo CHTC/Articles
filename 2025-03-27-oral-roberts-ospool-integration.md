@@ -1,7 +1,7 @@
 ---
 title: Oral Roberts University Advances Cyberinfrastructure with OSPool Integration
 author: Kallen Wank
-publish on:
+publish_on:
   - osg
   - path
   - chtc
