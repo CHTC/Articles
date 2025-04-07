@@ -9,7 +9,7 @@ publish_on:
 type: feature
 excerpt: "In 2022, the Thyme Lab faced a computing bottleneck at UAB. Ari Ginsparg, a PhD student, turned to the OSG, gaining access to ten times more resources, which significantly advanced their research."
 image:
-  path: https://raw.githubusercontent.com/CHTC/Articles/main/images/thyme/structure.png
+  path: https://raw.githubusercontent.com/CHTC/Articles/main/images/thyme/structures.png
   alt: "Example of a prospective drug (white) identified by Rosetta in the hypocretin receptor binding pocket. Amino acids identified to interact with the drug are highlighted in pink or brown."
 canonical_url: https://osg-htc.org/spotlights/oral-roberts-ospool-integration.html
 
@@ -40,7 +40,7 @@ The zebrafish are analyzed with a variety of techniques to view the responses to
 To learn how to use the [OSPool](https://osg-htc.org/services/open_science_pool.html), a source of computing capacity that is accessible to any researcher affiliated with a US academic institution, Ginsparg relied on the OSG Office Hours. These virtual hours*, led by the Research Computing Facilitators (RCFs), provide guidance and support. When transitioning to OSPool, Ginsparg emphasized “that the office hours and resources from OSG were critical to my success. The amount of resources they provide has been essential for progressing with my thesis project.”
 
 <figure style="float: left; margin: 0 1rem 1rem 0;">
-<img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/thyme/structure.png' height="383" width="545" class="figure-img img-fluid rounded" alt="Example of a prospective drug (white) identified by Rosetta in the hypocretin receptor binding pocket. Amino acids identified to interact with the drug are highlighted in pink or brown.">
+<img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/thyme/structures.png' height="383" width="545" class="figure-img img-fluid rounded" alt="Example of a prospective drug (white) identified by Rosetta in the hypocretin receptor binding pocket. Amino acids identified to interact with the drug are highlighted in pink or brown.">
 <figcaption>Example of a prospective drug (white) identified by Rosetta in the hypocretin receptor binding pocket. Amino acids identified to interact with the drug are highlighted in pink or brown.</figcaption>
 </figure>
 
