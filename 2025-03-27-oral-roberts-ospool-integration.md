@@ -12,6 +12,9 @@ image:
   path: https://raw.githubusercontent.com/CHTC/Articles/main/images/oru.jpg
   alt: Oral Roberts University Campus Titan. Courtesy of Dr. Stephen Wheat
 canonical_url: https://osg-htc.org/spotlights/oral-roberts-ospool-integration.html
+
+banner_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/ORU.jpeg"
+banner_alt: "Aerial image of the ORU campus"
 ---
 
 <figure>
