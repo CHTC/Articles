@@ -1,5 +1,5 @@
 ---
-title: Bringing The National Research Platform Capacity to the National Community
+title: Bringing The National Research Platform Capacity to the HTC Community
 author: Jordan Sklar and Kallen Wank
 publish_on:
     - chtc
