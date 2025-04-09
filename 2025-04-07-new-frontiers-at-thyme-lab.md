@@ -1,5 +1,5 @@
 ---
-title: "Unlocking New Frontiers in Drug Discovery: High-Throughput Computing in the Thyme Lab"
+title: "Unlocking New Frontiers in Drug Discovery: High Throughput Computing in the Thyme Lab"
 author: Kallen Wank
 publish_on:
   - osg
