@@ -6,7 +6,7 @@ publish_on:
     - htcondor
     - osg
     - path
-type: feature
+type: user
 excerpt: "The National Research Platform (NRP) uses PATh resources to create an open cyberinfrastructure."
 canonical_url: https://path-cc.io/news/2025-04-07-nrps-path-collaboration/
 image: 
