@@ -6,7 +6,7 @@ publish_on:
   - path
   - chtc
   - htcondor
-type: feature
+type: user
 excerpt: "In 2022, the Thyme Lab faced a computing bottleneck at UAB. Ari Ginsparg, a PhD student, turned to the OSG, gaining access to ten times more resources, which significantly advanced their research."
 image:
   path: https://raw.githubusercontent.com/CHTC/Articles/main/images/thyme/structures.png
