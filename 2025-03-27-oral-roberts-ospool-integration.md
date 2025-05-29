@@ -6,7 +6,7 @@ publish_on:
   - path
   - chtc
   - htcondor
-type: feature
+type: user
 excerpt: "ORU, a private university of 5,000 students located in Tulsa, Oklahoma, made significant progress in advancing their cyberinfrastructure in 2022 after receiving a CC* award."
 image:
   path: https://raw.githubusercontent.com/CHTC/Articles/main/images/oru.jpg
