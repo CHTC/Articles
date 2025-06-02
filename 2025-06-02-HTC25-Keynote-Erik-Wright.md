@@ -22,3 +22,5 @@ We want to thank our Throughput Computing Week 2025 (HTC25) keynote speaker, Dr.
  <figcaption>Erik Wright Presenting His Keynote Presentation at Througput Computing Week 2025.</figcaption>
 </figure>
 
+[Watch Dr. Wright's Keynote Presentation](https://youtu.be/69yY2YPsfHQ)
+
