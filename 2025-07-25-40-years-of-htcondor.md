@@ -6,7 +6,7 @@ publish_on:
   - chtc
   - htcondor
 type: news
-excerpt: "Dr. Erik Wright, in his presentation “Biological Diversity at an Unfathomable Scale” at HTC25, explored how high-throughput computing and the OSPool is being used to unlock the functions of novel genes."
+excerpt: "The high-throughput computing community — including scientists, researchers, developers, administrators and facilitators — gathered at UW–Madison on June 3 to celebrate 40 years of “The Condor Project,” now known as HTCondor."
 image:
   path: https://raw.githubusercontent.com/CHTC/Articles/main/images/htc25-featured.jpg
   alt: "Erik Wright presenting his HTC25 Keynote Presenation."
