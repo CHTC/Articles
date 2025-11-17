@@ -14,7 +14,7 @@ canonical_url: https://chtc.cs.wisc.edu/ml-in-dairy-farming.html
 
 image:
   path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/ml-in-dairy-farming-card.jpg"
-  alt: "Collage of photos from HTCondor Week"
+  alt: "Ariana Negreiro stands with a cow."
 
     
 description: Ariana Negreiro, Ph.D, in the UW-Madison Digital Livestock Lab, discusses her work using images of cows to develop a machine learning application to monitor their health.
