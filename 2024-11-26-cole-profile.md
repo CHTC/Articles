@@ -10,8 +10,6 @@ publish_on:
 
 canonical_url: https://chtc.cs.wisc.edu/cole-profile.html
 
-tag:
-  - chtc_featured_article
 
 image:
   path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/cole/cole-card.jpg"

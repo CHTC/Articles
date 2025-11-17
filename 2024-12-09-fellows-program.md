@@ -14,8 +14,6 @@ type: news
 
 canonical_url: "https://chtc.cs.wisc.edu/fellows-program"
 
-tag:
-- chtc_featured_article
 
 image:
   path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/meeting.jpg"

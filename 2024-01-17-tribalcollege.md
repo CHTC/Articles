@@ -13,9 +13,6 @@ type: news
 
 canonical_url:  "https://chtc.cs.wisc.edu/tribalcollege.html"
 
-tag:
-- chtc_featured_article
-
 image:
   path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/IMG_4839.JPG"
   alt: Salish Kootenai College in Montana

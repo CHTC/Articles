@@ -1,26 +1,28 @@
 ---
-title: "A Long-Awaited Reunion: HTCondor Week 2022 in Photos"
+title: "One Researcher’s Leap into Throughput Computing: Bringing Machine Learning to Dairy Farm Management"
 
-author: Josephine Watkins
+author: Sophie Dorros
 
 publish_on:
   - htcondor
   - path
   - chtc
+  - pelican
+  - osg
 
 canonical_url: https://htcondor.org/featured-users/2022-06-01-HTCondorWeek-Photos.html
 
 image:
-  path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/HTCondorWeek2022-Collage.jpg"
+  path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/ml-in-dairy-farming.jpg"
   alt: "Collage of photos from HTCondor Week"
   
 description: HTCondor Week 2022 featured over 40 exciting talks, tutorials, and research spotlights focused on the HTCondor Software Suite (HTCSS). Sixty-three attendees reunited in Madison, Wisconsin for the long-awaited in-person meeting, and 111 followed the action virtually on Zoom.
 excerpt: HTCondor Week 2022 featured over 40 exciting talks, tutorials, and research spotlights focused on the HTCondor Software Suite (HTCSS). Sixty-three attendees reunited in Madison, Wisconsin for the long-awaited in-person meeting, and 111 followed the action virtually on Zoom.
 
-card_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/HTCondorWeek2022-Collage.jpg"
-card_alt: "Collage of photos from HTCondor Week"
+card_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/ml-in-dairy-farming.jpg"
+card_alt: "Ariana Negreiro stands with a cow."
 
-type: news
+type: user
 
 ---
 
