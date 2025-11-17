@@ -13,7 +13,7 @@ publish_on:
 canonical_url: https://chtc.cs.wisc.edu/ml-in-dairy-farming.html
 
 image:
-  path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/ml-in-dairy-farming.jpg"
+  path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/ml-in-dairy-farming-card.jpg"
   alt: "Collage of photos from HTCondor Week"
 
     
