@@ -12,9 +12,6 @@ type: user
 
 canonical_url: https://htcondor.org/featured-users/2023-06-12-htcondor-helps-enable-mars-research.html
 
-tag:
-- chtc_featured_article
-
 image:
   path: https://raw.githubusercontent.com/CHTC/Articles/main/images/mars-image.jpg
   alt: HIRISE camera image of Mars
