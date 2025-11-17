@@ -25,6 +25,9 @@ card_alt: "Ariana Negreiro stands with a cow."
 
 type: user
 
+tag:
+- chtc_featured_user
+
 ---
 
 **Ariana Negreiro, Ph.D, in the [UW-Madison Digital Livestock Lab](https://dorealab.cals.wisc.edu), discusses her work using images of cows to develop a machine learning application to monitor their health.**
