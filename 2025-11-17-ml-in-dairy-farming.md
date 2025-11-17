@@ -26,7 +26,7 @@ card_alt: "Ariana Negreiro stands with a cow."
 type: user
 
 tag:
-- chtc_featured_user
+- chtc_featured_article
 
 ---
 
