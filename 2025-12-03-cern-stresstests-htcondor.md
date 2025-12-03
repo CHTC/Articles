@@ -20,7 +20,7 @@ excerpt: HTCondor withstands a massive stress test to prepare the Large Hadron C
 ---
 
 <figure>
-<img style="width:100%" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/cern.jpg" alt="A computing server corridor in CERN's main data centre. (Image: Anthony Grossir/CERN)"/>
+<img style="width:100%" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/cern.jpg" alt="A computing server corridor in CERN's main data center. (Image: Anthony Grossir/CERN)"/>
 <figcaption>A computing server corridor in CERN's main data centre. (Image: Anthony Grossir/CERN)</figcaption>
 </figure>
 
@@ -41,4 +41,6 @@ Because the HL-LHC will produce so much data, it’s important that current syst
 
 
 
-CERN will continue implementing many other tests until the HL-LHC is up and running, including tests on CERN’s disk-based storage system, which helps to store the huge amounts of data produced by the international scientific community. Click [here](https://home.cern/news/news/computing/when-failure-good-news) to view CERN’s news report on the test.
+CERN will continue implementing many other tests until the HL-LHC is up and running, including tests on CERN’s disk-based storage system, which helps to store the huge amounts of data produced by the international scientific community. 
+
+Click [here](https://home.cern/news/news/computing/when-failure-good-news) to view CERN’s news report, "When failure is good news," on the test.
