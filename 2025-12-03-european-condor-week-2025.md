@@ -1,5 +1,5 @@
 ---
-title: 2025 HTCondor European Workshop Showcases Advances in High-Throughput Computing
+title: 2025 HTCondor European Workshop Showcases Advances in High Throughput Computing
 author: Sophie Dorros
 
 publish_on:  
@@ -17,10 +17,10 @@ image:
     path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/european-condor-2025/image4.png"   
     alt: Group photo of workshop attendees
 
-excerpt: Showcasing both technical advances and real-world applications of HTCondor, the 2025 HTCondor European Workshop was held at the Institute of Physics of the Czech Academy of Sciences (FZU) in Prague from September 16-19. HTCondor is a software suite developed by The Center for High Throughput Computing (CHTC) at the University of Wisconsin- Madison to utilize the power of a network of clustered computers, splitting tasks into simultaneously running self-contained tasks, which then provides results that could have taken months or even years to complete using a singular system
+excerpt: Showcasing both technical advances and real-world applications of HTCondor, the 2025 HTCondor European Workshop was held at the Institute of Physics of the Czech Academy of Sciences (FZU) in Prague from September 16-19. 
 ---
 
-*Showcasing both technical advances and real-world applications of HTCondor, the [2025 HTCondor European Workshop](https://indico.cern.ch/event/1459943/page/38612-workshop-chairs-and-organising-committee) was held at the [Institute of Physics of the Czech Academy of Sciences](https://www.fzu.cz/en/home) (FZU) in Prague from September 16-19. HTCondor is a software suite developed by [The Center for High Throughput Computing](https://chtc.cs.wisc.edu/) (CHTC) at the University of Wisconsin- Madison to utilize the power of a network of clustered computers, splitting tasks into simultaneously running self-contained tasks, which then provides results that could have taken months or even years to complete using a singular system.*
+*Showcasing both technical advances and real-world applications of HTCondor, the [2025 HTCondor European Workshop](https://indico.cern.ch/event/1459943/page/38612-workshop-chairs-and-organising-committee) was held at the [Institute of Physics of the Czech Academy of Sciences](https://www.fzu.cz/en/home) (FZU) in Prague from September 16-19.*
 
 <div class="row justify-content-center">
 <div class="col-12 col-md-6">
@@ -36,7 +36,9 @@ excerpt: Showcasing both technical advances and real-world applications of HTCon
 
 The 2025 European HTCondor Workshop brought together European and American HTCondor users and developers to collaborate and advance innovation in high throughput computing. The 2025 workshop provided an opportunity for increased connection and community among HTCondor users and developers, and is a key event in showcasing the technical advances and real-world applications of HTCondor.
 
-This year's workshop was held in Prague at the Institute of Physics of the Czech Academy of Sciences (FZU), from September 16-19th. With the upcoming scheduled shutdown of the [Large Hadron Collider](https://home.cern/science/accelerators/large-hadron-collider), the world’s largest and most powerful particle accelerator managed by [The European Organization for Nuclear Research](https://home.cern/) (CERN) and stored, distributed and analyzed by the [Worldwide LHC Computing Grid](https://wlcg.web.cern.ch/) (WLCG), much of the workshop centered around preparations for the increased amount of data that will come as a result. The WLCG distributes almost 200 Petabytes of data a year from the LHC in need of computing to compute tiers in different nations, like the US, UK, France, and Italy, who help process and compute. A majority of participants of the European Condor Workshops are involved in running compute tiers for the WLCG, making the operations of the LHC and WLCG a prime focus for attendees. Graphics Processing Unit (GPU’s) usage was also a focal point.
+This year's workshop was held in Prague at the Institute of Physics of the Czech Academy of Sciences (FZU), from September 16-19th. HTCondor is a software suite developed by [the Center for High Throughput Computing](https://chtc.cs.wisc.edu/) (CHTC) at the University of Wisconsin-Madison to utilize the power of a network of clustered computers, splitting tasks into simultaneously running self-contained tasks, which then provides results that could have taken months or even years to complete using a singular system. 
+
+With the upcoming scheduled shutdown of the [Large Hadron Collider](https://home.cern/science/accelerators/large-hadron-collider), the world’s largest and most powerful particle accelerator managed by [the European Organization for Nuclear Research](https://home.cern/) (CERN) and stored, distributed and analyzed by the [Worldwide LHC Computing Grid](https://wlcg.web.cern.ch/) (WLCG), much of the workshop centered around preparations for the increased amount of data that will come as a result. The WLCG distributes almost 200 petabytes of data a year from the LHC in need of computing to compute tiers in different nations, like the US, UK, France, and Italy, who help process and compute. A majority of participants of the European HTCondor Workshops are involved in running compute tiers for the WLCG, making the operations of the LHC and WLCG a prime focus for attendees. Graphics Processing Unit (GPU’s) usage was also a focal point.
 
 <figure style="float: left; margin: 0 1rem 1rem 0;">
 <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/european-condor-2025/image4.png' height="350" width="200" class="figure-img img-fluid rounded" alt="Erik smiling">
