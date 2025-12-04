@@ -21,7 +21,7 @@ excerpt: HTCondor withstands a massive stress test to prepare the Large Hadron C
 
 <figure>
 <img style="width:100%" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/cern.jpg" alt="A computing server corridor in CERN's main data center. (Image: Anthony Grossir/CERN)"/>
-<figcaption>A computing server corridor in CERN's main data centre. (Image: Anthony Grossir/CERN)</figcaption>
+<figcaption>A computing server corridor in CERN's main data center. (Image: Anthony Grossir/CERN)</figcaption>
 </figure>
 
 
