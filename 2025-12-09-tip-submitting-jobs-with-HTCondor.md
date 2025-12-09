@@ -20,16 +20,13 @@ excerpt: There’s a new feature for submitting jobs with HTCondor. Now you can 
 There’s a new feature for submitting jobs with HTCondor. 
 Now you can use shell = <your script> instead of using executable and arguments!
 
-<span style="background-color:#f0f0f0;">
-Before:
-executable = hello-world.sh
-arguments = $(Process)
-</span>
+> Before:
+> executable = hello-world.sh
+> arguments = $(Process)
 
-<span style="background-color:#f0f0f0;">
-After: 
+> After: 
 shell = ./hello-world.sh $(Process)
-</span>
+
 
 **Notable differences**
 
