@@ -15,9 +15,8 @@ excerpt: There’s a new feature for submitting jobs with HTCondor. Now you can 
 
 
 ---
-**Tip of the Month**
 
-There’s a new feature for submitting jobs with HTCondor. 
+**There’s a new feature for submitting jobs with HTCondor.** 
 Now you can use shell = <your script> instead of using executable and arguments!
 
 > Before:
@@ -25,7 +24,7 @@ Now you can use shell = <your script> instead of using executable and arguments!
 > arguments = $(Process)
 
 > After: 
-shell = ./hello-world.sh $(Process)
+> shell = ./hello-world.sh $(Process)
 
 
 **Notable differences**
