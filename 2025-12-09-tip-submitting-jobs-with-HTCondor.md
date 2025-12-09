@@ -1,6 +1,6 @@
 ---
 title: Tip of the Month - New Feature for Submitting Jobs with HTCondor
-author: Facilitaiton Team
+author: Facilitation Team
 
 publish_on:  
     - htcondor
