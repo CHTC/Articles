@@ -11,8 +11,7 @@ type: tech-blog
 
 canonical_url: https://htcondor.org/2025-12-09-tip-submitting-jobs-with-HTCondor.html
 
-excerpt: There’s a new feature for submitting jobs with HTCondor. 
-Now you can use shell = <your script> instead of using executable and arguments!
+excerpt: There’s a new feature for submitting jobs with HTCondor. Now you can use shell = <your script> instead of using executable and arguments!
 
 
 ---
@@ -47,7 +46,4 @@ shell = ./hello-world.sh $(Process)
 
 * Try using shell and let us know how it goes for you! Happy computing!
 
-
-
-Click [here](https://home.cern/news/news/computing/when-failure-good-news) to view CERN’s news report, "When failure is good news," on the test.
 
