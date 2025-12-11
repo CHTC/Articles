@@ -4,15 +4,12 @@ author: Facilitation Team
 
 publish_on:  
     - htcondor
-    - path
-    - osg
 
 type: tech-blog
 
-canonical_url: https://htcondor.org/2025-12-09-tip-submitting-jobs-with-HTCondor.html
+canonical_url: "https://htcondor.org/2025-12-09-tip-submitting-jobs-with-HTCondor.html"
 
 excerpt: There’s a new feature for submitting jobs with HTCondor. Now you can use shell = <your script> instead of using executable and arguments!
-
 
 ---
 
