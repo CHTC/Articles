@@ -16,6 +16,11 @@ image:
   path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/ml-in-dairy-farming-card.jpg"
   alt: "Ariana Negreiro stands with a cow."
 
+  banner_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/Cows_HTC-banner.jpeg"
+  banner_alt: Herd of Dairy Cows
+
+
+
     
 description: Ariana Negreiro, Ph.D, in the UW-Madison Digital Livestock Lab, discusses her work using images of cows to develop a machine learning application to monitor their health.
 excerpt: Ariana Negreiro, Ph.D, in the UW-Madison Digital Livestock Lab, discusses her work using images of cows to develop a machine learning application to monitor their health.
