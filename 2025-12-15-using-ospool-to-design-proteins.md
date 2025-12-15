@@ -1,5 +1,5 @@
 ---
-title: OSPool and Computing Power Helps Researchers Design New Proteins
+title: OSPool and Its Computing Capacity Helps Researchers Design New Proteins
 
 author: Sophie Dorros
 publish_on:
