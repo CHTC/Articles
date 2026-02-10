@@ -22,7 +22,8 @@ For example, if you add this to your submit file:
 ```
 request_memory = 1GB
 retry_request_memory = 4GB
-Every job will request 1 GB of memory. If the job is evicted because it exceeds 1 GB of memory, the job will be restarted with 4 GB of memory.
 ```
+
+Every job will request 1 GB of memory. If the job is evicted because it exceeds 1 GB of memory, the job will be restarted with 4 GB of memory.
 
 For more complex options, expressions, and examples, check out the [HTCondor manual](https://htcondor.readthedocs.io/en/main/man-pages/condor_submit.html#retry_request_memory)!
