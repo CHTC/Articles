@@ -16,7 +16,7 @@ tag:
 canonical_url: https://chtc.cs.wisc.edu/bioinformatics-cafe.html
 
 image:  
-    path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/bioinformatics-cafe/image2.jpg"   
+    path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/bioinformatics-cafe/image1.jpg"   
     alt: Image of people watching the AlphaFold3 tutorial at the February 2026 Bioinformatics Café
 
 excerpt: The Bioinformatics Café is a monthly, hands-on meetup hosted by the Center for High Throughput Computing (CHTC) at UW-Madison, which provides a space for life-science researchers to learn, co-work, and troubleshoot with support from expert facilitators. The Café offers a space to build skills, refine workflows, and connect with fellow researchers solving similar problems in bioinformatics and high-throughput computing.
@@ -24,17 +24,17 @@ excerpt: The Bioinformatics Café is a monthly, hands-on meetup hosted by the Ce
 
 [The Bioinformatics Café](https://chtc.cs.wisc.edu/uw-research-computing/bioinformatics-cafe) is a monthly, hands-on meetup hosted by the [Center for High Throughput Computing](https://chtc.cs.wisc.edu/) (CHTC), which is supported by both the UW-Madison and the Morgridge Institute for Research. At the Café life-science researchers come together to learn, co-work, and troubleshoot with support from expert facilitators. Whether you’re brand new to high throughput computing or a seasoned user, the Café offers a space to build skills, refine workflows, and connect with fellow researchers solving similar problems.
 
-“If you have a problem that is data heavy, even if you have never done compute in the past, come talk to us. We want to connect with you. We want to meet you where you're at. We want to have that community. We want to have that conversation with you to know what we can do.” - [Danny Morales,](https://path-cc.io/services/facilitation.html) CHTC Research Computing Facilitator.
+> “If you have a problem that is data heavy, even if you have never done compute in the past, come talk to us. We want to connect with you. We want to meet you where you're at. We want to have that community. We want to have that conversation with you to know what we can do.” - [Danny Morales,](https://path-cc.io/services/facilitation.html) CHTC Research Computing Facilitator.
 
-<figure style="float: left; margin: 0 1rem 1rem 0;">
-<img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/bioinformatics-cafe/image1.jpg' height="420" width="300" class="figure-img img-fluid rounded" alt="Danny Smiling">
+<figure style="float: left; margin: 0 1rem 1rem 0; width: 450px;">
+<img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/bioinformatics-cafe/image2.jpg' height="300" width="450" class="figure-img img-fluid rounded" alt="Danny Smiling">
 <figcaption>CHTC Facilitator Danny Morales, credits: Wisconsin Engineer Magazine</figcaption>
 </figure>
 
 When computational biologist turned CHTC research computing facilitator Danny Morales arrived at the University of Wisconsin-Madison, he noticed a lack of connection between biologists and the CHTC. “When I got here, I was like, oh, this is such an amazing place where CHTC really does want to help researchers push borders and remove those barriers. And one of the barriers that I found was that lack of community.” Morales sought to find a way to create a community space to connect students and faculty across UW-Madison’s vast number of different biology departments, spread out across various colleges, departments and affiliates.
 
-<figure style="float: left; margin: 0 1rem 1rem 0;">
-<img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/bioinformatics-cafe/image2.jpg' height="420" width="300" class="figure-img img-fluid rounded" alt="People packed into a classroom watching a presentation on AlphaFold3">
+<figure style="float: left; margin: 0 1rem 1rem 0; width: 450px;">
+<img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/bioinformatics-cafe/image1.jpg' height="300" width="450" class="figure-img img-fluid rounded" alt="People packed into a classroom watching a presentation on AlphaFold3">
 <figcaption><a href="https://chtc.cs.wisc.edu/events/2026/02/11/AlphaFold3-on-CHTC">Running AlphaFold3 on CHTC</a> Bionformatics Café, credits: Danny Morales</figcaption>
 </figure>
 
@@ -44,15 +44,15 @@ Morales joined CHTC from Florida International University (FIU), where he earned
 
 After joining CHTC and inspired by fellow CHTC Facilitators [Tim Cartwright](https://www.cs.wisc.edu/staff/cartwright-tim-2/) and [Christina Koch’s](https://www.cs.wisc.edu/staff/koch-christina/) Campus Meetups and Cuban Coffee with other biologists at FIU, Morales pitched the idea for the Bioinformatics Café for the UW-Madison campus, and it has continued to meet on a monthly basis since then. At the Café meetings, attendees can expect to receive a mini tutorial in various topics, followed by a 1-on-1 check in with facilitation team members. Users can then participate in co-working with facilitators and fellow bioinformaticians on hand for troubleshooting, an optional show and tell, and finally peer networking with other researchers. CHTC Facilitation Team, credits: Wisconsin Engineering Magazine
 
-<figure style="float: right; margin: 0 1rem 0 1rem;">
- <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/bioinformatics-cafe/image3.jpg' height="420" width="300" class="figure-img img-fluid rounded" alt="Christina, Danny, Andrew and Amber, CHTC's facilitation team, standing together smiling">
+<figure style="float: right; margin: 0 1rem 0 1rem; width: 450px;">
+ <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/bioinformatics-cafe/image1.jpg' height="300" width="450" class="figure-img img-fluid rounded" alt="Christina, Danny, Andrew and Amber, CHTC's facilitation team, standing together smiling">
  <figcaption>CHTC Facilitation Team, credits: Wisconsin Engineering Magazine</figcaption>
 </figure>
 
 The Café is not only a space for users to troubleshoot their own research work, but also build connections with both the CHTC and other researchers who may be tackling similar challenges. Café participants range from UW Madison post graduate, graduate, and undergraduate students, to current Morgridge Institute for Research staff, all using Bioinformatics and high-throughput computing to overcome barriers in bioinformatics-based research.
 
-<figure style="float: left; margin: 0 1rem 1rem 0;">
-<img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/bioinformatics-cafe/image4.jpg' height="420" width="300" class="figure-img img-fluid rounded" alt="Facilitation team providing one-on-one support, credits: Wisconsin Engineering Magazine">
+<figure style="float: left; margin: 0 1rem 1rem 0; width: 450px;">
+<img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/bioinformatics-cafe/image3.jpg' height="300" width="450" class="figure-img img-fluid rounded" alt="Facilitation team providing one-on-one support, credits: Wisconsin Engineering Magazine">
 <figcaption>Facilitation team providing one-on-one support, credits: Wisconsin Engineering Magazine</figcaption>
 </figure>
 
