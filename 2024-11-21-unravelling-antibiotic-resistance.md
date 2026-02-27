@@ -14,9 +14,6 @@ type: user
 
 canonical_url: https://chtc.cs.wisc.edu/unravelling-antibiotic-resistance.html
 
-tag:
-- chtc_featured_article
-
 image:
   path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/wright/wright-computer.jpg"
   alt: Image of antibiotic

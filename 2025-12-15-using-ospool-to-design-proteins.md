@@ -10,9 +10,6 @@ publish_on:
 type: user
 canonical_url: "<https://chtc.cs.wisc.edu/OSPool and Computing Power Helps Researchers Design New Proteins.html>"
 
-tag:
-- chtc_featured_article
-
 image:
   path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/protein-design/visual-2-by-1.jpeg"
   alt: Mukul Sherekar pictured with protein structure
