@@ -1,5 +1,5 @@
 ---
-title: 2026 CHTC Researcher Forum
+title: CHTC Hosted 2nd Annual Researcher Forum
 author: Sophie Dorros
 
 publish_on:  
