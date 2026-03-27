@@ -13,8 +13,8 @@ type: feature
 canonical_url: https://chtc.cs.wisc.edu/wlcg-collaboration.html
 
 image:
-path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/wlcg-collaboration/compute-grid.jpg"
-alt: CMS Computing Grid
+    path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/wlcg-collaboration/compute-grid.jpg"
+    alt: CMS Computing Grid
 
 excerpt: The Large Hadron Collider (LHC) is the world's largest and most powerful particle accelerator, with two high-energy particle beams traveling at close to the speed of light before they are made to collide. But how do particle collisions go from data plots to groundbreaking scientific advancements, like confirming the existence of the Higgs-Boson Particle? 
 ---
