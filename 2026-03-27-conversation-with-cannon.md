@@ -14,7 +14,7 @@ type: news
 canonical_url: https://chtc.cs.wisc.edu/conversation-with-cannon.html
 
 image:  
-    path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/conversation-with-cannon/utah.jpeg"   
+    path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/conversation-with-cannon/devils-lake.jpeg"   
     alt: Image of Cannon Lock in Utah
 
 excerpt: A conversation with CHTC Web Developer, Cannon Lock.
@@ -50,7 +50,7 @@ makes my day a lot more interesting, it would be pretty boring if I woke up ever
 I planned out every day and that's exactly what I did.”*
 
 <figure style="float: right; margin: 0 1rem 0 1rem;">
- <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/conversation-with-cannon/sun.jpeg' height="420" width="300" class="figure-img img-fluid rounded" alt="Biking in Utah">
+ <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/conversation-with-cannon/utah.jpeg' height="420" width="300" class="figure-img img-fluid rounded" alt="Biking in Utah">
  <figcaption class="figure-caption">Biking in Utah</figcaption>
 </figure>
 
