@@ -6,6 +6,7 @@ publish_on:
 - htcondor
 - path
 - osg
+- chtc
 
 type: feature
 
