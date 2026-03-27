@@ -34,8 +34,7 @@ the Higgs-Boson Particle?
 Turning collision data into scientific discovery requires collaboration between the [Partnership to Advance Throughput Computing (PATh),](https://path-cc.io/) 
 an [NSF-funded](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2030508) 
 project designed to accelerate research by advancing 
-[High Throughput Computing (HTC)](https://www.google.com/search?q=High+Throughput+Computing+%28HTC%29+&rlz=1C5GCEM_en&oq=what+is+NSF+Funded+PATh&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRigATIHCAUQIRiPAtIBCDYwMThqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8&ved=2ahUKEwivuPqZlIeTAxUlkIkEHe7YDJMQgK4QegQIARAD) 
-technologies and services,  [HTCondor](https://htcondor.org/), a high throughput software application developed by 
+High Throughput Computing (HTC) technologies and services, [HTCondor](https://htcondor.org/), a high throughput software application developed by 
 PATh partner the [Center for High Throughput Computing](https://chtc.cs.wisc.edu/) (CHTC), and an interconnected 
 computing grid of over 140 computing centers in more than 40 countries, known as the [Worldwide LHC Computing Grid](https://wlcg.web.cern.ch/), 
 or the WLCG.
