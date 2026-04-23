@@ -11,6 +11,7 @@ jobs:
     permissions:
       pull-requests: write
       contents: read
+      issues: write
 
 
     steps:
@@ -21,32 +22,34 @@ jobs:
         uses: actions/github-script@v6
         with:
           script: |
-            
-            const prFiles = await github.rest.pulls.listFiles({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              pull_number: context.issue.number,
-            });
-            
-            const mdFiles = prFiles.data.filter(file => file.filename.endsWith('.md')).map(file => file.filename);
-            
-            if(!mdFiles){
-              github.rest.issues.createComment({
-                issue_number: context.issue.number,
+            try {
+              const prFiles = await github.rest.pulls.listFiles({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
-                body: 'No Markdown files detected'
+                pull_number: context.issue.number,
               });
-            }
-            
-            const basePath = "https://chtc.github.io/article-preview?url=";
-            const urls = mdFiles.map(file => `${basePath}https://raw.githubusercontent.com/${context.repo.owner}/${context.repo.repo}/refs/heads/${context.payload.pull_request.head.ref}/${file}`);
-            
-            const commentBody = urls.map(url => `URL to preview article: ${url}`).join("\n\n");
-            github.rest.issues.createComment({
+
+              const mdFiles = (prFiles && prFiles.data) ? prFiles.data.filter(file => file.filename && file.filename.endsWith('.md')).map(file => file.filename) : [];
+
+              const basePath = "https://chtc.github.io/article-preview?url=";
+              const urls = mdFiles.map(file => `${basePath}https://raw.githubusercontent.com/${context.repo.owner}/${context.repo.repo}/refs/heads/${context.payload.pull_request?.head?.ref || context.ref}/${file}`);
+
+              // Build comment body; use a fallback message if nothing meaningful was produced
+              let commentBody = urls.map(url => `URL to preview article: ${url}`).join("\n\n");
+              if (!commentBody || commentBody.trim().length === 0) {
+                commentBody = 'No Markdown files detected';
+              }
+
+              // Only create a comment when we have a non-empty body
+              await github.rest.issues.createComment({
                 issue_number: context.issue.number,
                 owner: context.repo.owner,
                 repo: context.repo.repo,
-                body: `${commentBody}`
-            });
+                body: commentBody
+              });
 
+            } catch (error) {
+              // Surface errors in the workflow logs and fail the step
+              console.error('Error creating PR comment:', error);
+              throw error;
+            }
