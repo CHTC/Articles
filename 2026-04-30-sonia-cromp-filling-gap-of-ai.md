@@ -13,7 +13,7 @@ type: feature
 canonical_url: https://chtc.cs.wisc.edu/sonia-cromp-filling-gap-of-ai.html
 
 image:
-    path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/sonia/box-10x7.png"
+    path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/sonia/box-card.png"
     alt: Cromp Pictured during her time at NASA working on GeoDES
 
 excerpt: Observing gaps in Large Language Models’ (LLMs’) abilities to process tabular data motivated UW-Madison Computer Sciences PhD candidate Sonia Cromp to develop Tabby, an architecture modification  to LLMs that improves how they handle structured data.
@@ -40,7 +40,7 @@ Working on a tabular data project within a community focused on image and text g
 
 Cromp’s journey with the CHTC continued, and she is currently working on another project as part of her work with NASA called GeoDES (Geospatial Diffusion-based Evolution Synthesis), which is a model that generates examples of extratropical cyclone storms (these storms are similar to hurricanes, but form at more northern latitudes). Synthetic extreme storms help fill data gaps, improving both storm research and forecasting model evaluation. Cromp runs her experiments for GeoDES through the CHTC, running models even larger than the ones she ran for Tabby. So far, GeoDES has submitted 638 job requests and logged 2,790 GPU hours.
 
-<figure style="float: right; margin: 0 1rem 0 1rem; height: 320px; width: 280px;">
+<figure style="float: right; margin: 0 1rem 0 1rem; width: 280px;">
 <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/sonia/nasa-14x16.jpg' height="320" width="280" class="figure-img img-fluid rounded" alt="Cromp Pictured during her time at NASA working on GeoDES">
 <figcaption>Cromp Pictured during her time at NASA working on GeoDES</figcaption>
 </figure>
