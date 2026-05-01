@@ -15,6 +15,9 @@ canonical_url: https://chtc.cs.wisc.edu/sonia-cromp-filling-gap-of-ai.html
 image:
     path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/sonia/box-card.png"
     alt: Cromp Pictured during her time at NASA working on GeoDES
+    
+banner_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/sonia/method.png"
+banner_alt: "Image of Tabby’s architecture, credits: Sonia Cromp"
 
 excerpt: Observing gaps in Large Language Models’ (LLMs’) abilities to process tabular data motivated UW-Madison Computer Sciences PhD candidate Sonia Cromp to develop Tabby, an architecture modification  to LLMs that improves how they handle structured data.
 ---
