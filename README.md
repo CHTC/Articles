@@ -163,14 +163,14 @@ With all of these templates you will have to switch out the:
 Example: https://chtc.cs.wisc.edu/2024-chtc-fellows.html
 
 ```html
-<div class="row justify-content-center">
-<div class="col-12 col-md-6">
-<img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/pratham.jpeg' class="figure-img img-fluid rounded" alt="Pratham">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
+<div style="flex: 1 1 300px;">
+<img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/pratham.jpeg' style="max-width: 100%; height: auto; border-radius: 0.25rem; display: block;" alt="Pratham">
 </div>
-<div class="col-12 col-md-6">
-<img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/fellows.jpeg' class="figure-img img-fluid rounded" alt="Fellows">
+<div style="flex: 1 1 300px;">
+<img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/fellows.jpeg' style="max-width: 100%; height: auto; border-radius: 0.25rem; display: block;" alt="Fellows">
 </div>
-<div class="col">
+<div style="width: 100%;">
 <p>Fellows at their first presentation, introducing themselves and their projects.</p>
 </div>
 </div>
