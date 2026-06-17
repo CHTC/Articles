@@ -34,7 +34,7 @@ Participation is open to all organisations (including companies) and persons int
 
 The workshop will cover both **using** and **administering** HTCondor; topics will be chosen to best match participants' interests. Short presentations are warmly encouraged, and there will as always be time for spontaneous interactive "show us your toolbox" sessions, which have proven very popular in previous meetings.
 
-**Registration and abstract submissions will open soon** — a dedicated message will be sent once available.
+**Registration and abstract submissions are now open** — see the link below!
 
 ## Collocated IGWN Meeting — Monday, 28 September
 
