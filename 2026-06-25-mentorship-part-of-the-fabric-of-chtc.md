@@ -19,6 +19,9 @@ image:
     path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/mentorship/chtc-staff-htc-week-2026.jpg"
     alt: "CHTC staff, including summer fellows, at HTC Week 2026. Credits: Jeff Peterson"
 
+banner_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/mentorship/chtc-staff-htc-week-2026.jpg"
+banner_alt: "CHTC staff, including summer fellows, at HTC Week 2026. Credits: Jeff Peterson"
+
 excerpt: |
   Mentorship and learning go hand in hand at the Center for High Throughput Computing, a culture director Miron Livny has built over the years. Recently recognized by UW–Madison with a Hilldale Award for his devotion to mentorship, research, and service, Livny calls it "really an award to the CHTC."
 ---
