@@ -29,7 +29,7 @@ excerpt: |
 Mentorship and learning go hand in hand at the Center for High Throughput Computing ([CHTC](https://chtc.cs.wisc.edu/)), a culture the center director [Miron Livny](https://morgridge.org/profile/miron-livny/) has built over the years. Students and fellows can be found across the CHTC, from the more than 700 students who have attended the 15 annual [OSG School](https://osg-htc.org/community/school.html) programs, through [CHTC Summer Fellows](https://chtc.cs.wisc.edu/fellowships/), to student interns and science writers like myself.
 
 <figure style="float: right; margin: 0 1rem 0 1rem; width: 267px;">
-<img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/mentorship/miron-llvny-award.jpg' height="400" class="figure-img img-fluid rounded" alt="CHTC Director Miron Livny">
+<img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/mentorship/miron-livny.jpg' height="400" class="figure-img img-fluid rounded" alt="CHTC Director Miron Livny">
 <figcaption>Pictured: CHTC Director Miron Livny. Credits: Jeff Peterson</figcaption>
 </figure>
 
