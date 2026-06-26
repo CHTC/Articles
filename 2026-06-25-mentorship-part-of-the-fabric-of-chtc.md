@@ -29,15 +29,15 @@ excerpt: |
 Mentorship and learning go hand in hand at the Center for High Throughput Computing ([CHTC](https://chtc.cs.wisc.edu/)), a culture the center director [Miron Livny](https://morgridge.org/profile/miron-livny/) has built over the years. Students and fellows can be found across the CHTC, from the more than 700 students who have attended the 15 annual [OSG School](https://osg-htc.org/community/school.html) programs, through [CHTC Summer Fellows](https://chtc.cs.wisc.edu/fellowships/), to student interns and science writers like myself.
 
 <figure style="float: right; margin: 0 1rem 0 1rem; width: 267px;">
-<img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/mentorship/miron-livny.png' height="400" width="267" class="figure-img img-fluid rounded" alt="CHTC Director Miron Livny">
+<img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/mentorship/sophie-dorros.jpg' height="400" class="figure-img img-fluid rounded" alt="CHTC Director Miron Livny">
 <figcaption>Pictured: CHTC Director Miron Livny. Credits: Jeff Peterson</figcaption>
 </figure>
 
 As a student science writer at the CHTC, I have to find a balance between writing and researching for the center and my school and class work. At times it can be a lot, but part of the reason I enjoy being part of the CHTC is because it offers a culture in which this search for a balance is an advantage. Livny remarks; “I hope we give you an opportunity to do something you can't get if you would have been just doing your class work. That's a privilege that you can do what is stimulating you, what is driving you.” As a team member, I have to shift from text-book learning in the classroom to real-world learning at the CHTC. But as Livny notes, it's truly a privilege to get to have so many opportunities to learn and grow that aren't strictly related to educational ones.
 
 <figure style="float: left; margin: 0 1rem 1rem 0; width: 260px;">
-<img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/mentorship/sophie-dorros.jpg' height="347" width="260" class="figure-img img-fluid rounded" alt="CHTC Student Science Writer Sophie Dorros">
-<figcaption>Pictured: CHTC Student Science Writer Sophie Dorros (left)</figcaption>
+<img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/mentorship/miron-livny.png' width="130" class="figure-img img-fluid rounded" alt="CHTC Student Science Writer Sophie Dorros">
+<figcaption>Pictured: CHTC Student Science Writer Sophie Dorros </figcaption>
 </figure>
 
 As an economics major with little computing experience myself, coming into this job I was unsure of how my skillset would fit into such a tech-heavy environment. I quickly realized that the work at the CHTC is translational, connecting research communities with computer science to advance discovery. Livny notes “When you do translational work, you have to communicate…you have to get funding to build dependable tools and users to come and use them. And that creates the opportunity for you as a communication writer. You are the success story.” Everyone at the CHTC has a different but equally important role to play in the translational process, whether that's working directly on platforms like [HTCondor](https://htcondor.org/) or [Pelican](https://pelicanplatform.org/), or communications work that expands the awareness of the discoveries enabled.
