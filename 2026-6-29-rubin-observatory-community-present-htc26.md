@@ -41,7 +41,7 @@ Slater noted the observatory's goal to annually publish their "best" data set, i
 In his talk "[Rubin Observatory: Scaling towards Data Release Production using HTCondor](https://agenda.hep.wisc.edu/event/2432/contributions/37884/)," Gregory Daues, Senior Research Software Engineer at the National Center for Supercomputing Applications (NCSA), gave an overview of the kinds of work the Rubin Observatory is doing, including the steps that go into image processing, and how HTCondor is being leveraged in their workflows. Daues reports that processing just a single year's data into a data release involves around 100 distinct pipeline tasks with hundreds of millions of individual job instances, requiring a system that can coordinate jobs while managing dependencies between tasks. The Rubin Observatory uses small placeholders, called glideins, that run on machines worldwide and connect back to a central HTCondor system, allowing for the collection of separate resources to run on a unified pool scientists can submit their processing work to.
 
 <figure style="float: left; margin: 0 1rem 1rem 0;">
-<img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/greg-htc26.jpg' height="400" width="267" class="figure-img img-fluid rounded" alt="Greg Daues at HTC Week 2026">
+<img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/Greg htc26.jpg' height="400" width="267" class="figure-img img-fluid rounded" alt="Greg Daues at HTC Week 2026">
 <figcaption>Pictured: Greg Daues at HTC Week 2026. Credits: Jeff Peterson</figcaption>
 </figure>
 
