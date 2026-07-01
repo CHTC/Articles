@@ -7,6 +7,8 @@ publish_on:
   - path
   - htcondor
 type: user
+tag:
+- chtc_featured_article
 canonical_url: "https://chtc.cs.wisc.edu/david-swanson-awardee-saloni-bhogale-presents-at-htc-week-2026.html"
 image:
   path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/saloni-card-1280x640.jpg"
