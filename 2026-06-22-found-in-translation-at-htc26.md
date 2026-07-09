@@ -15,9 +15,9 @@ canonical_url: https://morgridge.org/story/found-in-translation-at-htc26/
 
 ---
 
-<figure style="float: right; margin: 0 1rem 0 1rem; width: 350px;">
- <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/htc26.jpg' height="500" class="figure-img img-fluid rounded" alt="Over 110 people joined HTC26 on UW–Madison's campus, and hundreds more participated virtually — in total representing 19 countries spread across five continents. Photo: Jeff Peterson." >
- <figcaption>Over 110 people joined HTC26 on UW–Madison's campus, and hundreds more participated virtually — in total representing 19 countries spread across five continents. Photo: Jeff Peterson.</figcaption>
+<figure>
+<img style="width:100%" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/htc26.jpg" alt="Over 110 people joined HTC26 on UW–Madison's campus, and hundreds more participated virtually — in total representing 19 countries spread across five continents. Photo: Jeff Peterson."/>
+<figcaption>Over 110 people joined HTC26 on UW–Madison's campus, and hundreds more participated virtually — in total representing 19 countries spread across five continents. Photo: Jeff Peterson.</figcaption>
 </figure>
 
 HTC26, the fourth annual Throughput Computing Week, brought an international research community to the University of Wisconsin–Madison campus on June 9-12 to assess challenges across science that demand a unique approach to computation.
