@@ -20,9 +20,7 @@ excerpt: |
 <figcaption>Members of the Center for High Throughput Computing at the Discovery Building in Madison, Wis.</figcaption>
 </figure>
 
-## NSF announces investment to shape the nation’s future data backbone
-
-### Morgridge and UW–Madison team up to provide data services for the AI era
+**Morgridge and UW–Madison team up to provide data services for the AI era**
  
 <figure style="float: right; margin: 0 1rem 1rem 0; width: 200px;">
 <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/BrianBockelman.jpeg" alt="Brian Bockelman">
@@ -48,4 +46,4 @@ Livny, Morgridge’s chief technology officer and John Morgridge professor of co
  
 FabAID builds on the decades of partnership between the [OSG Consortium (OSG)](https://osg-htc.org/) and the Center for High Throughput Computing (CHTC). CHTC, located within the newly formed [UW–Madison College of Computing & Artificial Intelligence](https://cai.wisc.edu/), innovates methodologies, software tools, and services for throughput computing — most notably Pelican and [HTCondor](https://htcondor.org/). FabAID takes these partnerships into the AI era.
  
-Read the full article [here](https://morgridge.org/story/nsf-announces-investment-to-shape-the-nations-future-data-backbone/).
+* View the original source press release on the [Morgridge Institute for Research website](https://morgridge.org/story/nsf-announces-investment-to-shape-the-nations-future-data-backbone/).
