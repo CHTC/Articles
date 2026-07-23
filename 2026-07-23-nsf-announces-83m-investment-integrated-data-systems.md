@@ -11,11 +11,8 @@ image:
   path: "https://raw.githubusercontent.com/CHTC/Articles/jstathas-NSF-Release/images/idss-announcement-graphic.jpg"
   alt: "Announcement Banner, Credit: U.S. National Science Foundation"
 excerpt: |
-  The U.S. National Science Foundation today announced $83 million in awards through the [Integrated Data Systems and Services (IDSS) program](https://www.nsf.gov/funding/opportunities/idss-integrated-data-systems-services). The awards will expand access to data infrastructure resources that researchers can use alongside computing and artificial intelligence resources to accelerate scientific discovery and innovation.
+  The U.S. National Science Foundation today announced $83 million in awards through the Integrated Data Systems and Services (IDSS) program. The awards will expand access to data infrastructure resources that researchers can use alongside computing and artificial intelligence resources to accelerate scientific discovery and innovation.
 ---
-
-July 22, 2026
-
 The U.S. National Science Foundation today announced $83 million in awards through the Integrated Data Systems and Services (IDSS) program. The awards will expand access to data infrastructure resources that researchers can use alongside computing and artificial intelligence resources to accelerate scientific discovery and innovation.
 
 IDSS supports national priorities to strengthen U.S. leadership in AI, build an AI-ready workforce and ensure researchers have the tools and infrastructure needed to compete globally. The program advances a national AI research ecosystem by connecting scientific data with computing, instruments, software and AI resources, complementing the NSF-led [National Artificial Intelligence Research Resource (NAIRR)](https://www.nsf.gov/focus-areas/ai/nairr) and other cyberinfrastructure investments. These investments also support the White House's Genesis Mission by strengthening the data infrastructure that enables researchers to make discoveries, use AI and advanced computing and accelerate innovation across the U.S. research enterprise.
@@ -30,10 +27,12 @@ Collectively, these investments will enable scientists to focus on generating ne
 
 **Category I: National-Scale Integrated Data Systems and Services**
 
-* [Fabric for AI-Driven Science (FabAID)](https://fabaid.io/), led by the Morgridge Institute for Research in Madison, Wisconsin, will build a national data fabric that connects repositories, computing resources and cyberinfrastructure, including NAIRR, to streamline access and curation of large-scale scientific datasets for AI-driven research.
+&emsp;* [Fabric for AI-Driven Science (FabAID)](https://fabaid.io/), led by the Morgridge Institute for Research in Madison, Wisconsin, will build a national data fabric that connects repositories, computing resources and cyberinfrastructure, including NAIRR, to streamline access and curation of large-scale scientific datasets for AI-driven research.
 
-*FabAID (Award # OAC-2331480) is among a group of awards the NSF is funding through its Integrated Data Systems and Services program, an initiative that “supports national priorities to strengthen U.S. leadership in AI.” Read the NSF press release here: 
+*Excerpt from NSF press release. Read the full press release here: 
 [https://www.nsf.gov/news/nsf-announces-83m-investment-integrated-data-systems](https://www.nsf.gov/news/nsf-announces-83m-investment-integrated-data-systems)*
+
+*FabAID (Award # OAC-2331480) is among a group of awards the NSF is funding through its Integrated Data Systems and Services program, an initiative that “supports national priorities to strengthen U.S. leadership in AI.” *
 
 
 
