@@ -8,7 +8,7 @@ publish_on:
   - htcondor
 type: news
 tag:
-  - chtc-featured-article
+- chtc_featured_article
 canonical_url: "https://chtc.cs.wisc.edu/nsf-announces-investment-to-shape-the-nations-future-data-backbone.html"
 image:
   path: "https://raw.githubusercontent.com/CHTC/Articles/mriggle-nsf-fabaid-announcement/images/htct-server-featured.jpg"
