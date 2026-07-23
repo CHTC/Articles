@@ -7,12 +7,16 @@ publish_on:
   - path 
   - htcondor
 type: news
+tag:
+  - chtc-featured-article
 canonical_url: "https://chtc.cs.wisc.edu/nsf-announces-investment-to-shape-the-nations-future-data-backbone.html"
 image:
   path: "https://raw.githubusercontent.com/CHTC/Articles/mriggle-nsf-fabaid-announcement/images/htct-server-featured.jpg"
   alt: "Members of the Center for High Throughput Computing at the Discovery Building in Madison, Wis."
 excerpt: |
   Morgridge and UW–Madison team up to provide data services for the AI era
+banner-scr: "https://raw.githubusercontent.com/CHTC/Articles/mriggle-nsf-fabaid-announcement/images/htct-server-featured.jpg"
+banner-alt: "Members of the Center for High Throughput Computing at the Discovery Building in Madison, Wis."
 ---
  
 <figure style="width: 100%;">
