@@ -12,8 +12,6 @@ type: news
 
 canonical_url: https://chtc.cs.wisc.edu/mentorship-part-of-the-fabric-of-chtc.html
 
-tag:
-- chtc_featured_article
 
 image:
     path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/mentorship/chtc-staff-htc-week-2026.jpg"
