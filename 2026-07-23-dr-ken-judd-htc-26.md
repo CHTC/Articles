@@ -6,7 +6,7 @@ publish_on:
   - osg 
   - path 
   - htcondor
-type: news
+type: feature
 canonical_url: "https://htcondor.org/dr-ken-judd-htc-26.html"
 image:
   path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/dr-ken-judd-thumbnail.jpg"
