@@ -7,7 +7,9 @@ publish_on:
   - htcondor
 type: news
 canonical_url: "https://chtc.cs.wisc.edu/2026-07-23-nsf-announces-83m-investment-integrated-data-systems.html"
-
+image:
+  path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/idss-announcement-graphic.jpg"
+  alt: Announcement Banner, Credit: U.S. National Science Foundation
 excerpt: |
   The U.S. National Science Foundation today announced $83 million in awards through the [Integrated Data Systems and Services (IDSS) program](https://www.nsf.gov/funding/opportunities/idss-integrated-data-systems-services). The awards will expand access to data infrastructure resources that researchers can use alongside computing and artificial intelligence resources to accelerate scientific discovery and innovation.
 ---
