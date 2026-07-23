@@ -18,7 +18,7 @@ excerpt: |
 
 <div style="overflow: auto;">
 <figure style="float: left; margin: 0 1rem 1rem 0; width: 300px;">
-<img src='https://raw.githubusercontent.com/CHTC/Articles/judd-htc-26/images/dr-ken-judd.jpg' class="figure-img img-fluid rounded" alt="CHTC Facilitator Danny Morales presents on using Alphafold">
+<img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/dr-ken-judd.jpg' class="figure-img img-fluid rounded" alt="CHTC Facilitator Danny Morales presents on using Alphafold">
 <figcaption>Ken Judd presenting at HTC26. Credits: Jeff Peterson</figcaption>
 </figure>
 
@@ -29,7 +29,7 @@ Judd’s answer to transforming how economists do research is breaking up big pr
 
 <div style="overflow: auto;">
 <figure style="float: right; margin: 0 1rem 1rem 0; width: 300px;">
-<img src='https://raw.githubusercontent.com/CHTC/Articles/judd-htc-26/images/dsice-results.jpg' class="figure-img img-fluid rounded" alt="DSICE Results">
+<img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/dsice-results.jpg' class="figure-img img-fluid rounded" alt="DSICE Results">
 <figcaption>DSICE Results. Credits: Ken Judd</figcaption>
 </figure>
 
