@@ -1,6 +1,6 @@
 ---
 title: Transforming Economic Research with High Throughput Computing
-author: Janet Stathas
+author: Sophie Dorros
 publish_on:
   - chtc
   - osg 
