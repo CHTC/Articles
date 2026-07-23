@@ -20,9 +20,9 @@ excerpt: |
 <figcaption>Members of the Center for High Throughput Computing at the Discovery Building in Madison, Wis.</figcaption>
 </figure>
 
-# NSF announces investment to shape the nation’s future data backbone
+## NSF announces investment to shape the nation’s future data backbone
 
-Morgridge and UW–Madison team up to provide data services for the AI era
+### Morgridge and UW–Madison team up to provide data services for the AI era
  
 <figure style="float: right; margin: 0 1rem 1rem 0; width: 200px;">
 <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/BrianBockelman.jpeg" alt="Brian Bockelman">
