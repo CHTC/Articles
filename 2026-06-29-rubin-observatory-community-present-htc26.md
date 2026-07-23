@@ -7,13 +7,9 @@ publish_on:
   - path
 type: news
 canonical_url: "https://chtc.cs.wisc.edu/vera-c-rubin-community-presents-at-htc-week-2026.html"
-tag:
-- chtc_featured_article
 image:
   path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/Trifid and Lagoon (Image).jpeg"
   alt: "Image of Trifid and Lagoon Nebulas from the Vera C. Rubin Observatory. Credits: NSF–DOE Vera C. Rubin Observatory"
-banner_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/Trifid and Lagoon (Image).jpeg"
-banner_alt: "Image of Trifid and Lagoon Nebulas from the Vera C. Rubin Observatory. Credits: NSF–DOE Vera C. Rubin Observatory"
 excerpt: |
   Last June, the first images from the Vera C. Rubin Observatory were revealed, processed using HTCondor. This June, three members of the Rubin astronomy community presented at Throughput Computing Week 2026, sharing how HTCondor powers their massive data workflows.
 ---
