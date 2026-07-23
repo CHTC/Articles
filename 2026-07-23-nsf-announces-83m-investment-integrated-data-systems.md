@@ -7,6 +7,9 @@ publish_on:
   - htcondor
 type: news
 canonical_url: "https://chtc.cs.wisc.edu/2026-07-23-nsf-announces-83m-investment-integrated-data-systems.html"
+
+tag:
+- chtc_featured_article
 image:
   path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/idss-announcement-graphic.jpg"
   alt: "Announcement Banner, Credit: U.S. National Science Foundation"
