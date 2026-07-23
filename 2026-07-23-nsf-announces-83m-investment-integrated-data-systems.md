@@ -29,10 +29,10 @@ Collectively, these investments will enable scientists to focus on generating ne
 
 > * [Fabric for AI-Driven Science (FabAID)](https://fabaid.io/), led by the Morgridge Institute for Research in Madison, Wisconsin, will build a national data fabric that connects repositories, computing resources and cyberinfrastructure, including NAIRR, to streamline access and curation of large-scale scientific datasets for AI-driven research.
 
-*Excerpt from NSF press release. Read the full press release here: 
+*Excerpt from July 22, 2026 NSF press release. Read the full press release here: 
 [https://www.nsf.gov/news/nsf-announces-83m-investment-integrated-data-systems](https://www.nsf.gov/news/nsf-announces-83m-investment-integrated-data-systems)*
 
-*FabAID (Award # OAC-2331480) is among a group of awards the NSF is funding through its Integrated Data Systems and Services program, an initiative that “supports national priorities to strengthen U.S. leadership in AI.” *
+*FabAID [(Award # OAC-2331480)](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2609485) is among a group of awards the NSF is funding through its Integrated Data Systems and Services program, an initiative that “supports national priorities to strengthen U.S. leadership in AI.” *
 
 
 
