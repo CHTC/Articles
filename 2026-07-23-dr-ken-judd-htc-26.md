@@ -9,7 +9,7 @@ publish_on:
 type: news
 canonical_url: "https://chtc.cs.wisc.edu/dr-ken-judd-htc-26.html"
 image:
-  path: "https://raw.githubusercontent.com/CHTC/Articles/judd-htc-26/images/dr-ken-judd.jpg"
+  path: "https://raw.githubusercontent.com/CHTC/Articles/judd-htc-26/images/dr-ken-judd-thumbnail.jpg"
   alt: "Ken Judd presenting at HTC26"
 excerpt: |
   “How can HTCondor be used for economics?” asked Dr. Kenneth Judd, Senior Fellow at the Hoover Institution, when he presented his 
