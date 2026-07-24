@@ -6,7 +6,7 @@ publish_on:
   - path 
   - htcondor
 type: news
-canonical_url: "https://chtc.cs.wisc.edu/2026-07-23-nsf-announces-83m-investment-integrated-data-systems.html"
+canonical_url: "https://chtc.cs.wisc.edu/2026-07-22-nsf-announces-83m-investment-integrated-data-systems.html"
 
 tag:
 - chtc_featured_article
