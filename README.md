@@ -147,6 +147,9 @@ newly formatted on the left into the page.
 
 All images follow the same url scheme as those in the frontmatter. They will always be prefixed with `https://raw.githubusercontent.com/CHTC/Articles/main/images/` and appended with the image name. You can see examples below.
 
+You should make sure that all images that you include are less than 1MB. This typically involves capping their width to less
+than 1000 pixels.
+
 ##### Markdown Templates
 
 This is a list of items that you might want to add to your article. These are all pulled from existing articles, so you 
@@ -210,9 +213,6 @@ Example: https://chtc.cs.wisc.edu/unravelling-antibiotic-resistance.html
  <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/wright-lab.jpg' height="420" width="300" class="figure-img img-fluid rounded" alt="Erik in the wet lab">
 </figure>
 ```
-
-
-
 
 ### Create a Pull-Request to merge the article into production
 
