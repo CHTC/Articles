@@ -141,7 +141,33 @@ excerpt: This is a really really really really really really really really reall
 
 The content will be coming from your google doc. An easy way to convert a google document into markdown is by 
 copying and pasting the google doc content into https://stackedit.io/app# on the left. You can then copy the content
-newly formatted on the left into the page. 
+newly formatted on the left into the page.
+
+##### HTML
+
+When using HTML inside of your markdown page make sure to add a blank line in between your html elements and markdown elements. This will
+ensure that things render correctly for instance:
+
+**Correct**
+
+```md
+<figure>
+<img style="width:100%" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/epic-eic-collab.jpg" alt=" Electron Beam Ion Source / Brookhaven National Laboratory"/>
+<figcaption>Electron Beam Ion Source / Brookhaven National Laboratory</figcaption>
+</figure>
+
+This is the start of a new paragraph that is meant to render as markdown.
+```
+
+**Incorrect**
+
+```md
+<figure>
+<img style="width:100%" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/epic-eic-collab.jpg" alt=" Electron Beam Ion Source / Brookhaven National Laboratory"/>
+<figcaption>Electron Beam Ion Source / Brookhaven National Laboratory</figcaption>
+</figure>
+This is the start of a new paragraph that is meant to render as markdown.
+```
 
 ##### Images
 
