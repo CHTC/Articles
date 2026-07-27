@@ -187,13 +187,17 @@ Example: https://chtc.cs.wisc.edu/collaborations-epic-eic.html
 </figure>
 ```
 
-###### Image Floated Left
+###### Image Floated Left with Figcaption
+
+The use of figcaption means that you need to bound the figure to the width of the displayed image. Otherwise, it will extend
+beyond those bounds and take up the width of the full page. This is fine with the banner, not with floated images.
 
 Example: https://chtc.cs.wisc.edu/unravelling-antibiotic-resistance.html
 
 ```html
-<figure style="float: left; margin: 0 1rem 1rem 0;">
+<figure style="float: left; margin: 0 1rem 1rem 0; width: 300px;">
 <img src='https://raw.githubusercontent.com/CHTC/Articles/main/images/wright-smile.jpg' height="420" width="300" class="figure-img img-fluid rounded" alt="Erik smiling">
+<figcaption>Using a figcaption means you have to cap the width of the figure so that it doesn't take the width of the full page.</figcaption>
 </figure>
 ```
 
