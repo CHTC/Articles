@@ -37,3 +37,5 @@ Judd noted that there are several types of computational problems in economics t
 Judd presented an example of dynamic programming performed using HTCondor through a paper he co-authored “[Solving Dynamic Programming Problems on a Computational Grid](https://www.nber.org/system/files/working_papers/w18714/w18714.pdf).” Judd and his colleagues used the condor\_worker function of HTCondor to manage a portfolio to maximize the value of wealth at retirement time *t*. Cai and Judd used up to 200 CPU’s, solving dynamic programming problems at scale not possible before.
 
 Judd’s goal moving forward is to develop useful software accessible to economists, a task he says is a challenge in a field not used to utilizing modern computational methods. Judd remarked “There’s a lot of low hanging fruit” in economics, which he says HTCondor and [OSG](https://osg-htc.org/) can be extremely helpful for.
+
+Judd's full talk from HTC26 is available to be viewed at the following link: https://www.youtube.com/watch?v=KwVFykWlpZ4. 
