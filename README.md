@@ -57,26 +57,26 @@ _Add this frontmatter to the top and the article content will go below_
 
 ```yaml
 ---
-title: <Article Title>
+title: <Article Title> *Required
 
-author: <First Last>
+author: <First Last> *Required
 
 publish_on:
-  - <htcondor, path, osg, chtc, pelican> - This indicates what website this article will be shown on
+  - <htcondor, path, osg, chtc, pelican> - This indicates what website this article will be shown on *Required
   - <htcondor, path, osg, chtc, pelican> - If more then one then add as a list
   
-type: <news, user, tech-blog> - This indicates if this article is based on a user's experience with our services or a news story about what we have done. 
+type: <news, user, tech-blog> - This indicates if this article is based on a user's experience with our services or a news story about what we have done. *Required
 
-canonical_url: "<This is a absolute url that points to the canonical site>"
+canonical_url: "<This is a absolute url that points to the canonical site>" *Required
 
 tag:
 - chtc_featured_article <If you would like this article listed first on the CHTC news page: Note if you add one you must remove one.> 
 
 image:
-  path: "<https://raw.githubusercontent.com/CHTC/Articles/main/images/...>" - An image that will populate the link preview
-  alt: Text Description of image
+  path: "<https://raw.githubusercontent.com/CHTC/Articles/main/images/...>" - An image that will populate the link preview *Required
+  alt: Text Description of image *Required
   
-excerpt: <Same as description but used for the cards>
+excerpt: <Same as description but used for the cards> *Required
 
 banner_src: "<https://raw.githubusercontent.com/CHTC/Articles/main/images/>" - Optional - An image that will be used as a website banner
 banner_alt: Text Description of image
