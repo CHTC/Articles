@@ -10,9 +10,6 @@ publish_on:
 
 type: news
 
-tag:
-  - chtc_featured_article
-
 canonical_url: https://chtc.cs.wisc.edu/bioinformatics-cafe.html
 
 image:  
