@@ -1,0 +1,33 @@
+---
+title: Over One Billion Jobs Ran over the Past Year from Just Three Pools!
+
+author: Jacob Isaacson
+
+publish_on:
+  - htcondor
+  - chtc
+  - osg
+  - path
+  
+type: news
+
+canonical_url: "https://path-cc.io/news/2025-12-15-1-billion-jobs/"
+
+tag:
+- chtc_featured_article <If you would like this article listed first on the CHTC news page: No
+
+image:
+  path: "<https://raw.githubusercontent.com/CHTC/Articles/main/images/One-billion-jobs-bar-chart.png>" - An image that will populate the link preview
+  alt: Bar chart showing the number of jobs run across the OSPool, CMS, and IGWN Pools over the past year.
+  
+excerpt: The OSPool, the CMS Pool, and the IGWN Pool alone accounted for over a billion HTCondor jobs that ran over the past year. 
+
+banner_src: "<https://raw.githubusercontent.com/CHTC/Articles/main/images/>" - Optional - An image that will be used as a website banner
+banner_alt:
+---
+The [OSPool](https://osg-htc.org/services/ospool/), the [CMS Pool](https://cms.cern/), and the [IGWN Pool](https://computing.docs.ligo.org/guide/igwn/)
+alone accounted for over a billion HTCondor jobs that ran over the past year. There were 425 million jobs from the OSPool, 600 million from the CMS Pool, and 60 million from the IGWN Pool.
+
+On the [HTCondor site](https://htcondor.com/about) you can view data on jobs submitted across these pools, and the pools of other collaborators.
+You can also visit the [OSPool page](https://osg-htc.org/services/ospool/) to see specific data, including day-to-day numbers on jobs submitted, or the [OSDF page](https://osg-htc.org/services/osdf/data) for information on 
+numbers of available repositories, objects transferred, and petabytes of data delivered.
