@@ -9,7 +9,7 @@ publish_on:
 type: news
 canonical_url: "https://chtc.cs.wisc.edu/mentoring-propels-fellows-success.html"
 image:
-  path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/images/fellows_staff_memu.jpeg"
+  path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/fellows_staff_memu.jpeg"
   alt: Fellows and staff pictured
 excerpt: Mentorship propels success of CHTC Summer Fellows Program
 ---
