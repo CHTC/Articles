@@ -8,6 +8,8 @@ publish_on:
   - htcondor
   - osg
   - path
+  - pelican
+  - fabaid
 
 type: news
 

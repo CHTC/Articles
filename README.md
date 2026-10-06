@@ -62,8 +62,8 @@ title: <Article Title> *Required
 author: <First Last> *Required
 
 publish_on:
-  - <htcondor, path, osg, chtc, pelican> - This indicates what website this article will be shown on *Required
-  - <htcondor, path, osg, chtc, pelican> - If more then one then add as a list
+  - <htcondor, path, osg, chtc, pelican, fabaid> - This indicates what website this article will be shown on *Required
+  - <htcondor, path, osg, chtc, pelican, fabaid> - If more then one then add as a list
   
 type: <news, user, tech-blog> - This indicates if this article is based on a user's experience with our services or a news story about what we have done. *Required
 
