@@ -6,6 +6,7 @@ publish_on:
   - osg 
   - path 
   - htcondor
+  - fabaid
 type: news
 tag:
 - chtc_featured_article
