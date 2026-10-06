@@ -1,5 +1,5 @@
 ---
-title: Francis Halzen Awarded 2026 Nobel Prize
+title: Francis Halzen Awarded 2026 Nobel Prize in Physics
 
 author: CHTC Staff
 
@@ -24,10 +24,10 @@ image:
 
 excerpt: |
   Congratulations to Francis Halzen, awarded the 2026 Nobel Prize in Physics for contributions to the IceCube Neutrino
-  Observatory in Antarctica and the discovery of high-energy neutrinos. IceCube has collaborated with CHTC for over a decade.
+  Observatory and the discovery of high-energy neutrinos. IceCube has collaborated with CHTC for over a decade.
 ---
 
-Congratulations to Francis Halzen who was awarded the 2026 Nobel Prize in Physics for contributions to the IceCube Neutrino Observatory in Antarctica and the discovery of high-energy neutrinos. The work of Halzen, a UW—Madison professor, and the IceCube researchers have long collaborated with the Center for High Throughput Computing (CHTC), who provides computing resources, allowing IceCube to analyze the massive amounts of data it collects. “We have used CHTC and the Open Science Pool (OSPool) for over a decade to perform all large-scale data analysis tasks and generate Monte Carlo simulations,” Halzen has noted. The Open Capacity offered by UW—Madison via CHTC supported their work going back to the AMANDA Project, IceCube's predecessor. Another major contributor to this effort is the National Science Foundation’s sustained support of CHTC and its capability to provide open computing capacity to IceCube. In the past year alone, IceCube’s research ran over 53 million jobs using CHTC and OSPool resources, utilizing over 79 million CPU hours, over 2 million GPU hours, and transferring over 11 million GB of data.
+Congratulations to Francis Halzen who was awarded the 2026 Nobel Prize in Physics for contributions to the IceCube Neutrino Observatory in Antarctica and the discovery of high-energy neutrinos. The work of Halzen, a UW—Madison physicist, and the IceCube researchers have long collaborated with the Center for High Throughput Computing (CHTC), who provides computing resources, allowing IceCube to analyze the massive amounts of data it collects. “We have used CHTC and the Open Science Pool (OSPool) for over a decade to perform all large-scale data analysis tasks and generate Monte Carlo simulations,” Halzen has noted. The Open Capacity offered by UW—Madison via CHTC supported their work going back to the AMANDA Project, IceCube's predecessor. Another major contributor to this effort is the National Science Foundation’s sustained support of CHTC and its capability to provide open computing capacity to IceCube. In the past year alone, IceCube’s research ran over 53 million jobs using CHTC and OSPool resources, utilizing over 79 million CPU hours, over 2 million GPU hours, and transferring over 11 million GB of data.
 
 Halzen acknowledged CHTC’s contributions:
 
