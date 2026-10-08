@@ -11,7 +11,7 @@ publish_on:
   - pelican
   - fabaid
 
-type: news
+type: user
 
 canonical_url: "https://chtc.cs.wisc.edu/francis-halzen-nobel-prize.html"
 
