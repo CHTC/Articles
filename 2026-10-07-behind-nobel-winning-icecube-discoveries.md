@@ -10,7 +10,7 @@ publish_on:
   - path
   - pelican
 
-type: news
+type: user
 
 canonical_url: "https://morgridge.org/story/behind-nobel-winning-icecube-discoveries-decades-of-high-throughput-computing/"
 
