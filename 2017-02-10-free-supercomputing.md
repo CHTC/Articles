@@ -15,13 +15,7 @@ excerpt: |
 publish_on:
 - osg
 
-# `type` was missing here, and every site selects articles on it
-# (filterArticles), so this article was dropped everywhere and no page
-# was built for it. `user` is where it has always been listed: the Jekyll
-# spotlights index selected `type != 'news'`, and the canonical_url above
-# points at /spotlights/. This keeps the article's URL where inbound
-# links already point rather than being a strict read of the category.
-type: user
+type: news
 ---
 
 Scott Cole, a neuroscience PhD student at University of California San Diego, wrote an article which appeared in PythonWeekly that details how to get up and running on Open Science Pool.  “I was starting to run into computational limitations in my neuroscience research, but I didn’t have any experience speeding up my work with something like high throughput computing,” said Cole.  When Cole saw that there was an opportunity at the OSG User School to learn how to use OSG and the free access to resources it provides, he jumped on it.

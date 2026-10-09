@@ -12,13 +12,7 @@ publish_on:
     - htcondor
     - path
 
-# `type` was missing here, and every site selects articles on it
-# (filterArticles), so this article was dropped everywhere and no page
-# was built for it. `user` is where it has always been listed: the Jekyll
-# spotlights index selected `type != 'news'`, and the canonical_url above
-# points at /spotlights/. This keeps the article's URL where inbound
-# links already point rather than being a strict read of the category.
-type: user
+type: news
 --- 
 
 When Greg Daues at the <a href="https://resources.istcoalition.org/national-center-for-supercomputing-applications" target="_blank">National Center for Supercomputing Applications (NCSA)</a> needed to transfer 460 Terabytes of NCSA files from <a href="https://in2p3.cnrs.fr/en/node/11" target="_blank">the National Institute of Nuclear and Particle Physics (IN2P3)</a> in Lyon, France to Urbana, Illinois, for a project they were working with <a href="https://www.fnal.gov/" target="_blank">FNAL</a>, CC-IN2P3 and the <a href="https://www.lsst.org/" target="_blank">Rubin Data Production team</a>, he turned to the <a href="https://research.cs.wisc.edu/htcondor/" target="_blank">HTCondor High Throughput system</a>, not to run computationally intensive jobs, as many do, but to manage the hundreds of thousands of I/O bound transfers.

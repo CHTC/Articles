@@ -23,13 +23,7 @@ card_alt: Image Courtesy Caltech/MIT/LIGO Laboratory
 publish_on:
 - osg
 
-# `type` was missing here, and every site selects articles on it
-# (filterArticles), so this article was dropped everywhere and no page
-# was built for it. `user` is where it has always been listed: the Jekyll
-# spotlights index selected `type != 'news'`, and the canonical_url above
-# points at /spotlights/. This keeps the article's URL where inbound
-# links already point rather than being a strict read of the category.
-type: user
+type: news
 ---
 
 Albert Einstein first posed the idea of gravitational waves in his [general theory of relativity](https://en.wikipedia.org/wiki/General_relativity) just over a century ago. But until now, they had never been observed directly. For the first time, scientists with the Laser Interferometer Gravitational-Wave Observatory [(LIGO) Scientific Collaboration](http://www.ligo.org/) (LSC) [have observed ripples in the fabric of spacetime called gravitational waves](https://www.ligo.caltech.edu/news/ligo20160211).

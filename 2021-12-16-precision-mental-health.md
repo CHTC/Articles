@@ -16,13 +16,7 @@ publish_on:
     - htcondor
     - path
 
-# `type` was missing here, and every site selects articles on it
-# (filterArticles), so this article was dropped everywhere and no page
-# was built for it. `user` is where it has always been listed: the Jekyll
-# spotlights index selected `type != 'news'`, and the canonical_url above
-# points at /spotlights/. This keeps the article's URL where inbound
-# links already point rather than being a strict read of the category.
-type: user
+type: news
 ---   
 
 ***Collaborating with CHTC research computing facilitation staff, UW-Madison researcher Gaylen Fronk is using HTC to improve cigarette cessation treatments by accounting for the complex differences among patients.***
