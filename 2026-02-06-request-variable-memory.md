@@ -11,6 +11,9 @@ canonical_url: "https://htcondor.org/2026-02-06-request-variable-memory.html"
 
 excerpt: Have your jobs ever gone on hold because of spikes in memory usage? You could over-request memory, but this decreases your job throughput and also wastes memory resources that could be used for other jobs.
 
+image:
+  path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/stock_card.jpeg"
+  alt: "Open Science Grid"
 ---
 
 Have your jobs ever gone on hold because of spikes in memory usage? You could over-request memory, but this decreases your job throughput and also wastes memory resources that could be used for other jobs.

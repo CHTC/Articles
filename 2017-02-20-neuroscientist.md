@@ -2,8 +2,8 @@
 title: For neuroscientist Chris Cox, the OSG helps process mountains of data
 canonical_url: https://osg-htc.org/spotlights/neuroscientist.html
 image:
-    path: 
-    alt:
+  path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/stock_card.jpeg"
+  alt: "Open Science Grid"
 description: |
     Whether exploring how the brain is fooled by fake news or explaining the 
     decline of knowledge in dementia, cognitive neuroscientists like Chris Cox 
@@ -17,6 +17,14 @@ excerpt: |
 publish_on:
     - osg
     - htcondor
+
+# `type` was missing here, and every site selects articles on it
+# (filterArticles), so this article was dropped everywhere and no page
+# was built for it. `user` is where it has always been listed: the Jekyll
+# spotlights index selected `type != 'news'`, and the canonical_url above
+# points at /spotlights/. This keeps the article's URL where inbound
+# links already point rather than being a strict read of the category.
+type: user
 ---
 Whether exploring how the brain is fooled by fake news or explaining the decline of knowledge in dementia, cognitive neuroscientists like Chris Cox are relying more on high-throughput computing resources like the Open Science Pool to understand how the brain makes sense of information.
 

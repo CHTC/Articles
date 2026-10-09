@@ -13,6 +13,14 @@ author: Josephine Watkins
 publish_on:
     - osg
     - path
+
+# `type` was missing here, and every site selects articles on it
+# (filterArticles), so this article was dropped everywhere and no page
+# was built for it. `user` is where it has always been listed: the Jekyll
+# spotlights index selected `type != 'news'`, and the canonical_url above
+# points at /spotlights/. This keeps the article's URL where inbound
+# links already point rather than being a strict read of the category.
+type: user
 --- 
 ***How undergraduates at the University of Nebraska-Lincoln developed a science gateway that enables researchers to build RNA nanomachines for therapeutic, engineering, and basic science applications.***
 

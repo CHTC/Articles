@@ -11,6 +11,9 @@ canonical_url: "https://htcondor.org/2026-07-28-tip-transfer-a-changing-list-of-
 
 excerpt: How do you transfer a list of files that changes with each job? Using the queue <variable> from <list> syntax, you can!
 
+image:
+  path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/stock_card.jpeg"
+  alt: "Open Science Grid"
 ---
 
 How do you transfer a list of files that changes with each job?

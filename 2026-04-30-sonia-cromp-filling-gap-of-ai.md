@@ -8,7 +8,11 @@ publish_on:
 - osg
 - chtc
 
-type: feature
+# Was `type: feature`, which is not one of the three values the sites
+# understand (news, user, tech-blog), so this article was dropped
+# everywhere and no page was built for it. `user` keeps it on the
+# spotlights page, where the Jekyll site listed it (`type != 'news'`).
+type: user
 
 canonical_url: https://chtc.cs.wisc.edu/sonia-cromp-filling-gap-of-ai.html
 

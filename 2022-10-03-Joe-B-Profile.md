@@ -11,6 +11,8 @@ type: news
 canonical_url: https://chtc.cs.wisc.edu/Joe-B-Profile.html
 
 image:
+  path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/joes-cat.jpg"
+  alt: "Open Science Grid"
 path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/joes-cat.jpg"
 alt: Picture of Joe's Cat
 
@@ -19,8 +21,8 @@ description: |
 excerpt: |
     Staff profile of Joe B., a Systems Administrator at the CHTC.
 
-card_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/joes-cat.jpg"
-card_alt: Picture of Joe's Cat
+card_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/stock_card.jpeg"
+card_alt: "Open Science Grid"
 ---
 
 

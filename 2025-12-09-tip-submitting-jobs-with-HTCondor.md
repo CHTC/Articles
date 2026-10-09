@@ -11,6 +11,9 @@ canonical_url: "https://htcondor.org/2025-12-09-tip-submitting-jobs-with-HTCondo
 
 excerpt: There’s a new feature for submitting jobs with HTCondor. Now you can use shell = <your script> instead of using executable and arguments!
 
+image:
+  path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/stock_card.jpeg"
+  alt: "Open Science Grid"
 ---
 
 **There’s a new feature for submitting jobs with HTCondor.** 

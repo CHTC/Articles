@@ -10,14 +10,16 @@ type: news
 
 canonical_url: "https://morgridge.org/story/fire-up-the-gpus-uw-madison-morgridge-project-sparks-next-level-computing/"
 image:
+  path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/stock_card.jpeg"
+  alt: "Open Science Grid"
 path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/core-comp-gpu.jpeg"
 alt: Conference Room
 
 description: "The Center for High-Throughput Computing (CHTC), a joint partnership of UW-Madison School of Computer, Data & Information Sciences and the Morgridge Institute, sees this onslaught of data and says: Bring it on."
 excerpt: "The Center for High-Throughput Computing (CHTC), a joint partnership of UW-Madison School of Computer, Data & Information Sciences and the Morgridge Institute, sees this onslaught of data and says: Bring it on."
 
-card_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/core-comp-gpu.jpeg"
-card_alt: Emile with RAM in Data Center
+card_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/stock_card.jpeg"
+card_alt: "Open Science Grid"
 
 banner_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/core-comp-gpu.jpeg"
 banner_alt: Emile with RAM in Data Center

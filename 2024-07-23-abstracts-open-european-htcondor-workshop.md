@@ -10,6 +10,10 @@ publish_on:
 type: news
 
 canonical_url:  https://chtc.cs.wisc.edu/abstracts-open-european-htcondor-week
+
+image:
+  path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/stock_card.jpeg"
+  alt: "Open Science Grid"
 ---
 
 Share your experiences with HTCSS at the European HTCondor Workshop in Amsterdam!
