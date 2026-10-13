@@ -1,6 +1,6 @@
 ---
 title: Des Expanding Universe
-canonical_url: https://osg-htc.org/spotlights/des-expanding-universe.html
+canonical_url: https://osg-htc.org/news/2018/03/01/des-expanding-universe/
 image:
     path: https://raw.githubusercontent.com/CHTC/Articles/main/images/Dark-Matter-Map-II-e1521045294690.jpg
     alt: Dark Matter Map Graph

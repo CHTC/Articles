@@ -1,6 +1,6 @@
 ---
 title: Free Supercomputing for Research - Scott Cole introduces you to OSG
-canonical_url: https://osg-htc.org/spotlights/free-supercomputing.html
+canonical_url: https://osg-htc.org/news/2017/02/10/free-supercomputing/
 image:
   path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/stock_card.jpeg"
   alt: "Open Science Grid"

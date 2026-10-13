@@ -12,7 +12,7 @@ publish_on:
 # adding a redirect for each one.
 type: news
 
-canonical_url: "https://osg-htc.org/news/2021/03/20/Migration-HTTPS-from-GridFTP-for-Data-Transfers.html"
+canonical_url: "https://osg-htc.org/news/2021/03/20/Migration-HTTPS-from-GridFTP-for-Data-Transfers/"
 
 image:
   path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/stock_card.jpeg"

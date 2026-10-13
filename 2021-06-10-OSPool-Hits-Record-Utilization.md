@@ -12,7 +12,7 @@ publish_on:
 # adding a redirect for each one.
 type: news
 
-canonical_url: "https://osg-htc.org/news/2021/06/10/OSPool-Hits-Record-Utilization.html"
+canonical_url: "https://osg-htc.org/news/2021/06/10/OSPool-Hits-Record-Utilization/"
 
 image:
   path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/OSPool-Million-Core-Hours-wide.png"

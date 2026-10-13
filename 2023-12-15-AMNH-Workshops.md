@@ -11,7 +11,7 @@ publish_on:
   
 type: news
 
-canonical_url: "https://osg-htc.org/spotlights/AMNH-Workshops.html"
+canonical_url: "https://osg-htc.org/news/2023/12/15/AMNH-Workshops/"
 
 
 image:

@@ -11,7 +11,7 @@ excerpt: "In 2022, the Thyme Lab faced a computing bottleneck at UAB. Ari Ginspa
 image:
   path: https://raw.githubusercontent.com/CHTC/Articles/main/images/thyme/structures.png
   alt: "Example of a prospective drug (white) identified by Rosetta in the hypocretin receptor binding pocket. Amino acids identified to interact with the drug are highlighted in pink or brown."
-canonical_url: https://osg-htc.org/spotlights/oral-roberts-ospool-integration.html
+canonical_url: https://osg-htc.org/spotlights/2025/04/07/new-frontiers-at-thyme-lab/
 
 banner_src: https://raw.githubusercontent.com/CHTC/Articles/main/images/thyme/grid.png
 banner_alt: "Footage from a zebrafish behavior experiment, showing larvae in a 96-well plate."

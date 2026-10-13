@@ -9,7 +9,7 @@ publish_on:
   - chtc
   - osg
 
-canonical_url: https://osg-htc.org/spotlights/PATh-Facility.html
+canonical_url: https://osg-htc.org/news/2022/06/01/PATh-Facility/
 
 image:
   path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/PATh-Facility-Hardware.jpg"

@@ -1,6 +1,6 @@
 ---
 title: "OSG helps LIGO scientists confirm Einstein's unproven theory"
-canonical_url:  https://osg-htc.org/spotlights/osg-helps-ligo-scientists-confirm-einsteins-last-unproven-theory.html
+canonical_url:  https://osg-htc.org/news/2016/02/11/osg-helps-ligo-scientists-confirm-einsteins-last-unproven-theory/
 image:
     path: https://raw.githubusercontent.com/CHTC/Articles/main/images/ligo20160211d-smaller-150x150.jpg
     alt: Image Courtesy Caltech/MIT/LIGO Laboratory

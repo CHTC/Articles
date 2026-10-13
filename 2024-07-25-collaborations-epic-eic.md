@@ -12,7 +12,7 @@ publish_on:
 
 type: user
 
-canonical_url: https://osg-htc.org/spotlights/collaborations-epic-eic.html
+canonical_url: https://osg-htc.org/spotlights/2024/07/25/collaborations-epic-eic/
 
 image:
   path: https://raw.githubusercontent.com/CHTC/Articles/main/images/epic-eic-collab.jpg

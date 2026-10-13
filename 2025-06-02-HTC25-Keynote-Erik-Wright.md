@@ -11,7 +11,7 @@ excerpt: "Dr. Erik Wright, in his presentation “Biological Diversity at an Unf
 image:
   path: https://raw.githubusercontent.com/CHTC/Articles/main/images/ErikWrightHTC25.png
   alt: "Erik Wright presenting his HTC25 Keynote Presenation."
-canonical_url: https://osg-htc.org/spotlights/ErikWrightHTC25.html
+canonical_url: https://osg-htc.org/news/2025/06/02/HTC25-Keynote-Erik-Wright/
 
 ---
 

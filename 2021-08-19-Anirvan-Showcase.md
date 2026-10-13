@@ -1,6 +1,6 @@
 ---
 title: "Antimatter: Using HTC to study very rare processes"
-canonical_url: https://osg-htc.org/spotlights/Anirvan-Showcase.html
+canonical_url: https://osg-htc.org/news/2021/08/19/Anirvan-Showcase/
 image:
     path: https://raw.githubusercontent.com/CHTC/Articles/main/images/Anirvan-Showcase-1.png
     alt: Proton-proton collision

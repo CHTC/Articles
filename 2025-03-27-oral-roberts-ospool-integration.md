@@ -11,7 +11,7 @@ excerpt: "ORU, a private university of 5,000 students located in Tulsa, Oklahoma
 image:
   path: https://raw.githubusercontent.com/CHTC/Articles/main/images/oru.jpg
   alt: Oral Roberts University Campus Titan. Courtesy of Dr. Stephen Wheat
-canonical_url: https://osg-htc.org/spotlights/oral-roberts-ospool-integration.html
+canonical_url: https://osg-htc.org/spotlights/2025/03/27/oral-roberts-ospool-integration/
 
 banner_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/ORU.jpeg"
 banner_alt: "Aerial image of the ORU campus"

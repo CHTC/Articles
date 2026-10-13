@@ -12,7 +12,7 @@ publish_on:
 # adding a redirect for each one.
 type: news
 
-canonical_url: "https://osg-htc.org/news/2022/04/18/User-School-Applications-Close.html"
+canonical_url: "https://osg-htc.org/news/2022/04/18/User-School-Applications-Close/"
 
 image:
   path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/osguserschool.png"

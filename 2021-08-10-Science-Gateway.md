@@ -1,6 +1,6 @@
 ---
 title: "OSG fuels a student-developed computing platform to advance RNA nanomachines"
-canonical_url: https://osg-htc.org/spotlights/Science-Gateway.html
+canonical_url: https://osg-htc.org/news/2021/08/10/Science-Gateway/
 image:
     path: https://raw.githubusercontent.com/CHTC/Articles/main/images/Science-Gateway-Students.jpeg
     alt: Nebraska standing at graduation

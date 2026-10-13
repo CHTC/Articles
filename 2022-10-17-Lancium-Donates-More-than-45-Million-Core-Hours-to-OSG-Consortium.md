@@ -12,7 +12,7 @@ publish_on:
 # adding a redirect for each one.
 type: news
 
-canonical_url: "https://osg-htc.org/news/2022/10/17/Lancium-Donates-More-than-45-Million-Core-Hours-to-OSG-Consortium.html"
+canonical_url: "https://osg-htc.org/news/2022/10/17/Lancium-Donates-More-than-45-Million-Core-Hours-to-OSG-Consortium/"
 
 image:
   path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/stock_card.jpeg"

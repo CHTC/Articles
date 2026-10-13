@@ -1,6 +1,6 @@
 ---
 title: "80,000 jobs, 40 billion base pairs, and 20 bats –– all in 4 weeks" 
-canonical_url: https://osg-htc.org/spotlights/bat-genomics.html
+canonical_url: https://osg-htc.org/news/2021/10/26/bat-genomics/
 image:
     path: https://raw.githubusercontent.com/CHTC/Articles/main/images/bat-genomics-Ariadna.png
     alt: Ariadna looking over bats in a case

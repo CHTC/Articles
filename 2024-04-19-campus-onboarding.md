@@ -11,7 +11,7 @@ publish_on:
   
 type: user
 
-canonical_url: "https://osg-htc.org/spotlights/campus-onboarding.html"
+canonical_url: "https://osg-htc.org/spotlights/2024/04/19/campus-onboarding/"
 
 image:
   path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/ospool-con-map.png"

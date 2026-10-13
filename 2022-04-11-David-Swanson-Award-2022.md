@@ -12,7 +12,7 @@ publish_on:
 # adding a redirect for each one.
 type: news
 
-canonical_url: "https://osg-htc.org/news/2022/04/11/David-Swanson-Award-2022.html"
+canonical_url: "https://osg-htc.org/news/2022/04/11/David-Swanson-Award-2022/"
 
 image:
   path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/Connor-Natzke-Square-smaller.jpg"

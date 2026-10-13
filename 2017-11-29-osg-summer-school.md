@@ -12,7 +12,7 @@ publish_on:
 # adding a redirect for each one.
 type: news
 
-canonical_url: "https://osg-htc.org/news/2017/11/29/osg-summer-school.html"
+canonical_url: "https://osg-htc.org/news/2017/11/29/osg-summer-school/"
 
 image:
   path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/osg_summer_school_2017.png"

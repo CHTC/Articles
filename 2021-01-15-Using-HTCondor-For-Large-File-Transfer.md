@@ -1,6 +1,6 @@
 ---
 title: "How to Transfer 460 Terabytes? A File Transfer Case Study"
-canonical_url: https://osg-htc.org/spotlights/Using-HTCondor-For-Large-File-Transfer.html
+canonical_url: https://osg-htc.org/news/2021/01/15/Using-HTCondor-For-Large-File-Transfer/
 image:
   path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/stock_card.jpeg"
   alt: "Open Science Grid"

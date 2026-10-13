@@ -12,7 +12,7 @@ publish_on:
 # adding a redirect for each one.
 type: news
 
-canonical_url: "https://osg-htc.org/news/2022/04/10/HTCondor_Week_2022_registration.html"
+canonical_url: "https://osg-htc.org/news/2022/04/10/HTCondor_Week_2022_registration/"
 
 image:
   path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/HTCondorWeek2022-Welcome.jpg"

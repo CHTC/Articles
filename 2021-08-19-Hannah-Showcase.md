@@ -1,6 +1,6 @@
 ---
 title: "Using HTC for a simulation study on cross-validation for model evaluation in psychological science"
-canonical_url: https://osg-htc.org/spotlights/Hannah-Showcase.html
+canonical_url: https://osg-htc.org/news/2021/08/19/Hannah-Showcase/
 image:
     path: https://raw.githubusercontent.com/CHTC/Articles/main/images/Hannah-Showcase.jpg
     alt: Brain Model

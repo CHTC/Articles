@@ -1,6 +1,6 @@
 ---
 title: Machine learning insights into molecular science using the Open Science Pool
-canonical_url: https://osg-htc.org/spotlights/machine-learning.html  
+canonical_url: https://osg-htc.org/news/2017/06/29/machine-learning/
 image:
     path: https://raw.githubusercontent.com/CHTC/Articles/main/images/molcryst.png
     alt: Example of a protein model that Isayev and his group study. Courtesy image.

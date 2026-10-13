@@ -6,7 +6,7 @@ publish_on:
   - osg
   - path
 type: news
-canonical_url: "https://osg-htc.org/spotlights/osg-school-students-advance-research.html"
+canonical_url: "https://osg-htc.org/news/2026/07/27/osg-school-students-build-skills/"
 image:
   path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-school-group-photo.jpg"
   alt: OSG School students and CHTC staff

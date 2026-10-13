@@ -1,7 +1,7 @@
 ---
 title: "SDSC and IceCube Center Conduct GPU Cloudburst Experiment"
 author: Jan Zverina jzverina@sdsc.edu
-canonical_url: https://osg-htc.org/spotlights/gpu-cloudburst.html
+canonical_url: https://osg-htc.org/news/2019/11/22/gpu-cloudburst/
 image:
     path: https://raw.githubusercontent.com/CHTC/Articles/main/images/byregion.png
     alt: Number of cloud instances over time

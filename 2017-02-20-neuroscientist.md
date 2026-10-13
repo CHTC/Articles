@@ -1,6 +1,6 @@
 ---
 title: For neuroscientist Chris Cox, the OSG helps process mountains of data
-canonical_url: https://osg-htc.org/spotlights/neuroscientist.html
+canonical_url: https://osg-htc.org/news/2017/02/20/neuroscientist/
 image:
   path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/stock_card.jpeg"
   alt: "Open Science Grid"

@@ -11,7 +11,7 @@ publish_on:
   
 type: news
 
-canonical_url: https://osg-htc.org/spotlights/Lightning-Talks.html
+canonical_url: https://osg-htc.org/news/2022/12/19/Lightning-Talks/
 
 image:
   path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/Lightning-Talks-card.jpeg"

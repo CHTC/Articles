@@ -12,7 +12,7 @@ publish_on:
   
 type: user 
 
-canonical_url: https://osg-htc.org/spotlights/david-swanson-awardees-2023.html
+canonical_url: https://osg-htc.org/spotlights/2023/10/30/david-swanson-awardees-2023/
 
 
 image:

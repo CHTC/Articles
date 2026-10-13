@@ -12,7 +12,7 @@ publish_on:
 # adding a redirect for each one.
 type: news
 
-canonical_url: "https://osg-htc.org/news/2017/11/07/ligo-virgo.html"
+canonical_url: "https://osg-htc.org/news/2017/11/07/ligo-virgo/"
 
 image:
   path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/ligo20160211d-smaller.jpg"

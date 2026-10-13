@@ -12,7 +12,7 @@ publish_on:
 # adding a redirect for each one.
 type: news
 
-canonical_url: "https://osg-htc.org/news/2021/02/04/Register-For-All-Hands-Meeting-2021.html"
+canonical_url: "https://osg-htc.org/news/2021/02/04/Register-For-All-Hands-Meeting-2021/"
 
 image:
   path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/All-Hands-Meeting2.png"

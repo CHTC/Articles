@@ -12,7 +12,7 @@ publish_on:
 # adding a redirect for each one.
 type: news
 
-canonical_url: "https://osg-htc.org/news/2017/10/05/ligo-wins-nobel-prize.html"
+canonical_url: "https://osg-htc.org/news/2017/10/05/ligo-wins-nobel-prize/"
 
 image:
   path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/ligoobservatories.jpg"

@@ -10,7 +10,7 @@ publish_on:
 
 type: news
 
-canonical_url: https://osg-htc.org/spotlights/ospool-boasts-growth.html
+canonical_url: https://osg-htc.org/news/2026/05/12/ospool-boasts-growth/
 image:
     path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/stock_card.jpeg"
     alt: Abstract image of a ocean of points of light connected by lines, representing the growth of OSPool users.

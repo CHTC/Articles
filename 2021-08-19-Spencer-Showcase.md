@@ -1,6 +1,6 @@
 ---
 title: "Scaling virtual screening to ultra-large virtual chemical libraries" 
-canonical_url: https://osg-htc.org/spotlights/Spencer-Showcase.html
+canonical_url: https://osg-htc.org/news/2021/08/19/Spencer-Showcase/
 image:
     path: https://raw.githubusercontent.com/CHTC/Articles/main/images/Spencer-Showcase.jpg
     alt: Image of Chemistry instrument
