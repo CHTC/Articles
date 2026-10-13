@@ -8,7 +8,7 @@ publish_on:
 - osg
 - chtc
 type: user
-canonical_url: "<https://chtc.cs.wisc.edu/OSPool and Computing Power Helps Researchers Design New Proteins.html>"
+canonical_url: "https://chtc.cs.wisc.edu/using-ospool-to-design-proteins.html"
 
 image:
   path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/protein-design/visual-2-by-1.jpeg"
