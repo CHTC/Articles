@@ -22,6 +22,9 @@ excerpt: |
   UW–Madison physicist Francis Halzen has been named a 2026 Nobel laureate in physics for his work as principal
   investigator of the IceCube Neutrino Observatory. Over the course of that work, IceCube researchers have developed a
   longstanding collaboration with the Center for High Throughput Computing.
+
+banner_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/icecube-nobel/icl-night.jpg"
+banner_alt: "The IceCube Neutrino Observatory at night. Credit: John Hardin, CC-BY4.0"
 ---
 
 <figure>
