@@ -11,7 +11,7 @@ canonical_url: "https://osg-htc.org/news/2016/01/12/osg-computational-power-help
 
 image:
   path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-huang.png"
-  alt: "huang"
+  alt: "Po-Ssu Huang"
 
 description: |
     As computational power expands the horizons of protein research, vast new possibilities to design
@@ -23,23 +23,22 @@ excerpt: |
     protein researchers recently overcame an obstacle that has vexed scientists for nearly 30 years.
 
 card_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-huang.png"
-card_alt: "huang"
+card_alt: "Po-Ssu Huang"
 
 ---
 
-<figure>
-<img style="max-width:100%" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-huang.png" alt="huang"/>
+<figure class="figure float-end" style="margin-left: 1em">
+  <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-huang.png" class="figure-img img-fluid rounded" alt="Po-Ssu Huang" width="250px">
+  <figcaption class="figure-caption">Po-Ssu Huang. Photo courtesy Po-Ssu Huang.<br/></figcaption>
 </figure>
 
 As computational power expands the horizons of protein research, vast new possibilities to design proteins for disease treatment are opening up. Thanks to the power of the Open Science Grid (OSG), protein researchers recently overcame an obstacle that has vexed scientists for nearly 30 years.
 
-*Photo courtesy Po-Ssu Huang*
-
 The cylindrical TIM-barrel (triosephosphate isomerase-barrel) protein fold occurs widely in enzymes, making it an attractive target for designing similar protein structures *de novo*—that is, designing them using computational models.  An international team of researchers from Baker Lab at the University of Washington, National Autonomous University of Mexico and Hoecker Lab at the Max Planck Institute for Developmental Biology in Germany created a breakthrough computational simulation of a TIM-barrel protein that will be critical to a new generation of custom-designed enzymes. Their results have been published in [Nature Chemical Biology](http://www.nature.com/nchembio/journal/vaop/ncurrent/full/nchembio.1966.html).
 
-<figure>
-<img style="max-width:100%" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-protein.png" alt="protein"/>
-<figcaption>Image courtesy Po-Ssu Huang. Image from a calculation used in the design of a TIM-barrel protein.</figcaption>
+<figure class="figure float-start" style="margin-right: 1em">
+  <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-protein.png" class="figure-img img-fluid rounded" alt="Image from a calculation used in the design of a TIM-barrel protein" width="350px">
+  <figcaption class="figure-caption">Image from a calculation used in the design of a TIM-barrel protein. Image courtesy Po-Ssu Huang.<br/></figcaption>
 </figure>
 
 Po-Ssu Huang, one of the lead researchers on the paper and a research scientist at the [Baker Lab](http://www.bakerlab.org/) at the [University of Washington](http://www.washington.edu/), has been part of developing HIV vaccines. He is currently studying the sequence structure relationships of protein folds and building new proteins using computational models. As he explains, “The TIM-barrel computational model is an example of what we do here in the lab to take what we learn to build new proteins for other applications.” Huang earned his PhD in biochemistry and molecular biophysics from the California Institute of Technology (Caltech) and has worked with the Baker Lab as a postdoc and research scientist.
