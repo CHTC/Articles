@@ -24,8 +24,6 @@ excerpt: With a multi-day workshop, the museum strives to expand the scale of it
 **With a multi-day workshop, the museum strives to expand the scale of its educational and training services by bringing additional computing capacity resources to
 New York-area researchers and tapping into the power of high throughput computing (HTC).**
 
-![](https://lh7-us.googleusercontent.com/LG2CvtGsthSFiRNtuf1sSh8V2oWg4ui_BDBiGNAQzM6t0N9_9UprHHNx-XKjSmET32cbpy3DP5jvnQUOrXt_u4saIskKu8CTuDqaHpOgrzgbal51i8R4prNbBAIoIYepHMw3ERldaJiRbVJ06Yvbm6A)
-
 
 After “falling in love with the system” during the [2023 OSG School](https://osg-htc.org/user-school-2023/), American Museum of Natural History Museum (AMNH) 
 bioinformatics specialist Dean Bobo wondered if he could jump on an offer to bring New York institutions’ and 

@@ -27,8 +27,6 @@ excerpt: Jimena González and Aashish Tripathee named 2023's David Swanson award
 *Jimena González Lozano and Aashish Tripathee are 2023’s recipients of the award for their 
 research advancements with strategic use of high-throughput computing (HTC).*
 
-![](https://lh7-us.googleusercontent.com/VcQR20TDmmlKpMiOLVabFLUTldi15v4moGyjHmZTSNKHAV4Nur7aoqlInu_2TYbKle2_PHVHmAcmcReKl9MG7LSdlV_tlHT-BDSQi18a6pEnvE7Hl4XBLExh1AsJcxpmgIfYapXic7qeMK1N1YQORBI)
-
 OSG leadership created the [OSG David Swanson Award](https://osg-htc.org/outreach/swanson-award/)
 in memoriam of Swanson, who championed throughout his life for both the success of his students 
 and the expansion of OSG and research computing. David Swanson, who passed away unexpectedly in 2019, was 

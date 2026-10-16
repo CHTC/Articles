@@ -54,11 +54,6 @@ For meeting technology and other logistics, see
 [the Meeting Logistics page](https://osg-htc.org/all-hands/2021/technology/).
 Note that Zoom connection details are emailed only to those who registered.
 
-<figure class="figure">
-  <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/All_Hands_Meeting_Group.JPG" class="figure-img img-fluid rounded" alt="All Hands Meeting Participants">
-  <figcaption class="figure-caption">Participants of the All-Hands Meeting 2017.</figcaption>
-</figure>
-
 ## Contacts
 
 For questions or comments, please email
