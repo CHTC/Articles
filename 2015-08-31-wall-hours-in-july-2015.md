@@ -11,7 +11,7 @@ canonical_url: "https://osg-htc.org/news/2015/08/31/wall-hours-in-july-2015/"
 
 image:
   path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-Wall_hours.png"
-  alt: "Wall_hours"
+  alt: "Chart of OSG wall hours"
 
 description: |
     July brought two exciting milestones for computing on the Open Science Grid. The first milestone was
@@ -25,7 +25,7 @@ excerpt: |
     monthly average over the last year by nearly 6 million hours.
 
 card_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-Wall_hours.png"
-card_alt: "Wall_hours"
+card_alt: "Chart of OSG wall hours"
 
 ---
 
@@ -33,12 +33,14 @@ July brought two exciting milestones for computing on the Open Science Grid. The
 
 The following two charts help illustrate this.
 
-<figure>
-<img style="max-width:100%" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-Wall_hours.png" alt="Wall_hours"/>
-<figcaption>Chart courtesy of Kyle Gross, Open Science Grid Operations Operations Support Manager</figcaption>
+<figure class="figure float-end" style="margin-left: 1em">
+  <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-Wall_hours.png" class="figure-img img-fluid rounded" alt="Chart of OSG wall hours" width="350px">
+  <figcaption class="figure-caption">Chart courtesy of Kyle Gross, Open Science Grid Operations Operations Support Manager<br/></figcaption>
 </figure>
 
-<figure>
-<img style="max-width:100%" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-Wall_hours_on_jobs.png" alt="Wall_hours_on_jobs"/>
-<figcaption>Chart courtesy of Kyle Gross, Open Science Grid Operations Operations Support Manager</figcaption>
+<figure class="figure float-start" style="margin-right: 1em">
+  <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-Wall_hours_on_jobs.png" class="figure-img img-fluid rounded" alt="Chart of OSG wall hours on jobs" width="350px">
+  <figcaption class="figure-caption">Chart courtesy of Kyle Gross, Open Science Grid Operations Operations Support Manager<br/></figcaption>
 </figure>
+
+<div style="clear: both;"></div>

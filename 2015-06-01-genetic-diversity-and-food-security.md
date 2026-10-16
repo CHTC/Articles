@@ -11,7 +11,7 @@ canonical_url: "https://osg-htc.org/news/2015/06/01/genetic-diversity-and-food-s
 
 image:
   path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-Richards.jpeg"
-  alt: "Richards"
+  alt: "Christopher Richards"
 
 description: |
     In their influential 1990 book, Shattering: Food, Politics, and the Loss of Genetic Diversity , Cary
@@ -27,7 +27,7 @@ excerpt: |
     the U.S.
 
 card_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-Richards.jpeg"
-card_alt: "Richards"
+card_alt: "Christopher Richards"
 
 ---
 
@@ -35,25 +35,23 @@ In their influential 1990 book, *Shattering: Food, Politics, and the Loss of Gen
 
 The National Center for Genetic Resources Preservation (NCGRP), a U.S. Department of Agriculture facility in Ft. Collins, Colorado, is a primary repository for germplasm (living genetic resources) and is part of a larger system of such facilities around the country. It is a gene bank—or, seed bank—holding around 570,000 specimens and 15,000 species of plants. Most of the collection is stored as the seeds of crop varieties or their wild relatives. Part of the center’s job is to find the best ways to keep the seeds alive for the long term (storage physiology). **
 
-<figure>
-<img style="max-width:100%" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-Richards.jpeg" alt="Richards"/>
+<figure class="figure float-end" style="margin-left: 1em">
+  <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-Richards.jpeg" class="figure-img img-fluid rounded" alt="Christopher Richards" width="350px">
+  <figcaption class="figure-caption">Christoper Richards: courtesy photo<br/></figcaption>
 </figure>
 
 Patrick Reeves and Christopher Richards are part of a NCGRP group working on best practices for obtaining and distributing germplasm. Since this mostly involves the wild relatives of crop species, they are determining how to efficiently create collections from nature by trying to predict the geographic distribution of agriculturally-important genes.
 
 One aspect of their work uses the Open Science Grid (OSG) to help determine genetically distinct groups within a species and understand how they are distributed across the landscape. Another aspect that uses the OSG evaluates the performance of a variety of different methods for identifying such genetic groups.
 
-*Christoper Richards: courtesy photo*
-
-<figure>
-<img style="max-width:100%" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-Reeves2.jpeg" alt="Reeves2"/>
+<figure class="figure float-start" style="margin-right: 1em">
+  <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-Reeves2.jpeg" class="figure-img img-fluid rounded" alt="Patrick Reeves" width="250px">
+  <figcaption class="figure-caption">Patrick Reeves: courtesy photo<br/></figcaption>
 </figure>
 
 *We are interested narrowly in understanding the performance of genetic clustering algorithms using simulated data,” said Reeves. “In this study that uses the OSG, we are trying to understand the impact of error in our data sets. It may seem trivial, but it is rather important because some of the methods for rapidly producing genome-wide data are error-prone. We need to know how that affects the accuracy with which we infer genetic clusters.”
 
 A typical study using the OSG simulates data under a variety of plausible conditions and asks whether analytical methods can return the correct answer. “This is useful because it gives us some confidence that we can apply what we learn to natural systems where we don’t know the answer ahead of time,” said Reeves.
-
-*Patrick Reeves: courtesy photo*
 
 A software tool that they have found valuable is [InStruct](http://cbsuapps.tc.cornell.edu/InStruct.aspx), developed at Cornell University. It employs a Markov Chain Monte Carlo (MCMC) method for identifying natural groupings of individuals from genetic data.
 
@@ -73,8 +71,9 @@ Reeves referred to thought-leader and author Cary Fowler, who argues that crop d
 
 In other words, there are many people involved in maintaining an edge over natural processes. The USDA is a part of that effort, and the work being done by Richards and Reeves is an early step in maintaining that edge.
 
-<figure>
-<img style="max-width:100%" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-usda.png" alt="usda"/>
+<figure class="figure float-end" style="margin-left: 1em">
+  <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-usda.png" class="figure-img img-fluid rounded" alt="Map of source populations for plant species stored at the National Center for Genetic Resources Preservation" width="350px">
+  <figcaption class="figure-caption">Location of source populations for the nearly 15,000 plant species (~570,000 unique accessions) stored as seeds at the National Center for Genetic Resources Preservation. Image courtesy <a href="http://www.ars-grin.gov/npgs/faq/">USDA</a>.<br/></figcaption>
 </figure>
 
-*Location of source populations for the nearly 15,000 plant species (~570,000 unique accessions) stored as seeds at the National Center for Genetic Resources Preservation.* *Image courtesy USDA (http://www.ars-grin.gov/npgs/faq/):*
+<div style="clear: both;"></div>

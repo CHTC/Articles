@@ -11,7 +11,7 @@ canonical_url: "https://osg-htc.org/news/2015/12/02/osg-user-school-2015-a-big-s
 
 image:
   path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-OSG-User-School-2015-group-photo-1073.jpeg"
-  alt: "OSG User School 2015 - group photo - 1073"
+  alt: "OSG User School 2015 group photo"
 
 description: |
     The OSG User School 2015 was held on July 27–31 by the Center for High Throughput Computing (CHTC)
@@ -25,14 +25,14 @@ excerpt: |
     institutions and fields.
 
 card_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-OSG-User-School-2015-group-photo-1073.jpeg"
-card_alt: "OSG User School 2015 - group photo - 1073"
+card_alt: "OSG User School 2015 group photo"
 
 ---
 
 The [OSG User School 2015](https://twiki.opensciencegrid.org/bin/view/Education/OSGUserSchool2015) was held on July 27–31 by the [Center for High Throughput Computing (CHTC)](http://chtc.cs.wisc.edu/) at the [University of Wisconsin–Madison (UW–Madison)](http://www.wisc.edu/). As usual, we hosted undergraduates, graduate students (the majority group), post-doctoral researchers, staff, and faculty from a variety of institutions and fields. Highlights this year included staff from the University of the Philippines, faculty from the Indian Institute of Chemical Biology, an economist, two hydrologists, and an oceanographer. And thanks to the recruiting efforts of [ACI-REF](http://aci-ref.org/), we had a total of twelve participants from ACI-REF institutions, not counting UW–Madison. The instructors this year were Greg Thain (UW–Madison), Brian Lin (UW–Madison), Lauren Michael (UW–Madison), David Champion (University of Chicago), Christina Koch (UW–Madison), Lincoln Bryant (University of Chicago), and Miron Livny (UW–Madison). Also, most of the OSG User Support team traveled to Madison to help with the School and meet the participants, many of whom will become their customers.
 
 <figure>
-<img style="max-width:100%" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-OSG-User-School-2015-group-photo-1073.jpeg" alt="OSG User School 2015 - group photo - 1073"/>
+<img style="max-width:100%" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-OSG-User-School-2015-group-photo-1073.jpeg" alt="OSG User School 2015 group photo"/>
 <figcaption>Photo by David Champion, OSG User School 2015</figcaption>
 </figure>
 

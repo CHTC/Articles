@@ -10,7 +10,7 @@ canonical_url: "https://osg-htc.org/news/2015/04/13/osg-welcomes-new-member-of-t
 
 image:
   path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-snow_photo_2013_small.jpg"
-  alt: "snow_photo_2013_small"
+  alt: "Gregory Snow"
 
 description: |
     Gregory Snow founded the experimental high-energy physics group at the University of
@@ -24,12 +24,12 @@ excerpt: |
     Observatory in Argentina.
 
 card_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-snow_photo_2013_small.jpg"
-card_alt: "snow_photo_2013_small"
+card_alt: "Gregory Snow"
 
 ---
 
-<figure>
-<img style="max-width:100%" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-snow_photo_2013_small.jpg" alt="snow_photo_2013_small"/>
+<figure class="figure float-end" style="margin-left: 1em">
+  <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-snow_photo_2013_small.jpg" class="figure-img img-fluid rounded" alt="Gregory Snow" width="150px">
 </figure>
 
 Gregory Snow founded the experimental high-energy physics group at the University of Nebraska-Lincoln (UNL) in 1993. The group has played leading roles in the DZero experiment at Fermilab’s Tevatron, the CMS experiment at CERN’s Large Hadron Collider and at the Pierre Auger Observatory in Argentina.

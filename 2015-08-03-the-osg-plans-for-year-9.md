@@ -11,7 +11,7 @@ canonical_url: "https://osg-htc.org/news/2015/08/03/the-osg-plans-for-year-9/"
 
 image:
   path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-Wisconsin_Institutes_for_Discovery.jpg"
-  alt: "Wisconsin_Institutes_for_Discovery"
+  alt: "Wisconsin Institutes for Discovery"
 
 description: |
     It is a tradition by now. In May, the OSG executive team and area coordinators meet in Madison, WI,
@@ -23,19 +23,18 @@ excerpt: |
     upcoming year.
 
 card_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-Wisconsin_Institutes_for_Discovery.jpg"
-card_alt: "Wisconsin_Institutes_for_Discovery"
+card_alt: "Wisconsin Institutes for Discovery"
 
 ---
 
-<figure>
-<img style="max-width:100%" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-Wisconsin_Institutes_for_Discovery.jpg" alt="Wisconsin_Institutes_for_Discovery"/>
+<figure class="figure float-end" style="margin-left: 1em">
+  <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-Wisconsin_Institutes_for_Discovery.jpg" class="figure-img img-fluid rounded" alt="Wisconsin Institutes for Discovery" width="350px">
+  <figcaption class="figure-caption">Wisconsin Institutes for Discovery — Photo courtesy of Wikimedia Commons<br/></figcaption>
 </figure>
 
 It is a tradition by now. In May, the OSG executive team and area coordinators meet in Madison, WI, to take stock of the program to date and, most importantly, discuss the vision and plans for the upcoming year.
 
 The OSG project has started its 9th year of funding. All areas are aligning to continue and extend the support for our scientific stakeholders with an eye toward the next 5 year grant cycle. Coordination across areas and with partner organizations, such as WLCG and XD, continues to be essential to achieve our goals.
-
-*Wisconsin Institutes for Discovery — Photo courtesy of Wikimedia Commons*
 
 Maintaining access to the dedicated resources of established VOs such as LHC, Intensity Frontier, etc. is central to the program, as is remaining a valuable service provider to [XSEDE](https://www.xsede.org/). For opportunistic VOs, the goal for year 9 is to maintain and possibly expand the pool of opportunistic resources to 150 million hours per year. The strategy will include demonstrating access to Supercomputers, such as Comet at [SDSC](http://www.sdsc.edu/) and Cori at [NERSC](https://www.nersc.gov/). Eventually, all these resources will be available through both the OSG Direct and OSG Connect interfaces to enable science for VO’s and campus users. Improvements to HTCondor will enable and simplify the provisioning of compute resources at higher scales.
 

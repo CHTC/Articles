@@ -11,7 +11,7 @@ canonical_url: "https://osg-htc.org/news/2015/04/13/report-from-the-2015-osg-all
 
 image:
   path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-Tilden_Small_March31.jpg"
-  alt: "Tilden_Small_March31"
+  alt: "2015 OSG All-Hands Meeting at Northwestern University"
 
 description: |
     Springtime snowfall notwithstanding, over 150 people attended various days between Monday, March 23
@@ -23,7 +23,7 @@ excerpt: |
     School of Management’s Allen Center at Northwestern University (NU).
 
 card_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-Tilden_Small_March31.jpg"
-card_alt: "Tilden_Small_March31"
+card_alt: "2015 OSG All-Hands Meeting at Northwestern University"
 
 ---
 
@@ -37,9 +37,9 @@ The week of lively discussions and productive brainstorming was opened by Sean R
 
 Tuesday saw an eclectic mix of talks, ranging from OSG Campus Infrastructures in the morning to security, bioinformatics and technology in the afternoon. There was also a chance to attend an OSG Connect tutorial led by Dr. Emelie Harstad. Dr. Baudilio Tejerina, a scientific IT consultant at the Department of Earth and Planetary Sciences at NU, arrived at this tutorial to learn about the OSG and left as a new OSG user! “I am a beginner, but I see a lot of potential uses for the OSG in my department,” said Dr. Tejerina. “One of our geophysics projects uses complex mathematics to simulate the propagation of tsunamis across ocean basins. The graphical analysis of the numerical data constitutes a fundamental tool to visualize and to interpret the simulations. I think that the OSG could be a very useful platform to make projects like this possible and efficient.”
 
-<figure>
-<img style="max-width:100%" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-Tilden_Small_March31.jpg" alt="Tilden_Small_March31"/>
-<figcaption>Photo by Robert Tilden</figcaption>
+<figure class="figure float-end" style="margin-left: 1em">
+  <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-Tilden_Small_March31.jpg" class="figure-img img-fluid rounded" alt="2015 OSG All-Hands Meeting at Northwestern University" width="350px">
+  <figcaption class="figure-caption">Photo by Robert Tilden<br/></figcaption>
 </figure>
 
 **Wednesday Plenaries**

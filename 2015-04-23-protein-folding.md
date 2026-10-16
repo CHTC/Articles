@@ -11,7 +11,7 @@ canonical_url: "https://osg-htc.org/news/2015/04/23/protein-folding/"
 
 image:
   path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-jinbo_xu.jpeg"
-  alt: "Picture of Jinbo Xu"
+  alt: "Jinbo Xu"
 
 description: |
     Proteins are key to our bodies functioning properly, while abnormal modifications of proteins or
@@ -23,21 +23,20 @@ excerpt: |
     also interact with other molecules to make our bodies function properly or, at times, improperly.
 
 card_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-jinbo_xu.jpeg"
-card_alt: "Picture of Jinbo Xu"
+card_alt: "Jinbo Xu"
 
 ---
 
 Proteins are key to our bodies functioning properly, while abnormal modifications of proteins or improperly functioning proteins are often a cause of pathological and disease conditions. Proteins also interact with other molecules to make our bodies function properly or, at times, improperly.
 
-<figure>
-<img style="max-width:100%" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-jinbo_xu.jpeg" alt="Picture of Jinbo Xu"/>
+<figure class="figure float-end" style="margin-left: 1em">
+  <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-jinbo_xu.jpeg" class="figure-img img-fluid rounded" alt="Jinbo Xu" width="250px">
+  <figcaption class="figure-caption">Photo Courtesy of Jinbo Xu<br/></figcaption>
 </figure>
 
 Professor Jinbo Xu studies protein folding—how a protein takes on its functional shape—at the [Toyota Technological Institute at Chicago](http://www.ttic.edu/) (TTI, endowed by Toyota and affiliated with the [University of Chicago](http://www.uchicago.edu/)). For many years, Xu has used the Open Science Grid (OSG) to computationally simulate protein structures. Computational predictions can supplement costly and time-consuming experimental methods such as nuclear magnetic resonance spectroscopy. And because predictions can be run simultaneously and independently, the OSG is an ideal computational environment.
 
 Inside the cell, most proteins fold into a compact three-dimensional structure. Failure to fold into the proper structure can produce inactive proteins. Misfolded proteins can be toxic and result in neurodegenerative diseases like Parkinson’s and Alzheimer’s. Sometimes even allergies can be caused by incorrect protein folding.
-
-*Photo Courtesy of Jinbo Xu*
 
 “Studying how protein sequences fold requires a lot of computational power,” said Xu. “Proteins consist of a few hundred amino acids, which fold into their three-dimensional shape. We want to figure out how a protein sequence will fold into its three-dimensional space.”
 

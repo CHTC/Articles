@@ -11,7 +11,7 @@ canonical_url: "https://osg-htc.org/news/2015/09/18/understanding-the-ghostly-ne
 
 image:
   path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-himmel1.jpeg"
-  alt: "himmel"
+  alt: "Alex Himmel"
 
 description: |
     Fermilab’s NOvA experiment relies on the massive computing power of the Open Science Grid (OSG) in
@@ -21,25 +21,23 @@ excerpt: |
     its quest to see how neutrinos change over a 500 mile journey
 
 card_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-himmel1.jpeg"
-card_alt: "himmel"
+card_alt: "Alex Himmel"
 
 ---
 
 *Fermilab’s NOvA experiment relies on the massive computing power of the Open Science Grid (OSG) in its quest to see how neutrinos change over a 500 mile journey*
 
-<figure>
-<img style="max-width:100%" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-himmel1.jpeg" alt="himmel"/>
+<figure class="figure float-end" style="margin-left: 1em">
+  <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-himmel1.jpeg" class="figure-img img-fluid rounded" alt="Alex Himmel" width="250px">
+  <figcaption class="figure-caption">Photo Courtesy Alex Himmel<br/></figcaption>
 </figure>
 
 “High Energy Physics experiments are trying to understand the basic building blocks that make up our universe,” says Alex Himmel. Himmel is the newly installed computing coordinator for the ground-breaking NOvA experiment at the [Fermi National Accelerator Laboratory](http://www.fnal.gov/) (Fermilab), near Batavia, Illinois. NOvA (NuMI Off-Axis νe Appearance) is designed to detect neutrinos in Fermilab’s NuMI (Neutrinos at the Main Injector) beam. Recently, the NOvA researchers saw their first big breakthrough when the detector [revealed the first evidence of oscillating neutrinos](http://www.fnal.gov/pub/presspass/press_releases/2015/NOvA-Neutrinos-Change-20150807.html) fired from 500 miles away.
 
-*Photo Courtesy Alex Himmel*
-
-<figure>
-<img style="max-width:100%" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-nova.png" alt="nova"/>
+<figure class="figure float-start" style="margin-right: 1em">
+  <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-nova.png" class="figure-img img-fluid rounded" alt="Neutrino interaction captured at the NOvA far detector" width="350px">
+  <figcaption class="figure-caption">Illustration: Fermilab; used with permission. This is a graphic representation of one of the first neutrino interactions captured at the NOvA far detector in northern Minnesota. The dotted red line represents the neutrino beam, generated at Fermilab in Illinois and sent through 500 miles of earth to the far detector. The image on the left is a simplified 3-D view of the detector – the top right view shows the interaction from the top of the detector, and the bottom right view shows the interaction from the side of the detector.<br/></figcaption>
 </figure>
-
-*Illustration: Fermilab; used with permission. Above is a graphic representation of one of the first neutrino interactions captured at the NOvA far detector in northern Minnesota. The dotted red line represents the neutrino beam, generated at Fermilab in Illinois and sent through 500 miles of earth to the far detector. The image on the left is a simplified 3-D view of the detector – the top right view shows the interaction from the top of the detector, and the bottom right view shows the interaction from the side of the detector.*
 
 While neutrinos are the most abundant known particles in the universe, their detailed properties are poorly understood. They come in three forms: muon neutrinos, electron neutrinos, and tau neutrinos. NOvA seeks to help discover what causes neutrinos to transform—oscillate—from one form to another. Understanding what causes the oscillation of a muon neutrino into an electron neutrino could help us understand those basic building blocks (in other words, elementary particles) of the universe.
 
@@ -65,12 +63,14 @@ Alex Himmel had his first job at Fermilab as a summer student at the age of 16. 
 
 For this breakthrough experiment, NOvA used 10 million CPU hours on the OSG from April 28 to July 31:
 
-<figure>
-<img style="max-width:100%" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-Screen-Shot-2015-09-15-at-10.23.54-AM.png" alt="Screen Shot 2015-09-15 at 10.23.54 AM"/>
-<figcaption>Graph provided by Bo Jayatilaka, Fermilab</figcaption>
+<figure class="figure float-end" style="margin-left: 1em">
+  <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-Screen-Shot-2015-09-15-at-10.23.54-AM.png" class="figure-img img-fluid rounded" alt="Chart of NOvA usage on the OSG" width="350px">
+  <figcaption class="figure-caption">Graph provided by Bo Jayatilaka, Fermilab<br/></figcaption>
 </figure>
 
-<figure>
-<img style="max-width:100%" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-Screen-Shot-2015-09-15-at-10.24.09-AM.png" alt="Screen Shot 2015-09-15 at 10.24.09 AM"/>
-<figcaption>Graph provided by Bo Jayatilaka, Fermilab</figcaption>
+<figure class="figure float-start" style="margin-right: 1em">
+  <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-Screen-Shot-2015-09-15-at-10.24.09-AM.png" class="figure-img img-fluid rounded" alt="Chart of NOvA usage on the OSG" width="350px">
+  <figcaption class="figure-caption">Graph provided by Bo Jayatilaka, Fermilab<br/></figcaption>
 </figure>
+
+<div style="clear: both;"></div>

@@ -11,7 +11,7 @@ canonical_url: "https://osg-htc.org/news/2015/08/03/first-exposure-to-the-open-s
 
 image:
   path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-BTejerina.png"
-  alt: "BTejerina"
+  alt: "Baudilio Tejerina"
 
 description: |
     Dr. Baudilio Tejerina works as a scientific IT consultant for the Department of Earth and Planetary
@@ -25,19 +25,18 @@ excerpt: |
     Northwestern.
 
 card_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-BTejerina.png"
-card_alt: "BTejerina"
+card_alt: "Baudilio Tejerina"
 
 ---
 
-<figure>
-<img style="max-width:100%" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-BTejerina.png" alt="BTejerina"/>
+<figure class="figure float-end" style="margin-left: 1em">
+  <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-BTejerina.png" class="figure-img img-fluid rounded" alt="Baudilio Tejerina" width="250px">
+  <figcaption class="figure-caption">Image courtesy Baudilio Tejerina<br/></figcaption>
 </figure>
 
 Dr. Baudilio Tejerina works as a scientific IT consultant for the Department of Earth and Planetary Sciences at Northwestern University. His first exposure to the Open Science Grid (OSG) was this past March at the 2015 OSG All-Hands meeting, held at the Kellogg School of Management’s Allen Center at Northwestern.
 
 Tejerina attended the OSG Connect tutorial led by Dr. Emelie Harstad and came away impressed. He recently submitted his first proposal for a new OSG Connect project he’s calling MEMPhys (Modeling Earth Materials Physics). “It was fantastic,” says Tejerina. “I opened an account right away. I have already written a few scripts, and I’m learning how to use the Condor scheduler. (I have computing experience, so the learning curve isn’t so bad for me.)”
-
-*Image courtesy Baudilio Tejerina*
 
 Continues Tejerina, “The All-Hands meeting gave me the opportunity to exchange ideas with other attendees. Before then, I didn’t really know what the OSG was or what its purpose was. But I immediately saw potential applications to my work. Networking with others at the workshops brought many offers of help like working with the University of Chicago to help me get started.”
 
@@ -54,10 +53,9 @@ Tejerina is drawn to the potential of the OSG to see how they can apply their re
 Tejerina uses the example of how carbon manifests as diamond and graphite. One is transformed into the other and vice versa. “We know the extremes of each but we don’t know how they transform—how the atoms move inside. We must simulate all this, so the OSG should prove very helpful.” Tejerina not only wishes to tackle this problem, but also learn about other materials—how to design or synthesize these materials, or design new materials with specific properties for particular applications.
 
 <figure>
-<img style="max-width:100%" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-crystal-structures-e1438021398107.png" alt="crystal-structures"/>
+<img style="max-width:100%" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-crystal-structures-e1438021398107.png" alt="Two known crystal structures of magnesium silicate"/>
+<figcaption>Two known crystal structures of magnesium silicate show the same composition with different structures. Image courtesy Baudilio Tejerina.</figcaption>
 </figure>
-
-*Two known crystal structures of magnesium silicate show the same composition with different structures. Image courtesy Baudilio Tejerina*.
 
 Tejerina’s first OSG project proposal, MEMPhys, will focus on clarifying how polymorphic materials (materials that can exist in more than one form or crystal structure) transform into various phases. The project description states: “The potential energy surface (PES) of the material is defined by the crystal parameters and the positions of the atoms in the unit cell. The large number of degrees of freedom of the system makes the exploration and characterization of the PES a challenging computational task.”
 

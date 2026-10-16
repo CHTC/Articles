@@ -10,7 +10,7 @@ canonical_url: "https://osg-htc.org/news/2015/07/27/value-of-reliable-services-i
 
 image:
   path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-op-status.png"
-  alt: "op-status"
+  alt: "OSG operational status display"
 
 description: |
     The OSG recently delivered 22.3 million CPU hours in a single week. In addition to the CPU and
@@ -22,19 +22,17 @@ excerpt: |
     required to support associated tasks.
 
 card_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-op-status.png"
-card_alt: "op-status"
+card_alt: "OSG operational status display"
 
 ---
 
 The OSG recently delivered 22.3 million CPU hours in a single week. In addition to the CPU and storage resources needed to deliver computation at this level a large number of services are required to support associated tasks.
 
-For a job to
-
-<figure>
-<img style="max-width:100%" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-op-status.png" alt="op-status"/>
+<figure class="figure float-end" style="margin-left: 1em">
+  <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-op-status.png" class="figure-img img-fluid rounded" alt="OSG operational status display" width="250px">
 </figure>
 
-run on an OSG resource, users must have a place to submit it and a place to store data and code. They must be able to obtain information about the state of the OSG and its components. These components must communicate their state in an automated manner<br/> to allow detection of inevitable inturruptions. It must be possible to communicate with operators of these systems without any special knowledge of particulars as to who does what and, finally, it must be possible to figure out how to do what the user wants to do.
+For a job to run on an OSG resource, users must have a place to submit it and a place to store data and code. They must be able to obtain information about the state of the OSG and its components. These components must communicate their state in an automated manner to allow detection of inevitable inturruptions. It must be possible to communicate with operators of these systems without any special knowledge of particulars as to who does what and, finally, it must be possible to figure out how to do what the user wants to do.
 
 In systems with many components, the proper and complete functioning of the overall system requires each component to function with an availability higher than required of the larger system. A failure is the failure of any component.
 

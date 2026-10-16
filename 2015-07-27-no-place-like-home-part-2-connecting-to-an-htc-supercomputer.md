@@ -11,7 +11,7 @@ canonical_url: "https://osg-htc.org/news/2015/07/27/no-place-like-home-part-2-co
 
 image:
   path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-Lincoln.png"
-  alt: "Lincoln"
+  alt: "Chart of running jobs on Palmetto and the OSG"
 
 description: |
     In the previous post we discussed the comforts of computing right from “home”, i.e. the place where
@@ -25,7 +25,7 @@ excerpt: |
     work on the remote systems in synch with work on the local system can be a challenge.
 
 card_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-Lincoln.png"
-card_alt: "Lincoln"
+card_alt: "Chart of running jobs on Palmetto and the OSG"
 
 ---
 
@@ -34,7 +34,7 @@ In the [previous post](http://www.opensciencegrid.org/no-place-like-home-part-1-
 The “Campus Connect Client” is in beta-mode, but ready for early adopters to try out. In the plot, the heavy-side step function shows the moment at which OSG was added to a user’s local campus submission from the [Palmetto](http://citi.clemson.edu/palmetto/) cluster at Clemson University.
 
 <figure>
-<img style="max-width:100%" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-Lincoln.png" alt="Lincoln"/>
+<img style="max-width:100%" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-Lincoln.png" alt="Chart of running jobs: submissions to Palmetto level off at around 400 jobs, then a second batch sent to the OSG starts all 1000 jobs"/>
 <figcaption>Work Courtesy Lincoln Bryant</figcaption>
 </figure>
 

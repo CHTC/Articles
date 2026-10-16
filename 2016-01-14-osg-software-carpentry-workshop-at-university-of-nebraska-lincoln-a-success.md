@@ -11,7 +11,7 @@ canonical_url: "https://osg-htc.org/news/2016/01/14/osg-software-carpentry-works
 
 image:
   path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-Screen-Shot-2016-01-14-at-8.52.04-AM.png"
-  alt: "Screen Shot 2016-01-14 at 8.52.04 AM"
+  alt: "Software Carpentry workshop at the University of Nebraska-Lincoln"
 
 description: |
     Another highly successful and well-attended joint OSG and Software Carpentry Workshop was held on
@@ -25,14 +25,14 @@ excerpt: |
     traveled from 4 different states in the surrounding region to attend the workshop.
 
 card_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-Screen-Shot-2016-01-14-at-8.52.04-AM.png"
-card_alt: "Screen Shot 2016-01-14 at 8.52.04 AM"
+card_alt: "Software Carpentry workshop at the University of Nebraska-Lincoln"
 
 ---
 
 Another highly successful and well-attended joint OSG and Software Carpentry Workshop was held on January 6th-8th hosted by the Holland Computing Center at the University of Nebraska, Lincoln (UNL).  Over 40 people participated in this fourth training event in this format.  Non-local participants traveled from 4 different states in the surrounding region to attend the workshop.  The curriculum began with 2 days of intensive bootcamp-style Software Carpentry lessons covering the Unix Shell, Git, and Python, and concluded with a full day of hands-on OSG training.  Students learned the basics of how to submit OSG jobs, troubleshoot failed jobs, scale up to large workflows, as well as how to handle data and job dependencies.
 
 <figure>
-<img style="max-width:100%" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-Screen-Shot-2016-01-14-at-8.52.04-AM.png" alt="Screen Shot 2016-01-14 at 8.52.04 AM"/>
+<img style="max-width:100%" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-Screen-Shot-2016-01-14-at-8.52.04-AM.png" alt="Participants with laptops at the Software Carpentry workshop at the University of Nebraska-Lincoln"/>
 <figcaption>Photo courtesy Natasha Pavlovikj</figcaption>
 </figure>
 

@@ -11,7 +11,7 @@ canonical_url: "https://osg-htc.org/news/2016/02/23/sbgrid-uses-the-osg-to-accel
 
 image:
   path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-den2.jpeg"
-  alt: "den2"
+  alt: "Protein structure image courtesy Gunnar F. Schröder"
 
 description: |
     Biologists looking at the structure of molecules like proteins and nucleic acids are interested in
@@ -25,28 +25,25 @@ excerpt: |
     the Open Science Grid (OSG) has become critical in advancing the field of structural biology.
 
 card_src: "https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-den2.jpeg"
-card_alt: "den2"
+card_alt: "Protein structure image courtesy Gunnar F. Schröder"
 
 ---
 
 Biologists looking at the structure of molecules like proteins and nucleic acids are interested in how they acquire their structures and how alterations may affect their function. This understanding is a key factor in modern disease treatment and prevention, and computational power such as that of the Open Science Grid (OSG) has become critical in advancing the field of structural biology.
 
-<figure>
-<img style="max-width:100%" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-den2.jpeg" alt="den2"/>
-<figcaption>Image courtesy Gunnar F. Schröder, used with permission</figcaption>
+<figure class="figure float-end" style="margin-left: 1em">
+  <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-den2.jpeg" class="figure-img img-fluid rounded" alt="Protein structure image courtesy Gunnar F. Schröder" width="250px">
+  <figcaption class="figure-caption">Image courtesy Gunnar F. Schröder, used with permission<br/></figcaption>
 </figure>
 
 In 2000, Dr. Piotr Sliz established [SBGrid](https://sbgrid.org/) to provide software and computing to fellow biologists. SBGrid has since expanded to support biology laboratories with a large library of scientific applications. It now has 245 member labs worldwide and supports over 270 scientific software applications. In 2010, SBGrid established a Virtual Organization (SBGrid VO) within the OSG, adding a key grid computing element. SBGrid soon became one of OSG’s biggest users and key partners. (Dr. Sliz is a member of the OSG Council, and SBGrid hosted the 2011 OSG All-Hands Meeting at Harvard Medical School.)
 
-Mick Timony maintains and develops the SBGrid Science Portal—its high performance computing portal—a
-
-<figure>
-<img style="max-width:100%" src="https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-Mick_Timony_brightened.jpeg" alt="Mick_Timony_brightened"/>
+<figure class="figure float-start" style="margin-right: 1em">
+  <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-Mick_Timony_brightened.jpeg" class="figure-img img-fluid rounded" alt="Mick Timony" width="350px">
+  <figcaption class="figure-caption">Mick Timony, photo courtesy Brian Sherman<br/></figcaption>
 </figure>
 
-nd related OSG infrastructure. He also coordinates software installations for member labs and maintains the SBGrid website. Because Timony is a computer scientist, he can provide the kind of technical support that his non-technical scientists need for effective research.
-
-*Mick Timony, photo courtesy Brian Sherman*
+Mick Timony maintains and develops the SBGrid Science Portal—its high performance computing portal—and related OSG infrastructure. He also coordinates software installations for member labs and maintains the SBGrid website. Because Timony is a computer scientist, he can provide the kind of technical support that his non-technical scientists need for effective research.
 
 “The SBGrid started by building software for structural biologists at Harvard Medical School,” said Timony. “That effort grew into us becoming a bigger organization that built more and more software. There is a lot of software out there that is not easy to use. We take care of that for them. We use a chargeback model for many of our services. We also offer core computational services for local research groups, and anything we offer on the OSG is free to the community.”
 
