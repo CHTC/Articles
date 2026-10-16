@@ -29,7 +29,7 @@ card_alt: "Jinbo Xu"
 
 Proteins are key to our bodies functioning properly, while abnormal modifications of proteins or improperly functioning proteins are often a cause of pathological and disease conditions. Proteins also interact with other molecules to make our bodies function properly or, at times, improperly.
 
-<figure class="figure float-end" style="margin-left: 1em">
+<figure class="figure float-end" style="margin-left: 1em; width: 250px;">
   <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-jinbo_xu.jpeg" class="figure-img img-fluid rounded" alt="Jinbo Xu" width="250px">
   <figcaption class="figure-caption">Photo Courtesy of Jinbo Xu<br/></figcaption>
 </figure>

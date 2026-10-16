@@ -29,7 +29,7 @@ card_alt: "Martin Purschke"
 
 ---
 
-<figure class="figure float-end" style="margin-left: 1em">
+<figure class="figure float-end" style="margin-left: 1em; width: 250px;">
   <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-Martin.jpg" class="figure-img img-fluid rounded" alt="Martin Purschke" width="250px">
   <figcaption class="figure-caption">Photo Martin Purschke<br/></figcaption>
 </figure>
@@ -40,7 +40,7 @@ BNL’s Martin Purschke is actively planning the next version of PHENIX—curren
 
 sPHENIX will reuse much of the existing PHENIX infrastructure, but the challenge now, according to Purschke, is moving from detecting single particles to detecting jets. “The next big thing will be measuring ‘jets,’ which are like a spray of particles moving in a very narrow cone. This calls for a different detector design. We received a super-conducting magnet from SLAC National Accelerator Laboratory, which we already have on site. It is the core of the new experiment,” says Purschke. Just shy of three meters in diameter and about four meters long, the cylinder will be instrumented with detectors such as calorimeters. “Collisions will happen in the center of the cylinder, and the particles will come out every which way, even to the edges of the cylinder. Particles will no longer be coming straight into the detector modules, but will hit the modules at the edge of the cylinder at significant angles.”
 
-<figure class="figure float-start" style="margin-right: 1em">
+<figure class="figure float-start" style="margin-right: 1em; width: 250px;">
   <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-sPHENIX.png" class="figure-img img-fluid rounded" alt="Engineering drawing of sPHENIX" width="250px">
   <figcaption class="figure-caption">An engineering drawing of sPHENIX by Richard Ruggiero, courtesy Brookhaven National Laboratory.<br/></figcaption>
 </figure>

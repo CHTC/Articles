@@ -29,7 +29,7 @@ card_alt: "Dong Xu"
 
 ---
 
-<figure class="figure float-end" style="margin-left: 1em">
+<figure class="figure float-end" style="margin-left: 1em; width: 250px;">
   <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-dong-xu.jpg" class="figure-img img-fluid rounded" alt="Dong Xu" width="250px">
   <figcaption class="figure-caption">Dong Xu: Photo courtesy of the University of Missouri<br/></figcaption>
 </figure>
@@ -40,7 +40,7 @@ Five years ago, researchers affiliated with the Christopher S. Bond Life Science
 
 The researchers developed the Soybean Knowledge Base (SoyKB), a comprehensive web resource that handles the management of soybean genomics data and provides tools for researchers to search for and analyze soy gene families and traits. “SoyKB has molecular and protein data and many other types of data to help researchers analyze their own work and search for useful information,” said Xu.
 
-<figure class="figure float-start" style="margin-right: 1em">
+<figure class="figure float-start" style="margin-right: 1em; width: 350px;">
   <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-SoyKB.jpg" class="figure-img img-fluid rounded" alt="SoyKB architecture" width="350px">
   <figcaption class="figure-caption">SoyKB architecture. SoyKB has four modules, including the back-end MySQL database that incorporates and integrates all the soybean genomics and “-omics” data from various experiments. It is designed to contain information on six different entities: genes/proteins, miRNAssRNAs, metabolites, SNPs, Plant Introduction (PI) lines and traits. The other three front-end modules are the web interface, genome browser and data integration. Image used with permission from Dong Xu.<br/></figcaption>
 </figure>

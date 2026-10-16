@@ -27,7 +27,7 @@ card_alt: "Wisconsin Institutes for Discovery"
 
 ---
 
-<figure class="figure float-end" style="margin-left: 1em">
+<figure class="figure float-end" style="margin-left: 1em; width: 350px;">
   <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-Wisconsin_Institutes_for_Discovery.jpg" class="figure-img img-fluid rounded" alt="Wisconsin Institutes for Discovery" width="350px">
   <figcaption class="figure-caption">Wisconsin Institutes for Discovery — Photo courtesy of Wikimedia Commons<br/></figcaption>
 </figure>

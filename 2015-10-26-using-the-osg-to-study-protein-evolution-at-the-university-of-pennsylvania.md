@@ -29,7 +29,7 @@ card_alt: "Joshua Plotkin"
 
 ---
 
-<figure class="figure float-end" style="margin-left: 1em">
+<figure class="figure float-end" style="margin-left: 1em; width: 250px;">
   <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-Plotkin2.png" class="figure-img img-fluid rounded" alt="Joshua Plotkin" width="250px">
   <figcaption class="figure-caption">Image courtesy Joshua Plotkin<br/></figcaption>
 </figure>
@@ -40,7 +40,7 @@ Postdocs can help open new horizons. Just ask Joshua Plotkin, professor of biolo
 
 Plotkin and his colleagues are trying to understand how evolution works at the molecular scale in DNA—where mutations actually arise. Even though they are focused on the molecular level, the questions they are trying to answer focus on the big picture: How did evolution produce complicated organisms, or even complex parts like vertebrate eyes? How did complex things arise from seemingly simple things like bacteria?
 
-<figure class="figure float-start" style="margin-right: 1em">
+<figure class="figure float-start" style="margin-right: 1em; width: 350px;">
   <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-influenza-virus-protein.png" class="figure-img img-fluid rounded" alt="Computationally predicted structure of an influenza virus protein" width="350px">
   <figcaption class="figure-caption">Image courtesy Joshua Plotkin. A computationally predicted structure of an influenza virus protein. Plotkin’s research group uses the Open Science Grid to study questions in evolutionary biology and ecology.<br/></figcaption>
 </figure>

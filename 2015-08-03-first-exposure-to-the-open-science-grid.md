@@ -29,7 +29,7 @@ card_alt: "Baudilio Tejerina"
 
 ---
 
-<figure class="figure float-end" style="margin-left: 1em">
+<figure class="figure float-end" style="margin-left: 1em; width: 250px;">
   <img src="https://raw.githubusercontent.com/CHTC/Articles/main/images/osg-BTejerina.png" class="figure-img img-fluid rounded" alt="Baudilio Tejerina" width="250px">
   <figcaption class="figure-caption">Image courtesy Baudilio Tejerina<br/></figcaption>
 </figure>
