@@ -46,7 +46,7 @@ Professor Koita’s class made up a portion of the 250 remote participants who a
 
 ...
 
-You can learn more about HTC24 [here](https://chtc.cs.wisc.edu/htc-24-event.html) in our news recap story and learn more about the upcoming HTC25 conference to be held June 2-6, 2025, [here](https://chtc.cs.wisc.edu/events/2025/01/throughput-computing-week-2025).
+You can learn more about HTC24 [here](https://chtc.cs.wisc.edu/htc-24-event.html) in our news recap story and learn more about the upcoming HTC25 conference to be held June 2-6, 2025, [here](https://htcondor.org/past_condor_weeks.html).
 
 _____________________________________________________________________________________
 

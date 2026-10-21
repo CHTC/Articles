@@ -79,7 +79,7 @@ While the model organism Morales used was unique, the tools that she integrated 
 salamanders, ants, and penguins; she reasons, “the good thing is that almost all the tools we use can be applied to other organisms, including humans.”
 
 Morales has moved onto a new position since her time at the AMNH, but HTC is still an important aspect of her work. She’s now a postdoctoral fellow at the 
-[LOEWE Center for Translational Biodiversity Genomics](https://tbg.senckenberg.de/) in Frankfurt, Germany, where she’s analysing the genomes of bats who could be potential reservoirs of SARS-CoV2
+LOEWE Center for Translational Biodiversity Genomics in Frankfurt, Germany, where she’s analysing the genomes of bats who could be potential reservoirs of SARS-CoV2
 as part of the [Bat1K Project](https://bat1k.com/). Applying similar strategies that she used at the AMNH, she’s looking for genetic signatures that could be linked to higher 
 coronavirus resistance. Describing the impacts of HTC on this work, Morales reflects: “Being able to have the results in just a couple of weeks or in a couple of 
 days is amazing. With the COVID-19 project, this really matters for informing the research of other groups.”

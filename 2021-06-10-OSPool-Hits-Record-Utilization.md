@@ -34,7 +34,7 @@ The people behind these big numbers deserve some recognition. Researchers respon
 
   - The [Event Horizon Telescope (EHT),](https://eventhorizontelescope.org/) an international collaboration capturing the first image of a black hole through the creation of a virtual Earth-sized telescope 
    - Michigan State University researcher Martin Berz, who conducts simulations of the [Muon g-2 Experiment at Fermilab](https://muon-g-2.fnal.gov/) 
-  - Researcher [Susanne Pfeifer](https://biodesign.asu.edu/susanne-pfeifer) from Arizona State University investigating genomics and evolution. 
+  - Researcher Susanne Pfeifer from Arizona State University investigating genomics and evolution. 
 
 
 Many other researchers nationwide are tapping into the OSPool and are contributing to the long tail of science. Access to the OSPool is free and open to:

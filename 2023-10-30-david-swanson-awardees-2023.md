@@ -37,8 +37,8 @@ The award reflects Swanson’s and [OSG School’s](https://osg-htc.org/user-sch
 on helping people develop their skills in technology and advancing science with large-scale 
 computing, OSG research facilitation lead Christina Koch says.
 
-Researchers — like [Jimena González Lozano](https://www.physics.wisc.edu/directory/gonzalez-lozano-jimena/) 
-and [Aashish Tripathee](https://lsa.umich.edu/physics/people/research-fellows/aashisht.html) who sought 
+Researchers — like Jimena González Lozano 
+and Aashish Tripathee who sought 
 the OSG School’s high-throughput computing (HTC) resources to solve complex computational challenges,
 and in turn, were able to evolve their research projects — have been honored with the award since 
 its establishment in 2019. González is a Department of Physics observational cosmology Ph.D. student at

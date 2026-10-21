@@ -33,8 +33,6 @@ All this has culminated in a proposal from the project to add a sentence to the 
 
 *Consortium members recognize that the OSG is a sharing ecosystem and strive to maximize the sharing of computing resources, software, and other assets to enable science.*
 
-*[http://osg-docdb.opensciencegrid.org/cgi-bin/RetrieveFile?docid=70&extension=pdf](http://osg-docdb.opensciencegrid.org/cgi-bin/RetrieveFile?docid=70&extension=pdf)*
-
 We look forward to the next decade based on this articulation of our ecosystem to the service of science.
 
 ~ Ruth Pordes<br/> OSG Council Chair

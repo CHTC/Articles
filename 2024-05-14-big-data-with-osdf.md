@@ -33,7 +33,7 @@ excerpt: |
 
 Map featuring the locations of current OSDF [caches in the federation](https://osg-htc.org/docs/data/stashcache/overview/#architecture).
 
-When transferring big datasets, researchers may face numerous obstacles. University of Michigan Physics post-doctoral research fellow and [OSG David Swanson Awardee](https://osg-htc.org/spotlights/david-swanson-awardees-2023.html)  [Aashish Tripathee](https://lsa.umich.edu/physics/people/research-fellows/aashisht.html) faced these challenges too while conducting research on ripples in space-time, or continuous gravitational waves. Due to the sizing of his datasets, Tripathee needed to transfer over 30,000 gigabytes.
+When transferring big datasets, researchers may face numerous obstacles. University of Michigan Physics post-doctoral research fellow and [OSG David Swanson Awardee](https://osg-htc.org/spotlights/david-swanson-awardees-2023.html)  Aashish Tripathee faced these challenges too while conducting research on ripples in space-time, or continuous gravitational waves. Due to the sizing of his datasets, Tripathee needed to transfer over 30,000 gigabytes.
 
 Over a year ago, Tripathee began using the [Open Science Data Federation (OSDF)](https://osg-htc.org/services/osdf) service that allows for the efficient delivery of data to compute as part of his workflows on the [OSPool](https://osg-htc.org/). The OSDF supports the sharing of datasets staged in autonomous “origins” that can move data to compute resources around the world through a global network of caches.
 

@@ -21,9 +21,9 @@ excerpt: |
 
 ---
 
-The 2015 Open Science Grid all-hands meeting is now open for registration!  Please visit [our website](http://sites.northwestern.edu/osg-ahm2015/register/) to sign up.
+The 2015 Open Science Grid all-hands meeting is now open for registration!
 
-The meeting will be held from Monday, March 23 to Friday, March 27, 2015 at Northwestern University’s Evanston Campus, Illinois.  Please visit our website for more information about the format of the meeting and what is included in registration: [ click here](http://sites.northwestern.edu/osg-ahm2015).  If you have any questions, please contact [Pamela Villalovoz](mailto:pmv@northwestern.edu).
+The meeting will be held from Monday, March 23 to Friday, March 27, 2015 at Northwestern University’s Evanston Campus, Illinois.  If you have any questions, please contact [Pamela Villalovoz](mailto:pmv@northwestern.edu).
 
 The program will be based on the successful format from previous years, and details will be available in early 2015: [click here](https://indico.fnal.gov/conferenceDisplay.py?confId=8580).  If you would be interested in participating in the planning process or the program itself, please do not hesitate to [contact us](mailto:osg-contact@opensciencegrid.org).
 

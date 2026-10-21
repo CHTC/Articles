@@ -29,7 +29,7 @@ The CERN IT team carried out a stress test on its [computing infrastructure](htt
 
 
 
-In 2030, the [Large Hadron Collider](https://home.cern/science/accelerators/large-hadron-collider), the world’s largest and most powerful particle accelerator, will become the [High- Luminosity LHC](https://home.cern/science/accelerators/high-luminosity-lhc) (HL-LHC), creating more particle collisions per second and increasing the amount of data able to be collected. [The European Organization for Nuclear Research](https://home.cern/), or CERN, has begun a series of tests to prepare data infrastructure for the massive amounts of data coming its way from the HL-LHC.
+In 2030, the [Large Hadron Collider](https://home.cern/science/accelerators/large-hadron-collider), the world’s largest and most powerful particle accelerator, will become the High- Luminosity LHC (HL-LHC), creating more particle collisions per second and increasing the amount of data able to be collected. [The European Organization for Nuclear Research](https://home.cern/), or CERN, has begun a series of tests to prepare data infrastructure for the massive amounts of data coming its way from the HL-LHC.
 
 
 

@@ -58,6 +58,4 @@ Jones said it was important to know they could do it with several different site
 
 Jones says the spring 2014 data challenge also broadened key infrastructure partnerships. “We were able to strengthen ties with a University of Connecticut campus in another part of the state (Farmington). They have significant IT resources. We are working on overcoming the barriers to collaboration across the campuses. We received a National Science Foundation grant to build a network infrastructure to facilitate low-latency, high-throughput transfer of scientific data between campuses and over Internet2. The grant has a component that goes to the Health Center on the Farmington campus. I’m anxious to see how OSG storage works using this improved throughput.”
 
-[Read more about GlueX](http://www.gluex.org/GlueX/Home.html).
-
 ~ Greg Moore and Sarah Engel
