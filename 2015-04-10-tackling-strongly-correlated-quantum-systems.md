@@ -1,6 +1,6 @@
 ---
 title: "Tackling Strongly Correlated Quantum Systems on OSPool"
-canonical_url:
+canonical_url: "https://osg-htc.org/news/2015/04/10/tackling-strongly-correlated-quantum-systems/"
 image:
     path: https://raw.githubusercontent.com/CHTC/Articles/main/images/Fermion-Bag-300x300.jpg
     alt: Illustration of a fermion bag configuration.

@@ -6,7 +6,7 @@ publish_on:
   
 type: news 
 
-canonical_url: http://htcondor.org/featured-users/2023-01-27-Throughput-Computing-2023.html
+canonical_url: "https://htcondor.org/featured-users/2023-01-27-Throughput-Computing-2023.html"
 
 image:
   path: https://raw.githubusercontent.com/images/capital.jpeg

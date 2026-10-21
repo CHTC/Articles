@@ -12,7 +12,7 @@ publish_on:
   
 type: news
 
-canonical_url: "https://pelicanplatform.org/news/2024/12/20/sub-secrets"
+canonical_url: "https://pelicanplatform.org/news/2024/12/20/sun-secrets"
 
 
 image:

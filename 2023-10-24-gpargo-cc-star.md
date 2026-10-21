@@ -11,6 +11,8 @@ publish_on:
   
 type: user
 
+canonical_url: "https://osg-htc.org/spotlights/2023/10/24/gpargo-cc-star/"
+
 image:
   path: https://raw.githubusercontent.com/CHTC/Articles/main/images/gpargo.png
   alt: GP-ARGO node locations

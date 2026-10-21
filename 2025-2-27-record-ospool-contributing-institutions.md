@@ -7,6 +7,8 @@ publish_on:
   - chtc
   - htcondor
 type: news
+
+canonical_url: "https://osg-htc.org/news/2025/2/27/record-ospool-contributing-institutions/"
 image:
   path: https://raw.githubusercontent.com/CHTC/Articles/main/images/record-contributing-institutions/oru.jpg
   alt: Oral Roberts University image

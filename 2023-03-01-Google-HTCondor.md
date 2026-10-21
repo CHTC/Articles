@@ -10,7 +10,7 @@ publish_on:
 
 type: user
 
-canonical_url: https://www.chtc.cs.wisc.edu/Google-HTCondor.html
+canonical_url: "https://chtc.cs.wisc.edu/Google-HTCondor.html"
 
 image:
     path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/google-qvm.jpg"

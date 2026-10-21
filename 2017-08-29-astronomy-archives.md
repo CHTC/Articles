@@ -1,6 +1,6 @@
 ---
 title: "Astronomy archives are creating new science every day"
-canonical_url: https://raw.githubusercontent.com/CHTC/Articles/main/images/groom-title.jpg
+canonical_url: "https://osg-htc.org/news/2017/08/29/astronomy-archives/"
 image:
     path: https://raw.githubusercontent.com/CHTC/Articles/main/images/groom-title.jpg
     alt: Trappist Solar System

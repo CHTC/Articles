@@ -7,6 +7,8 @@ publish_on:
   - chtc
   - htcondor
 type: news
+
+canonical_url: "https://path-cc.io/news/2025-02-27-path-x-nairr/"
 image:
   path: https://raw.githubusercontent.com/CHTC/Articles/main/images/nairr-card.jpg
   alt: Abstract image of dots in rings around a center point expanding outwards

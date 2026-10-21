@@ -11,7 +11,7 @@ publish_on:
 # everywhere and no page was built for it. `user` keeps it on the
 # spotlights page, where the Jekyll site listed it (`type != 'news'`).
 type: user
-canonical_url: "https://htcondor.org/dr-ken-judd-htc-26.html"
+canonical_url: "https://htcondor.org/featured-users/2026-07-23-dr-ken-judd-htc-26.html"
 image:
   path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/dr-ken-judd-thumbnail.jpg"
   alt: "Ken Judd presenting at HTC26"

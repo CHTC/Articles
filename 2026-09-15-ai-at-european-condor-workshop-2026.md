@@ -11,7 +11,7 @@ publish_on:
 
 type: news
 
-canonical_url: "https://htcondor.org/ai-at-european-condor-workshop-2026.html"
+canonical_url: "https://htcondor.org/featured-users/2026-09-15-ai-at-european-condor-workshop-2026.html"
 
 image:
   path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/1366x460_HTCONDOR_bandeau26.png"

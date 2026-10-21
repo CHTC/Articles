@@ -6,7 +6,7 @@ publish_on:
   - htcondor
   - path
 type: news
-canonical_url: "https://chtc.cs.wisc.edu/vera-c-rubin-community-presents-at-htc-week-2026.html"
+canonical_url: "https://chtc.cs.wisc.edu/rubin-observatory-community-present-htc26.html"
 image:
   path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/Trifid and Lagoon (Image).jpeg"
   alt: "Image of Trifid and Lagoon Nebulas from the Vera C. Rubin Observatory. Credits: NSF–DOE Vera C. Rubin Observatory"

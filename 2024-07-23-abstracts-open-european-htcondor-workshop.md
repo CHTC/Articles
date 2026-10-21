@@ -9,7 +9,7 @@ publish_on:
 
 type: news
 
-canonical_url:  https://chtc.cs.wisc.edu/abstracts-open-european-htcondor-week
+canonical_url: "https://htcondor.org/featured-users/2024-07-23-abstracts-open-european-htcondor-workshop.html"
 
 image:
   path: "https://raw.githubusercontent.com/CHTC/Articles/main/images/stock_card.jpeg"

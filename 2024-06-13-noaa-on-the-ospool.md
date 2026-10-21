@@ -13,7 +13,7 @@ publish_on:
 
 type: user
 
-canonical_url:  https://pelicanplatform.org/user-stories/2024/06/13/noaa
+canonical_url: "https://pelicanplatform.org/user-stories/2024/06/13/noaa-on-the-ospool"
 
 image:
   path: https://raw.githubusercontent.com/CHTC/Articles/main/images/noaa-banner.png

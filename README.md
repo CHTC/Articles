@@ -88,9 +88,14 @@ banner_alt: Text Description of image
 You can use the below list to decide the correct canonical URL, fill in the appropriate tags as suggested above for naming the file. 
 
 - CHTC: https://chtc.cs.wisc.edu/<title>.html
-- OSG: https://osg-htc.org/spotlights/<title>.html
+- OSG:
+  - `type: news`: https://osg-htc.org/news/<YEAR\>/<MONTH\>/<DAY\>/<title\>/
+  - `type: user`: https://osg-htc.org/spotlights/<YEAR\>/<MONTH\>/<DAY\>/<title\>/
 - PATh: https://path-cc.io/news/<YEAR-MONTH-DAY-title\>/
 - HTCondor: https://htcondor.org/featured-users/<YEAR-MONTH-DAY-title\>.html
+- Pelican:
+  - `type: news`: https://pelicanplatform.org/news/<YEAR\>/<MONTH\>/<DAY\>/<title\> (no trailing slash)
+  - `type: user`: https://pelicanplatform.org/user-stories/<YEAR\>/<MONTH\>/<DAY\>/<title\> (no trailing slash)
 
 ##### Reserved Characters
 

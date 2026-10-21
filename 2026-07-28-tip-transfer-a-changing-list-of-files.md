@@ -7,7 +7,7 @@ publish_on:
 
 type: tech-blog
 
-canonical_url: "https://htcondor.org/2026-07-28-tip-transfer-a-changing-list-of-files.html"
+canonical_url: "https://htcondor.org/featured-users/2026-07-28-tip-transfer-a-changing-list-of-files.html"
 
 excerpt: How do you transfer a list of files that changes with each job? Using the queue <variable> from <list> syntax, you can!
 

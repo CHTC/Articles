@@ -7,6 +7,8 @@ publish_on:
   - osg
   - path
 type: news
+
+canonical_url: "https://chtc.cs.wisc.edu/feb-news-shorts.html"
 image: 
   path: https://raw.githubusercontent.com/CHTC/Articles/main/images/feb-news-shorts/lab.png
   alt: Lab setting overlooking microscope
