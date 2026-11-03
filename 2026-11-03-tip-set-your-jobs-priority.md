@@ -32,4 +32,4 @@ For jobs you want to deprioritize, add:
 priority = -10
 ```
 
-Also consider using [`condor_qedit`](https://htcondor.readthedocs.io/en/latest/man-pages/condor_qedit.html) to modify the priorities of jobs currently in the queue!
+Also consider using [`condor_prio`](https://htcondor.readthedocs.io/en/latest/man-pages/condor_prio.html) to modify the priorities of jobs currently in the queue!
