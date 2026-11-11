@@ -6,6 +6,7 @@ publish_on:
   - osg
   - htcondor
   - fabaid
+  - path
 type: user
 canonical_url: "https://chtc.cs.wisc.edu/neutron-stars-and-computing-challenges.html"
 image:
